@@ -1,0 +1,1 @@
+I’ve just moved my blog from Google’s Blogger service to my own self-hosted WordPress blog. Previously, the blog was called [The Browser Notebook](https://browser-notebook.blogspot.de), but I’ve moved it because, by hosting it myself, I have far more control over the blog and its design. Blogger is a good service, but it just can’t beat a good ol’ self-hosted copy of WordPress.

@@ -1,0 +1,24 @@
+{
+  "id": "mac-os-8-as-an-electron-app",
+  "title": "Mac OS 8 as an Electron App",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "macos8electron.jpg",
+  "excerpt": "Macintosh.js is an open-source project that runs Mac OS 8. It emulates a 1991 Macintosh Quadra and runs the full operating system with a few applications.\n",
+  "categories": [
+    "featured",
+    "operating-systems"
+  ],
+  "tags": [
+    "Electron",
+    "JavaScript",
+    "Mac",
+    "Mac OS 8",
+    "Retro computing"
+  ],
+  "publishedDate": "2024-03-17T11:14:02",
+  "updatedAt": "2024-03-17T11:14:07",
+  "wordpressId": 2373
+}
