@@ -1,0 +1,1 @@
+A few days ago I ordered an upgrade to the software I use to create my music. It’s called Reason. I ordered version 4 which came out late last year. It came in today and I’ve been playing with it and all the new toys that it came with. I’m pretty excited about it. We’ll see how it affects my music. Should be good.

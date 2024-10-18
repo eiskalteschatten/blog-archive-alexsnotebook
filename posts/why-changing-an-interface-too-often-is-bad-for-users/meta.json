@@ -1,0 +1,23 @@
+{
+  "id": "why-changing-an-interface-too-often-is-bad-for-users",
+  "title": "Why Changing an Interface Too Often Is Bad for Users",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "bruce-mars-xj8qrWvuOEs-unsplash-scaled-1.jpg",
+  "excerpt": "Despite what a lot of application developers think, changing a user interface too often is bad for users. It confuses users and generally generates distrust in your product.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "design",
+    "GUI",
+    "UI",
+    "UX"
+  ],
+  "publishedDate": "2020-09-02T08:20:00",
+  "updatedAt": "2024-03-26T11:00:48",
+  "wordpressId": 3322
+}

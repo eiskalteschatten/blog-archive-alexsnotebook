@@ -1,0 +1,25 @@
+{
+  "id": "using-redis-sentinel-with-docker-and-marathon",
+  "title": "Using Redis Sentinel with Docker and Marathon",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "redis-logo_square.svg",
+  "excerpt": "Using Redis Sentinel with Docker and Marathon is a relatively complex procedure that requires every instance of Redis to be able to communicate with all other instances.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "database",
+    "Docker",
+    "Marathon",
+    "memory cache",
+    "Redis",
+    "Redis Sentinel"
+  ],
+  "publishedDate": "2016-11-18T11:49:28",
+  "updatedAt": "2023-01-08T19:34:47",
+  "wordpressId": 1300
+}

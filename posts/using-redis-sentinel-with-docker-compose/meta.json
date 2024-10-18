@@ -1,0 +1,24 @@
+{
+  "id": "using-redis-sentinel-with-docker-compose",
+  "title": "Using Redis Sentinel with Docker Compose",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "redis-logo_square.svg",
+  "excerpt": "This article describes how to create a failover solution using Redis Sentinel and Docker Compose.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "database",
+    "Docker",
+    "memory cache",
+    "Redis",
+    "Redis Sentinel"
+  ],
+  "publishedDate": "2016-11-14T11:34:33",
+  "updatedAt": "2023-01-08T19:30:28",
+  "wordpressId": 1277
+}

@@ -1,0 +1,24 @@
+{
+  "id": "using-redis-sentinel-with-docker-compose-2020-edition",
+  "title": "Using Redis Sentinel with Docker Compose: 2020 Edition",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "twitter-jankolario-lRoX0shwjUQ-unsplash-scaled-1.jpg",
+  "excerpt": "This article describes how to create a failover solution using Redis Sentinel and Docker Compose.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "database",
+    "Docker",
+    "Docker Compose",
+    "Redis",
+    "Redis Sentinel"
+  ],
+  "publishedDate": "2020-07-13T21:39:00",
+  "updatedAt": "2024-03-26T11:27:32",
+  "wordpressId": 3372
+}

@@ -1,0 +1,5 @@
+I know it’s been a while since ScratchPad has been updated. The fiasco with my old Mac’s harddrive dying and me being stuck with Windows for what seemed like eternity certainly did not help. Don’t worry though, I haven’t abandoned it. In fact, I have several things I plan to do with it in the upcoming versions.
+
+Some of the things I want to do with it include 3-Finger trackpad gesture support for new MacBook and MacBook Pros, add a Polish localization (thanks to Andrzej Kopeć, who submitted the Polish translation), add a “Take Note” button of some sort to the system-wide services menu, ability to search through notes (with an option to allow Spotlight support), and several other updates. I also am hoping to find time to create an iPhone/iPod Touch version with syncing support to the desktop version. Also on the todo list is perhaps a dashboard widget for quick access to notes.
+
+Now that I’ve finally got another Mac, further development can commence soon, time permitting.

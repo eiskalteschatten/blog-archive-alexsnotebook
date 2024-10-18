@@ -1,0 +1,22 @@
+{
+  "id": "vue-js-route-level-code-splitting-with-a-page-loader",
+  "title": "Vue.js: Route-Level Code Splitting with a Page Loader",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "blake-connally-B3l0g6HLxr8-unsplash-scaled.jpg",
+  "excerpt": "Vue.js makes it easy to implement router-level code splitting. Page loaders are a great way to indicate that your application is loading.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "Node.js",
+    "Vue Router",
+    "Vue.js"
+  ],
+  "publishedDate": "2023-05-10T08:44:59",
+  "updatedAt": "2023-04-25T09:58:36",
+  "wordpressId": 2840
+}

@@ -1,0 +1,24 @@
+{
+  "id": "using-linux-on-my-pc",
+  "title": "Using Linux on My PC",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Fedora-May-27-2024.png",
+  "excerpt": "I installed Fedora on my PC to try out as my daily driver. I loved the experience except for a few irritations that eventually got me back to using Windows.\n",
+  "categories": [
+    "development",
+    "operating-systems",
+    "programs-tools"
+  ],
+  "tags": [
+    "Fedora",
+    "Linux",
+    "Microsoft",
+    "Windows"
+  ],
+  "publishedDate": "2024-08-08T08:34:00",
+  "updatedAt": "2024-08-06T14:35:00",
+  "wordpressId": 3664
+}
