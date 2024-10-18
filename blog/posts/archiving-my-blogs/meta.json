@@ -1,0 +1,21 @@
+{
+  "id": "archiving-my-blogs",
+  "title": "Archiving My Blogs",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "maksym-kaharlytskyi-Q9y3LRuuxmg-unsplash-scaled.jpg",
+  "excerpt": "I recently came across an interesting idea from one of the oldest blogs on the internet to back up my blogs to a public GitHub repository. This is the why and how.\n",
+  "categories": [
+    "development",
+    "projects",
+    "writing"
+  ],
+  "tags": [
+    "Blog"
+  ],
+  "publishedDate": "2024-10-18T21:52:42",
+  "updatedAt": "2024-10-18T21:54:01",
+  "wordpressId": 4983
+}
