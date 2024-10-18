@@ -1,0 +1,3 @@
+I know that this is old news by now, but I figure I will make a brief statement about it since it is relevant to this blog. Google released Chrome 17 just over two weeks ago which includes some very important fixes. Several security holes were patched and, most importantly for this blog, the YouTube bug was fixed which means [my complaint earlier](https://browser-notebook.blogspot.com/2012/02/why-i-dislike-google-chrome.html) about Chrome not working with this blog is no longer valid.
+
+You can find more information about the release on [Google’s Chrome Blog](https://chrome.blogspot.com/2012/02/faster-browsing-safer-downloading.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FEgta+%28Google+Chrome+Blog%29).

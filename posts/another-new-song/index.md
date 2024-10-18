@@ -1,0 +1,1 @@
+Good news! I’ve finished yet another new song. The bad news, however, is the PureVolume still isn’t working so I can’t upload it. I really hope they fix the problem soon. Or at the very least I would appreciate if they replied to my support ticket that I filed with them.

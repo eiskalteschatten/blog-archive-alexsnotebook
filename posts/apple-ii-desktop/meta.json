@@ -1,0 +1,23 @@
+{
+  "id": "apple-ii-desktop",
+  "title": "Apple II DeskTop",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "appleIIdesktop.gif",
+  "excerpt": "A little while ago, I stumbled upon an interesting project whose goal it is to emulate the Apple II DeskTop environment in the web browser.\n",
+  "categories": [
+    "notes",
+    "operating-systems",
+    "retro-software"
+  ],
+  "tags": [
+    "Apple",
+    "Apple ][",
+    "Emulation"
+  ],
+  "publishedDate": "2024-10-13T15:58:01",
+  "updatedAt": "2024-10-14T20:37:30",
+  "wordpressId": 4579
+}

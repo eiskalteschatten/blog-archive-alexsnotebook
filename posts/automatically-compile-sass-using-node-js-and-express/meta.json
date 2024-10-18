@@ -1,0 +1,24 @@
+{
+  "id": "automatically-compile-sass-using-node-js-and-express",
+  "title": "Automatically Compile SASS Using Node.js and Express",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "sass.svg",
+  "excerpt": "For about two years I have been using Grunt to compile my SASS files into CSS for projects for work as well as for personal projects such as this website. This workflow has served me well and I still use it for most of my PHP-based projects. However, I&#8217;ve come up with an even easier and faster solution for my Node.js-based applications.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "CSS",
+    "Express",
+    "Node.js",
+    "sass",
+    "scss"
+  ],
+  "publishedDate": "2017-12-04T17:00:51",
+  "updatedAt": "2023-01-08T23:09:44",
+  "wordpressId": 1399
+}

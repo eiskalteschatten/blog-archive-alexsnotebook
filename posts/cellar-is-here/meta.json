@@ -1,0 +1,21 @@
+{
+  "id": "cellar-is-here",
+  "title": "Cellar is here!",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Cellar-600.jpg",
+  "excerpt": "I&#8217;m pleased to announce that my new album, &#8220;Cellar&#8221;, has been released! And with it a completely new design for the website to reflect that new album artwork.\n",
+  "categories": [
+    "music",
+    "news"
+  ],
+  "tags": [
+    "Cellar",
+    "new album"
+  ],
+  "publishedDate": "2016-03-18T19:07:26",
+  "updatedAt": "2017-12-28T11:16:28",
+  "wordpressId": 1522
+}

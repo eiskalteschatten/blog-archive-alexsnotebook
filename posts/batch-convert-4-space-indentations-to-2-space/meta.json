@@ -1,0 +1,28 @@
+{
+  "id": "batch-convert-4-space-indentations-to-2-space",
+  "title": "Batch Convert 4-Space Indentations to 2-Space",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "bash.svg",
+  "excerpt": "While adding a linter to an old project, I wrote the following bash script to convert 4-space indentations to 2-space indentations. This example recursively looks for *.js files starting at the script&#8217;s location. Of course, it can be used for any type of file though by simply changing the extension.\n",
+  "categories": [
+    "development",
+    "featured",
+    "operating-systems",
+    "server"
+  ],
+  "tags": [
+    "bash",
+    "indentations",
+    "Linux",
+    "Mac",
+    "shell",
+    "spaces",
+    "tabs"
+  ],
+  "publishedDate": "2018-03-01T16:49:09",
+  "updatedAt": "2024-02-21T21:06:42",
+  "wordpressId": 1610
+}

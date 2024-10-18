@@ -1,0 +1,22 @@
+{
+  "id": "bookjournal-1-0-0-released",
+  "title": "BookJournal 1.0.0 Released",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "icon.png",
+  "excerpt": "I am happy to announce version 1.0.0 of BookJournal has been released! The program is free and available for Windows, macOS and Linux.\n",
+  "categories": [
+    "development",
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "BookJournal",
+    "Electron"
+  ],
+  "publishedDate": "2020-05-21T14:19:38",
+  "updatedAt": "2020-05-21T14:19:40",
+  "wordpressId": 2039
+}
