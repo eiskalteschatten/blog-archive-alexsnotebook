@@ -1,0 +1,1 @@
+To celebrate the release of my first new album in two years, you can now listen to The Pantry on Spotify. Yes, before its official release and even before the release date is announced! To make it even easier, I’ve embedded it below. Of course, you can also open it in your normal Spotify player by clicking [here](http://open.spotify.com/album/2R1odhjBopByfEqa6agf2D).

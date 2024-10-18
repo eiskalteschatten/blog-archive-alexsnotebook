@@ -1,0 +1,19 @@
+{
+  "id": "scratchpad-121-released",
+  "title": "ScratchPad 1.2.1 Released!",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "ScratchPad 1.2.1 had been released! This is what is new in the new version: French localization has been added. Added a &#8216;Show Ruler&#8217; toolbar icon. Current page number is now shown in title bar. Auto-save now works when navigating to a specific page number. ScratchPad no longer responds to letters typed in the Go To &#8230; more &#x2192;\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "ScratchPad"
+  ],
+  "publishedDate": "2008-05-30T08:07:00",
+  "updatedAt": "2024-10-15T10:42:24",
+  "wordpressId": 9
+}

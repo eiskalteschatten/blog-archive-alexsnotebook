@@ -1,0 +1,18 @@
+{
+  "id": "scratchpad-and-os-x-mountain-lion",
+  "title": "ScratchPad and OS X Mountain Lion",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "One of the security measures within Apple&#8217;s new version of OS X, Mountain Lion (10.8), is called Gatekeeper. This is essentially a means of blocking the running of all applications for OS X which are either not downloaded from the Mac App Store or are not signed by a certificate given to the developer by &#8230; more &#x2192;\n",
+  "categories": [
+    "projects"
+  ],
+  "tags": [
+    "ScratchPad"
+  ],
+  "publishedDate": "2012-06-19T11:04:55",
+  "updatedAt": "2024-10-15T10:41:59",
+  "wordpressId": 997
+}

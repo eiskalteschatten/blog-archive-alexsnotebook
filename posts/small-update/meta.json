@@ -1,0 +1,23 @@
+{
+  "id": "small-update",
+  "title": "Small Update",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I&#8217;m currently working on a small update for ScratchPad which will probably be version 1.4.1. This version will not a whole lot of new things included, but it will be necessary in anticipation of Apple&#8217;s release of Mountain Lion (OS X 10.8) this summer. The new version will be signed with Apple so that it &#8230; more &#x2192;\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "Gatekeeper",
+    "Lion",
+    "Mountain Lion",
+    "ScratchPad",
+    "Small Update"
+  ],
+  "publishedDate": "2012-05-13T14:00:37",
+  "updatedAt": "2024-10-15T10:41:59",
+  "wordpressId": 996
+}

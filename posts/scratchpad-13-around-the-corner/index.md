@@ -1,0 +1,1 @@
+ScratchPad version 1.3 is almost out! Although not all of the features I wanted to implement in this version are in it, what features are there are done. I just now have to localize, then it will be ready for release!

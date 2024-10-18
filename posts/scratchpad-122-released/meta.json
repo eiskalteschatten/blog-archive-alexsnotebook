@@ -1,0 +1,19 @@
+{
+  "id": "scratchpad-122-released",
+  "title": "ScratchPad 1.2.2 Released!",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "ScratchPad 1.2.2 has been released! Included in the new version: [Feature] Users can now delete pages via a new menu item or a new toolbar button. [Fixed] Empty pages are no longer saved and also automatically removed from the harddrive. [Fixed] Fixed a problem with the German localization and umlauts. You can download either by &#8230; more &#x2192;\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "ScratchPad"
+  ],
+  "publishedDate": "2008-06-08T18:42:08",
+  "updatedAt": "2024-10-15T10:42:00",
+  "wordpressId": 29
+}

@@ -1,0 +1,23 @@
+{
+  "id": "scratchpad-on-google-code",
+  "title": "ScratchPad on Google Code",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I am pleased to announce that the source for ScratchPad is now available on Google Code. While the source has always been available via a downloadable zip file from this website, I&#8217;ve decided to move it to Google Code in order to make it more accessible and easier for multiple people to contribute to the &#8230; more &#x2192;\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "code",
+    "developer",
+    "Google Code",
+    "Open Source",
+    "ScratchPad"
+  ],
+  "publishedDate": "2013-01-19T13:41:54",
+  "updatedAt": "2024-10-15T10:41:59",
+  "wordpressId": 998
+}

@@ -1,0 +1,19 @@
+{
+  "id": "scratchpad-123-released",
+  "title": "ScratchPad 1.2.3 Released!",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "ScratchPad 1.2.3 has been released! Included in the new version: [Changed] Moved &#8216;Delete Page&#8217; menu item to the File menu. [International] Dutch localization added. You can download either by selecting &#8220;Check for Updates&#8221; in the application menu or by downloading it here.\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "ScratchPad"
+  ],
+  "publishedDate": "2008-06-20T04:03:17",
+  "updatedAt": "2024-10-15T10:42:00",
+  "wordpressId": 30
+}

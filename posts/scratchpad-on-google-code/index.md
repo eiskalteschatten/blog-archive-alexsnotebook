@@ -1,0 +1,5 @@
+I am pleased to announce that the source for ScratchPad is now available on [Google Code](https://code.google.com/p/scratchpad-mac/). While the source has always been available via a downloadable zip file from this website, I’ve decided to move it to Google Code in order to make it more accessible and easier for multiple people to contribute to the project. For developers, this means that they will now be able to make their own developments and implement their own features while contributing to the project as a whole rather than just simply making their own “side project” based off of the original.
+
+I’m hoping this will make it easier and will generate some interest in the open source development community so that the development of ScratchPad will continue and perhaps even pick up pace as I am not able to work on it as much as I would like to by myself.
+
+For any developers who are interested in contributing, please visit the [Google Code](https://code.google.com/p/scratchpad-mac/) page and have a look at the [Project Goals](https://code.google.com/p/scratchpad-mac/wiki/ProjectGoals) page to get started.

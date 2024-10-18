@@ -1,0 +1,3 @@
+I am pleased to announce that several of Alex’s songs are [now available on SoundCloud](https://soundcloud.com/seifertmusic/) to listen to free of charge. Alex chose the songs personally to upload and many of them are ones he really likes from his older albums. To have a listen, either click on the SoundCloud button at the top or you can [click on this link](https://soundcloud.com/seifertmusic/).
+
+To celebrate this and the progress of the new album, we have decided to release one of the new songs from the new, as of yet unnamed album on SoundCloud. The song is called “Dumme Welt” which, translated, means “Dumb World”. [Have a listen!](https://soundcloud.com/seifertmusic/dumme-welt)
