@@ -1,0 +1,20 @@
+{
+  "id": "the-spectre-is-coming",
+  "title": "The Spectre is coming…",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "logo-lightbg.svg",
+  "excerpt": "The Spectre is coming&#8230; www.spectre-in-the-shadows.com\n",
+  "categories": [
+    "music",
+    "news"
+  ],
+  "tags": [
+    "Spectre in the Shadows"
+  ],
+  "publishedDate": "2016-02-22T19:18:04",
+  "updatedAt": "2016-05-23T20:56:07",
+  "wordpressId": 884
+}

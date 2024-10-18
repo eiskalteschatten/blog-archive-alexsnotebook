@@ -1,0 +1,21 @@
+{
+  "id": "the-old-west",
+  "title": "The Old West",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "the-old-west.png",
+  "excerpt": "I&#8217;m excited to announce a new project called The Old West and, as the name suggests, it is about the old west in the United States.\n",
+  "categories": [
+    "history",
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "The Old West"
+  ],
+  "publishedDate": "2021-04-19T09:11:00",
+  "updatedAt": "2023-01-08T13:06:43",
+  "wordpressId": 2479
+}

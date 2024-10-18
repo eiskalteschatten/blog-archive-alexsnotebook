@@ -1,0 +1,3 @@
+Not much has been heard from me in the past few months because I have been tremendously busy with other things and have had to essentially take an unwanted hiatus. In what little free time I’ve had though, I have begun progress with the next album. Four songs are already completed or mostly completed and another couple are in the process of being finished. I’m very excited about how these are turning out. Beginning in about another month or so, I should have much more time available to devote to it and plan to make more headway with it.
+
+I will post the latest news here!

@@ -1,0 +1,21 @@
+{
+  "id": "typewritter-an-open-source-backend-for-blogs",
+  "title": "Typewritter: An open-source backend for blogs",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "About a week and a half ago I embarked on my latest project: a blog backend. I have kept a blog on and off for almost a decade now and I use WordPress not only to power this blog, but also to power History Rhymes, the news section of my music website and the ScratchPad &#8230; more &#x2192;\n",
+  "categories": [
+    "development",
+    "projects"
+  ],
+  "tags": [
+    "Blogging",
+    "MySQL",
+    "Open Source"
+  ],
+  "publishedDate": "2013-11-25T23:17:44",
+  "updatedAt": "2020-04-25T12:48:38",
+  "wordpressId": 595
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-state-of-scratchpad",
+  "title": "The State of ScratchPad",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Icon3.png",
+  "excerpt": "Since it&#8217;s been a few months since I wrote my last progress update on ScratchPad 2.0, I thought I would write a bit about where the development of the new version currently stands. Although ScratchPad isn&#8217;t a particularly complex program, rewriting the whole thing from the ground up is still a time-consuming process. Unfortunately, it &#8230; more &#x2192;\n",
+  "categories": [
+    "development",
+    "operating-systems",
+    "projects"
+  ],
+  "tags": [
+    "Mac",
+    "ScratchPad"
+  ],
+  "publishedDate": "2015-05-03T10:11:05",
+  "updatedAt": "2024-02-21T21:07:02",
+  "wordpressId": 784
+}
