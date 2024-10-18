@@ -1,0 +1,1 @@
+One of the songs from my new album, “Cellar”, is now available to listen to in full on [SoundCloud](https://soundcloud.com/seifertmusic). The song is called “The Dead Tree in the Cemetery”.

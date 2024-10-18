@@ -1,0 +1,21 @@
+{
+  "id": "a-new-design-for-alex-seifert-music",
+  "title": "A New Design for Alex Seifert Music",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "alexseifertmusic2020.jpg",
+  "excerpt": "I am happy to announce that my official music website has received a brand new design. The website is based off of Next.js and is optimized for performance both on desktop and mobile.\n",
+  "categories": [
+    "music",
+    "news"
+  ],
+  "tags": [
+    "Next.js",
+    "React"
+  ],
+  "publishedDate": "2020-04-18T00:21:09",
+  "updatedAt": "2024-05-27T11:11:53",
+  "wordpressId": 1841
+}

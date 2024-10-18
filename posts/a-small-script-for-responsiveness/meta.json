@@ -1,0 +1,22 @@
+{
+  "id": "a-small-script-for-responsiveness",
+  "title": "A Small Script for Responsiveness",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "caspar-camille-rubin-89xuP-XmyrA-unsplash.jpg",
+  "excerpt": "I recently wrote a small script using TypeScript that can be used to determine the size of the view port using the breakpoints as defined by Bootstrap.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "Bootstrap",
+    "responsive",
+    "TypeScript"
+  ],
+  "publishedDate": "2020-06-02T20:10:00",
+  "updatedAt": "2023-01-08T19:45:55",
+  "wordpressId": 2049
+}

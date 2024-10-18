@@ -1,0 +1,26 @@
+{
+  "id": "__trashed-2",
+  "title": "Single Page Applications vs Multi-Page Applications",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "alberico-iusso-qWkDfbleevk-unsplash-scaled-1.jpg",
+  "excerpt": "SPAs and MPAs are popular ways of creating web apps, but both have their pros and cons. In this article, we explore their benefits and detriments.\n",
+  "categories": [
+    "development",
+    "featured",
+    "software-architecture"
+  ],
+  "tags": [
+    "Angular",
+    "Multi-Page Applications",
+    "React",
+    "Single Page Applications",
+    "Vue.js",
+    "Web Development"
+  ],
+  "publishedDate": "2024-05-13T12:54:00",
+  "updatedAt": "2024-05-24T10:32:36",
+  "wordpressId": 3627
+}

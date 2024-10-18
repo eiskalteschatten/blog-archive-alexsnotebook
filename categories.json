@@ -1,0 +1,116 @@
+[
+  {
+    "id": "books",
+    "name": "Books",
+    "description": "",
+    "wordpressId": 301
+  },
+  {
+    "id": "development",
+    "name": "Development",
+    "description": "",
+    "wordpressId": 160
+  },
+  {
+    "id": "featured",
+    "name": "Featured",
+    "description": "",
+    "wordpressId": 315
+  },
+  {
+    "id": "feed-the-dev",
+    "name": "Feed The Dev",
+    "description": "",
+    "wordpressId": 474
+  },
+  {
+    "id": "general",
+    "name": "General",
+    "description": "",
+    "wordpressId": 4
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "description": "",
+    "wordpressId": 81
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "description": "",
+    "wordpressId": 6
+  },
+  {
+    "id": "my-website",
+    "name": "My Website",
+    "description": "",
+    "wordpressId": 5
+  },
+  {
+    "id": "news",
+    "name": "News",
+    "description": "",
+    "wordpressId": 3
+  },
+  {
+    "id": "notes",
+    "name": "Notes",
+    "description": "",
+    "wordpressId": 456
+  },
+  {
+    "id": "operating-systems",
+    "name": "Operating Systems",
+    "description": "",
+    "wordpressId": 432
+  },
+  {
+    "id": "privacy-tracking",
+    "name": "Privacy and Tracking",
+    "description": "",
+    "wordpressId": 128
+  },
+  {
+    "id": "programs-tools",
+    "name": "Programs and Tools",
+    "description": "",
+    "wordpressId": 44
+  },
+  {
+    "id": "projects",
+    "name": "Projects",
+    "description": "",
+    "wordpressId": 48
+  },
+  {
+    "id": "retro-software",
+    "name": "Retro Software",
+    "description": "",
+    "wordpressId": 311
+  },
+  {
+    "id": "server",
+    "name": "Server",
+    "description": "",
+    "wordpressId": 77
+  },
+  {
+    "id": "software-architecture",
+    "name": "Software Architecture",
+    "description": "",
+    "wordpressId": 429
+  },
+  {
+    "id": "work",
+    "name": "Work",
+    "description": "",
+    "wordpressId": 321
+  },
+  {
+    "id": "writing",
+    "name": "Writing",
+    "description": "",
+    "wordpressId": 334
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "a-website-full-of-web-based-mac-emulators",
+  "title": "A Website Full of Web-Based Mac Emulators",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Colurful-Apple-Logo.jpg",
+  "excerpt": "I previously discussed how to emulate Mac OS 8 and 9 on modern computers. Recently, I was shown Infinite Mac, a website that allows emulation of these and earlier Mac OS versions directly in your browser. From System 1.0 to Mac OS 9.2.2, most major releases are available. This suite offers a convenient and innovative way to experience classic Mac OS without downloads or installations.\n",
+  "categories": [
+    "operating-systems",
+    "programs-tools",
+    "retro-software"
+  ],
+  "tags": [
+    "Apple",
+    "Emulation",
+    "Mac",
+    "Mac OS 8",
+    "Mac OS 9",
+    "System 7"
+  ],
+  "publishedDate": "2024-05-12T10:35:00",
+  "updatedAt": "2024-09-06T09:23:26",
+  "wordpressId": 3879
+}

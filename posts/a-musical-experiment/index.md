@@ -1,0 +1,7 @@
+I’ve been thinking about trying a new experiment with my music. The last album I released, Parlour, has actually been doing quite well, however, since I have almost no marketing capability (no funding and no time), I have decided to try [a method that Trent Reznor recently tried](http://arstechnica.com/news.ars/post/20080104-gettin-niggy-with-it-reznor-releases-numbers-for-online-experiment.html) with an album he produced for Saul Williams. To anyone who has been following the music industry, these type of experiments have actually been fairly common place recently.
+
+Basically, I’m going to offer Parlour as a free download with the option of paying for it. I know this seems silly, but what others in the music industry have found is that quite a few people are willing to pay for something that they enjoy even if they can get it for free. The free part will attract those who are not sure about the music and are not willing to commit to purchasing it quite yet.
+
+If the person wants to buy it, I think I’m going to offer the album for 2 prices: $5 or $9.99 depending on how much they are willing to pay for it. This should also tell me how much people value my music in dollars.
+
+I still have some things yet to work out (such as where to host the downloads), but as always I will post here when I know more.
