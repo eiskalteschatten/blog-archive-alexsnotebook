@@ -1,0 +1,9 @@
+[![](firefox.png)](https://i0.wp.com/4.bp.blogspot.com/-yRwEuS3YuEM/TygizX8YfoI/AAAAAAAADMU/YFWDQBBY7n0/s1600/firefox.png?ssl=1)
+
+Mozilla officially released Firefox 10 today. I’ve just downloaded it on both Windows and for Mac OS X and am playing around with it a bit. Visually it looks much like Firefox 9 with the exception of the back/forward button. The back button is now ‘attached’ to the address bar and the forward button is hidden except when it is possible to actually go forward rather than just be disabled like in previous versions.
+
+Without looking at the release notes, I would say the biggest update that I’ve seen so far is the new web inspector. Mozilla has effectively created an in-house version of Firebug which is now built into Firefox. I’m a big fan of Firebug for web development and I’m excited to see what Mozilla has done. I’ve not really had a chance to work that much with it yet, but beginning tomorrow, I will spend a full work day with it. I have high hopes for it! Here’s a video which demonstrates the new web inspector:
+
+This version also sees the first step toward implementing silent background updates for the browser which is a feature planned for future versions. In preparation for this, Firefox now sees most add-ons as compatible with new versions of Firefox by default and will keep them enabled rather than disable them as it has always done in the past. Other updates include font anti-aliasing for WebGL, CSS3 3D transformations, full screen APIs to run a web application in full screen mode, a new element for bi-directional text isolation, and several bug fixes.
+
+You can read the full release notes [here](https://www.mozilla.org/en-US/firefox/10.0/releasenotes/) and you can download Firefox 10 [from Mozilla’s website](https://www.firefox.com) or, if you’re running Firefox, by opening the About dialogue and choose ‘Check for Updates’.

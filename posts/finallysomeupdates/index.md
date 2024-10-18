@@ -1,0 +1,5 @@
+Well, I hate to say it, but I don’t really have much to tell everyone. I’ve been in some sort of slump where music just isn’t happening. I finally made my first new song in a quite a while today and while making it, I had several issues with my computer. I seemed to be constantly plagued with a “Your computer is too slow to play back this song.” dialog box. It was quite frustrating, but I managed all the same. I guess it’s time for a new computer.
+
+Anyway, I finished the new song and when I went to upload it on PureVolume, the uploader didn’t work. They recently redesigned their site and I can’t say that I really like it at all. Nothing seems to work correctly anymore, not to mention that I don’t think it looks as good as the last version did. Oh well, what can you do. I have filed a ticket with their support and hopefully will hear from them soon. I will also keep trying to upload the new song, called Stereo Image, and let you know here once it’s done.
+
+— Alex

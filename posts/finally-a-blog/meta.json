@@ -1,0 +1,16 @@
+{
+  "id": "finally-a-blog",
+  "title": "Finally, A Blog",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I&#8217;ve finally gotten around to making a blog for my music. I hope you enjoy it and come back for updates as they become available!\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [],
+  "publishedDate": "2007-10-26T13:03:37",
+  "updatedAt": "2007-10-26T13:03:37",
+  "wordpressId": 106
+}

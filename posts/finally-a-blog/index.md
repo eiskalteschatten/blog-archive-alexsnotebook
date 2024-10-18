@@ -1,0 +1,1 @@
+I’ve finally gotten around to making a blog for my music. I hope you enjoy it and come back for updates as they become available!

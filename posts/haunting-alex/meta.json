@@ -1,0 +1,20 @@
+{
+  "id": "haunting-alex",
+  "title": "Haunting Alex",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "haunted-soul.jpg",
+  "excerpt": "I&#8217;m excited to announce my newest blog project called Haunting Alex! I intend to use this blog to write about my fascination with horror fiction as well as create a sort of archive of my favorite horror stories that are in the public domain.\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "Blogs"
+  ],
+  "publishedDate": "2024-08-27T23:09:12",
+  "updatedAt": "2024-08-27T23:09:14",
+  "wordpressId": 3825
+}

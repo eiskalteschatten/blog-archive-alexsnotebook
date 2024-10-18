@@ -1,0 +1,18 @@
+{
+  "id": "firefox-10",
+  "title": "Firefox 10",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Mozilla officially released Firefox 10 today. I&#8217;ve just downloaded it on both Windows and for Mac OS X and am playing around with it a bit. Visually it looks much like Firefox 9 with the exception of the back/forward button. The back button is now &#8216;attached&#8217; to the address bar and the forward button is &#8230; more &#x2192;\n",
+  "categories": [
+    "programs-tools"
+  ],
+  "tags": [
+    "Firefox"
+  ],
+  "publishedDate": "2012-01-31T18:41:00",
+  "updatedAt": "2024-02-21T17:30:57",
+  "wordpressId": 161
+}

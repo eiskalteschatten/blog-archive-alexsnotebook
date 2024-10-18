@@ -1,0 +1,5 @@
+I’m currently sitting in the waiting room at a train station waiting for my train to arrive. Whilst waiting I have been using the internet on my Android phone. My browser of choice for mobile browsing on Android is Firefox.
+
+The reasons for this are pretty straight-forward. I enjoy using Firefox regardless of the platform mostly for ideological reasons. Mozilla is a non-profit organisation which supports many things I believe about the web such as openness and freedom online. I also appreciate what they are trying to accomplish with Firefox and am willing to give them my full support.
+
+However, there are unfortunately a couple of things I somewhat dislike about Firefox for Android. It seems to be slower than the built-in browser (simply called ‘Internet’) and it hogs much more memory and CPU power. For a mobile phone, that is a problem. Other than that though, I find that it renders pages and performs remarkably accurately for being a mobile browser and would highly recommend anyone at least give it a go!

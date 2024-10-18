@@ -1,0 +1,19 @@
+{
+  "id": "faq-and-source-now-online",
+  "title": "FAQ and Source Now Online",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I have finally put together a really short FAQ from some of the most frequent questions I get. You can find the FAQ here. I have also posted the source for ScratchPad which can be found as a zip file here. You need Mac OS 10.4.11 or higher and Xcode 2.4.1 or higher to build &#8230; more &#x2192;\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "ScratchPad"
+  ],
+  "publishedDate": "2008-06-21T07:40:15",
+  "updatedAt": "2024-10-15T10:42:00",
+  "wordpressId": 33
+}

@@ -1,0 +1,19 @@
+{
+  "id": "firefox-beta-with-new-developer-tools-and-add-on-sync",
+  "title": "Firefox Beta with New Developer Tools and Add-on Sync",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Mozilla has announced several new features for the new Firefox Beta which will eventually become Firefox 11. The first and, in my opinion, the most interesting one is a new approach to make distinguishing elements on a webpage easier using a 3D rendering of the page. They call it &#8216;Tilt&#8217;. It is based off of &#8230; more &#x2192;\n",
+  "categories": [
+    "development",
+    "programs-tools"
+  ],
+  "tags": [
+    "Firefox"
+  ],
+  "publishedDate": "2012-02-05T22:54:00",
+  "updatedAt": "2024-02-21T17:31:55",
+  "wordpressId": 154
+}

@@ -1,0 +1,11 @@
+According to [BNN Bloomberg](https://www.bnnbloomberg.ca/business/technology/2024/08/15/googles-search-dominance-leaves-sites-little-choice-on-ai-scraping/), Google is now giving websites a choice: let us train our AI on your content or be delisted from search results.
+
+> Google now displays convenient artificial intelligence-based answers at the top of its search pages — meaning users may never click through to the websites whose data is being used to power those results. But many site owners say they can’t afford to block Google’s AI from summarizing their content.
+> 
+> That’s because the Google tool that sifts through web content to come up with its AI answers is the same one that keeps track of web pages for search results, according to publishers. Blocking Alphabet Inc.’s Google the way sites have blocked some of its AI competitors would also hamper a site’s ability to be discovered online. 
+> 
+> Google’s dominance in search — which a federal court ruled last week is an illegal monopoly — is giving it a decisive advantage in the brewing AI wars, which search startups and publishers say is unfair as the industry takes shape. The dilemma is particularly acute for publishers, which face a choice between offering up their content for use by AI models that could make their sites obsolete and disappearing from Google search, a top source of traffic. 
+> 
+> [Julia Love and Davey Alba](https://www.bnnbloomberg.ca/business/technology/2024/08/15/googles-search-dominance-leaves-sites-little-choice-on-ai-scraping/)
+
+If this isn’t an abuse of power from its [monopoly on search](https://www.theverge.com/2024/8/5/24155520/judge-rules-on-us-doj-v-google-antitrust-search-suit), then I clearly haven’t understood what that means. This puts publishers in a very difficult position: let Google train their AI on their content so that Google can show AI results in the search and make it unnecessary for users to click on websites to find what they’re looking for or not show up at all anymore in the search results. Either way, websites are going to lose.
