@@ -1,0 +1,22 @@
+{
+  "id": "developers-notebook",
+  "title": "Developer’s Notebook",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "developers-notebook.jpg",
+  "excerpt": "I am very happy to announce a brand new project of mine called Developer&#8217;s Notebook, a blog and news website with content for developers. \n",
+  "categories": [
+    "development",
+    "featured",
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "Blog"
+  ],
+  "publishedDate": "2020-07-02T09:12:00",
+  "updatedAt": "2020-06-26T13:27:10",
+  "wordpressId": 2255
+}

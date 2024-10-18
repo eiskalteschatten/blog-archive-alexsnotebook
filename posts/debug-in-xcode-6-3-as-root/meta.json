@@ -1,0 +1,22 @@
+{
+  "id": "debug-in-xcode-6-3-as-root",
+  "title": "Debug in Xcode 6.3 as Root",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "xcode.png",
+  "excerpt": "For one of my latest projects on the Mac, it is necessary that I have access to all incoming and outgoing TCP connections. Essentially I need to sniff the packets and parse their headers in order to process them as I am trying to build a firewall of sorts. In order to do this, however, &#8230; more &#x2192;\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "Apple",
+    "root",
+    "Xcode"
+  ],
+  "publishedDate": "2015-05-02T12:00:15",
+  "updatedAt": "2020-06-19T22:16:15",
+  "wordpressId": 794
+}

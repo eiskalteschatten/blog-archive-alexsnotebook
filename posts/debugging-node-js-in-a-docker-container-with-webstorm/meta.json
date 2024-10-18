@@ -1,0 +1,23 @@
+{
+  "id": "debugging-node-js-in-a-docker-container-with-webstorm",
+  "title": "Debugging Node.js in a Docker Container with WebStorm",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "containers.jpg",
+  "excerpt": "Node.js + Docker + WebStorm is not an unusual setup for Node.js developers, but there is nonetheless surprisingly little information available about how to setup debugging in WebStorm while running a Node.js application locally in a Docker image.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "debugging",
+    "Docker",
+    "Node.js",
+    "WebStorm"
+  ],
+  "publishedDate": "2016-10-25T13:01:42",
+  "updatedAt": "2023-01-08T19:22:06",
+  "wordpressId": 1224
+}

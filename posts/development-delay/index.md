@@ -1,0 +1,3 @@
+The release of the next version is going to be delayed for a while, unfortunately. My PowerBook’s hard drive died which means I am currently without a Mac to develop on. Everything was backed up fortunately, so I didn’t lose any progress already made on the next version, but until I can get another Mac, I have no way to continue development. Hopefully I should have a new MacBook or something by next month and then development can continue.
+
+I apologize for the delay.
