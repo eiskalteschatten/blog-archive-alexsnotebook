@@ -1,0 +1,22 @@
+{
+  "id": "thats-how-old-i-am",
+  "title": "That’s How Old I Am",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "51f21ccf-a633-4286-bf02-ee95d2522d04.jpg",
+  "excerpt": "In this post, I decided it would be fun to write a list of technologies and experiences that show my age in technology.\n",
+  "categories": [
+    "development",
+    "featured",
+    "operating-systems",
+    "programs-tools"
+  ],
+  "tags": [
+    "technologies"
+  ],
+  "publishedDate": "2024-05-08T09:08:00",
+  "updatedAt": "2024-05-08T13:36:07",
+  "wordpressId": 3608
+}

@@ -1,0 +1,20 @@
+{
+  "id": "the-all-new-feed-the-dev",
+  "title": "The All-New Feed The Dev",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Screenshot-2024-10-02-at-22-07-39-Feed-The-Dev.png",
+  "excerpt": "I&#8217;m excited to announce an all-new version of Feed The Dev! It is now an aggregate website for development and technology news and articles that combines sources from all over the internet into a single, easy-to-use website.\n",
+  "categories": [
+    "development",
+    "feed-the-dev",
+    "news",
+    "projects"
+  ],
+  "tags": [],
+  "publishedDate": "2024-10-02T22:45:27",
+  "updatedAt": "2024-10-02T22:45:29",
+  "wordpressId": 4121
+}

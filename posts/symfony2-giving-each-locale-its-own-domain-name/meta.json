@@ -1,0 +1,22 @@
+{
+  "id": "symfony2-giving-each-locale-its-own-domain-name",
+  "title": "Symfony2: Giving Each Locale Its Own Domain Name",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "symfony_vertical.svg",
+  "excerpt": "After spending hours looking around online for an answer to the problem I was having setting the locale of a multi-lingual Symfony2 application based on the domain name, I finally sat down and more or less found my own solution. As is often the case, an answer to a question on Stack Overflow got me &#8230; more &#x2192;\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "internationalization",
+    "PHP",
+    "Symfony2"
+  ],
+  "publishedDate": "2016-05-06T23:06:05",
+  "updatedAt": "2023-01-08T19:17:43",
+  "wordpressId": 939
+}

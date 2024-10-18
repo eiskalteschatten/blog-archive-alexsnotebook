@@ -1,0 +1,24 @@
+{
+  "id": "the-boring-stack",
+  "title": "The Boring Stack",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "dusan-veverkolog-mX2mdxhc0UM-unsplash-scaled.jpg",
+  "excerpt": "The Boring Stack encourages using familiar technologies for efficient project development, emphasizing efficiency and reliability over exploring new tech and frameworks.\n",
+  "categories": [
+    "development",
+    "featured",
+    "programs-tools",
+    "software-architecture"
+  ],
+  "tags": [
+    "software",
+    "software stack",
+    "Web Development"
+  ],
+  "publishedDate": "2024-02-05T18:59:00",
+  "updatedAt": "2024-02-05T15:02:23",
+  "wordpressId": 3189
+}
