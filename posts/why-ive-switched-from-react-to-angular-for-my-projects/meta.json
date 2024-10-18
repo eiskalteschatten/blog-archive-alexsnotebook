@@ -1,0 +1,23 @@
+{
+  "id": "why-ive-switched-from-react-to-angular-for-my-projects",
+  "title": "Why I’ve Switched from React to Angular for My Projects",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "leaving-react-for-angular.png",
+  "excerpt": "For years, my go-to frontend framework was React, but now I prefer using Angular for my projects. This is why.\n",
+  "categories": [
+    "development",
+    "featured"
+  ],
+  "tags": [
+    "Angular",
+    "frameworks",
+    "React",
+    "Web Development"
+  ],
+  "publishedDate": "2023-10-22T10:54:35",
+  "updatedAt": "2024-10-10T15:54:01",
+  "wordpressId": 2984
+}

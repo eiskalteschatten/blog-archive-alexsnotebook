@@ -1,0 +1,24 @@
+{
+  "id": "windows-nt-vs-unix-a-design-comparison",
+  "title": "Windows NT vs. Unix: A design comparison",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Windows-NT-Workstation-4.0.jpg",
+  "excerpt": "This is an excellent read for any of you operating system nerds out there. The author compares the architectures of both Windows NT and Unix.\n",
+  "categories": [
+    "development",
+    "operating-systems",
+    "retro-software"
+  ],
+  "tags": [
+    "Linux",
+    "Unix",
+    "Windows",
+    "Windows NT"
+  ],
+  "publishedDate": "2024-10-17T09:00:00",
+  "updatedAt": "2024-10-13T21:01:13",
+  "wordpressId": 4748
+}

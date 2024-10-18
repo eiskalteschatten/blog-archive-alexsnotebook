@@ -1,0 +1,3 @@
+This past week work on ScratchPad 2.0 has finally begun. I am writing the entire program from the ground up to take advantage of the latest technologies available in OS X and to clean out old, deprecated code that was still relevant when ScratchPad was first started with Mac OS X 10.4. Version 2.0 will also contain some of the most requested features such as the ability to search through all notes, a plain text option, a list of notes, note titles and the ability to rearrange notes. There will also be a few more goodies, but I’ll save those for later.
+
+For the 2.0 project, I have moved ScratchPad’s source code to [GitHub](https://github.com/eiskalteschatten/scratchpad) which means that those who are interested can follow its progress there.

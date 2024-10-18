@@ -1,0 +1,27 @@
+{
+  "id": "xubuntu",
+  "title": "Xubuntu",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Xubuntu_15.10_English.png",
+  "excerpt": "I&#8217;ve recently been experimenting with various flavors of Linux partially out of curiosity, partially to improve my ability to use the OS, and partially because I am forced to use Windows at work and would rather use Linux in a virtual machine. The further I delve into the world of Linux, the more I realize &#8230; more &#x2192;\n",
+  "categories": [
+    "operating-systems"
+  ],
+  "tags": [
+    "Debian",
+    "KDE",
+    "Kubuntu",
+    "LDXE",
+    "Linux",
+    "Lubuntu",
+    "Ubuntu",
+    "Xfce",
+    "Xubuntu"
+  ],
+  "publishedDate": "2016-04-17T19:40:31",
+  "updatedAt": "2024-02-21T21:05:35",
+  "wordpressId": 323
+}

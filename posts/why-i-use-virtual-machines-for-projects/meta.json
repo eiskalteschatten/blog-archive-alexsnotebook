@@ -1,0 +1,25 @@
+{
+  "id": "why-i-use-virtual-machines-for-projects",
+  "title": "Why I Use Virtual Machines for Projects",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Ubuntu-20.04-VM.png",
+  "excerpt": "I don&#8217;t like clutter. In fact, I am very picky about what I install on my computer which is one reason I love virtual machines to experiment with new technologies.\n",
+  "categories": [
+    "development",
+    "featured",
+    "operating-systems",
+    "programs-tools"
+  ],
+  "tags": [
+    "Linux",
+    "Ubuntu",
+    "virtual machines",
+    "VM"
+  ],
+  "publishedDate": "2020-06-19T17:45:17",
+  "updatedAt": "2024-02-21T21:05:20",
+  "wordpressId": 2205
+}

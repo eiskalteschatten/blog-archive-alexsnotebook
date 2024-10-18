@@ -1,0 +1,19 @@
+{
+  "id": "work-on-scratchpad-2-0-started",
+  "title": "Work on ScratchPad 2.0 started",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "This past week work on ScratchPad 2.0 has finally begun. I am writing the entire program from the ground up to take advantage of the latest technologies available in OS X and to clean out old, deprecated code that was still relevant when ScratchPad was first started with Mac OS X 10.4. Version 2.0 will &#8230; more &#x2192;\n",
+  "categories": [
+    "projects"
+  ],
+  "tags": [
+    "2.0",
+    "ScratchPad"
+  ],
+  "publishedDate": "2014-03-14T17:08:44",
+  "updatedAt": "2024-10-15T10:41:59",
+  "wordpressId": 999
+}

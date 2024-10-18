@@ -1,0 +1,19 @@
+{
+  "id": "why-i-use-verbose-variable-names",
+  "title": "Why I Use Verbose Variable Names",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "img_0418-1.jpg",
+  "excerpt": "When I write code, I tend to use long, descriptive variable names with few abbreviations. This is why.\n",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "Code Style"
+  ],
+  "publishedDate": "2024-09-03T16:27:54",
+  "updatedAt": "2024-09-03T16:27:56",
+  "wordpressId": 3660
+}
