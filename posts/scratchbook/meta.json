@@ -1,0 +1,19 @@
+{
+  "id": "scratchbook",
+  "title": "ScratchBook",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I know it has been a while since I have made any updates to ScratchPad, but there is a reason for it. I am in the midst of creating a new program called ScratchBook. The idea behind ScratchBook is to incorporate some of the most requested features for ScratchPad such as searching, naming pages, etc. &#8230; more &#x2192;\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "ScratchPad"
+  ],
+  "publishedDate": "2009-06-04T20:09:51",
+  "updatedAt": "2024-10-15T10:41:59",
+  "wordpressId": 994
+}

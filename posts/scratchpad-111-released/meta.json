@@ -1,0 +1,19 @@
+{
+  "id": "scratchpad-111-released",
+  "title": "ScratchPad 1.1.1 Released",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Version 1.1.1 of ScratchPad has now been released! This is what is new in the new version: Japanese localization added. German localization added. Go to Page Number window now remembers its last position. Fixed a problem with the bundle identifier &#8212; users will be prompted again to check for automatic updates. You can download either &#8230; more &#x2192;\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "ScratchPad"
+  ],
+  "publishedDate": "2008-03-01T16:28:00",
+  "updatedAt": "2024-10-15T10:42:24",
+  "wordpressId": 8
+}

@@ -1,0 +1,26 @@
+{
+  "id": "resize-an-nsimage-proportionately-in-swift",
+  "title": "Resize an NSImage Proportionately in Swift",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "swift-icon.png",
+  "excerpt": "For the past couple of days, I&#8217;ve been working on a small project for OS X written in Swift where it was necessary to import an image and scale it down proportionately based on a given width and height.\n",
+  "categories": [
+    "development",
+    "featured",
+    "operating-systems"
+  ],
+  "tags": [
+    "Apple",
+    "Mac",
+    "macOS",
+    "NSImage",
+    "OS X",
+    "Swift"
+  ],
+  "publishedDate": "2016-06-18T19:45:42",
+  "updatedAt": "2024-05-05T13:33:48",
+  "wordpressId": 1163
+}

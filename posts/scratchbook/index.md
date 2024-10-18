@@ -1,0 +1,3 @@
+I know it has been a while since I have made any updates to ScratchPad, but there is a reason for it. I am in the midst of creating a new program called ScratchBook. The idea behind ScratchBook is to incorporate some of the most requested features for ScratchPad such as searching, naming pages, etc. I am creating a separate program because the idea behind ScratchPad is to keep it as simple as possible, so I do not want to make ScratchPad too complicated.
+
+Check back here for more information about ScratchBook as it becomes available.

@@ -1,0 +1,24 @@
+{
+  "id": "respect-my-preference-for-dark-mode",
+  "title": "Respect My Preference for Dark Mode!",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Bildschirmfoto-2024-10-01-um-08.38.55.png",
+  "excerpt": "There is a current trend I don&#8217;t understand in web design: websites that offer dark mode but bury it somewhere in their settings. As a user of dark mode, this is a horrendous user experience.\n",
+  "categories": [
+    "development",
+    "notes"
+  ],
+  "tags": [
+    "design",
+    "Frontend",
+    "UI",
+    "UX",
+    "Web Development"
+  ],
+  "publishedDate": "2024-10-06T12:55:00",
+  "updatedAt": "2024-10-14T20:37:37",
+  "wordpressId": 4098
+}
