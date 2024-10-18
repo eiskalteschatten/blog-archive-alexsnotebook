@@ -1,0 +1,21 @@
+{
+  "id": "new-album-cellar",
+  "title": "New Album: Cellar",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "cellar-sneak-peak.jpg",
+  "excerpt": "I&#8217;m happy to announce that my next new album, &#8220;Cellar&#8221;, will arrive very soon!\n",
+  "categories": [
+    "music",
+    "news"
+  ],
+  "tags": [
+    "Cellar",
+    "new album"
+  ],
+  "publishedDate": "2016-02-11T22:41:21",
+  "updatedAt": "2017-12-28T11:16:28",
+  "wordpressId": 1521
+}

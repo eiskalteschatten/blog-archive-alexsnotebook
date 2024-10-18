@@ -1,0 +1,21 @@
+{
+  "id": "new-album-and-website-spectre",
+  "title": "New Album and Website: Spectre",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "polarity1000.jpg",
+  "excerpt": "I am happy to announce that my newest band, Spectre, has released its first album named &#8220;Polarity.&#8221;\n",
+  "categories": [
+    "music"
+  ],
+  "tags": [
+    "album",
+    "metal",
+    "rock"
+  ],
+  "publishedDate": "2018-07-18T13:34:00",
+  "updatedAt": "2020-04-25T13:15:18",
+  "wordpressId": 1631
+}

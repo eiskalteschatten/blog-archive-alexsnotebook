@@ -1,0 +1,5 @@
+DISCLAIMER: This is basically a repost of [the announcement on my music site](https://www.alexseifertmusic.com/archives/2012/12/07/songs-on-soundcloud-and-new-album-preview/) with just a few minor adjustments to make it make more sense in the context of this blog.
+
+I am pleased to announce that several of my songs are [now available on SoundCloud](https://soundcloud.com/seifertmusic/) to listen to free of charge. I chose the songs to upload and many of them are ones I really like from my older albums. To have a listen, [click on this link](https://soundcloud.com/seifertmusic/).
+
+To celebrate this and the progress of the new album, we have decided to release one of the new songs from the new, as of yet unnamed album on SoundCloud. The song is called “Dumme Welt” which, translated, means “Dumb World”. [Have a listen!](https://soundcloud.com/seifertmusic/dumme-welt)

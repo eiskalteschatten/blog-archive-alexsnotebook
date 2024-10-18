@@ -1,0 +1,21 @@
+{
+  "id": "my-problem-with-the-current-state-of-next-js",
+  "title": "My Problem with The Current State of Next.js",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "nextjs.jpg",
+  "excerpt": "When I first discovered Next.js, I was excited about it, but it has become somewhat of a mess since then. These are my thoughts on it.\n",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "Next.js",
+    "Node.js",
+    "React"
+  ],
+  "publishedDate": "2024-04-11T13:21:10",
+  "updatedAt": "2024-04-12T10:15:34",
+  "wordpressId": 3301
+}
