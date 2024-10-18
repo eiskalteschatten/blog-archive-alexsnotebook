@@ -1,0 +1,18 @@
+{
+  "id": "my-favorite-books-from-2023",
+  "title": "My Favorite Books from 2023",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "ed-robertson-eeSdJfLfx1A-unsplash-scaled.jpg",
+  "excerpt": "Last year, I compiled a list of my favorite books from 2022. Since I enjoyed it so much, I decided to put together a list of my favorite books from 2023 too.\n",
+  "categories": [
+    "books",
+    "featured"
+  ],
+  "tags": [],
+  "publishedDate": "2023-12-18T10:53:00",
+  "updatedAt": "2023-10-07T16:01:52",
+  "wordpressId": 3005
+}

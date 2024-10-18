@@ -1,0 +1,18 @@
+{
+  "id": "my-favorite-books-from-2022",
+  "title": "My Favorite Books from 2022",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "alexander-grey-eMP4sYPJ9x0-unsplash-scaled.jpg",
+  "excerpt": "As an avid reader, I am always eager to share a good book once I&#8217;m finished with it. In 2022, I enjoyed several good ones, but these are the books that stood out from the pack.\n",
+  "categories": [
+    "books",
+    "featured"
+  ],
+  "tags": [],
+  "publishedDate": "2023-01-09T17:10:22",
+  "updatedAt": "2023-01-15T18:07:41",
+  "wordpressId": 2609
+}

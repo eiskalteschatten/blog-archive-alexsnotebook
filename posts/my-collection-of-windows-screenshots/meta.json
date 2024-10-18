@@ -1,0 +1,25 @@
+{
+  "id": "my-collection-of-windows-screenshots",
+  "title": "My Collection of Windows Screenshots",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Windows_in_German.jpg",
+  "excerpt": "Macs have been my primary computers for decades, but I have also had the occasional Windows PC. These are some screenshots from them.\n",
+  "categories": [
+    "featured",
+    "operating-systems",
+    "programs-tools",
+    "retro-software"
+  ],
+  "tags": [
+    "Microsoft",
+    "Windows",
+    "Windows 2000",
+    "Windows XP"
+  ],
+  "publishedDate": "2024-10-15T08:47:44",
+  "updatedAt": "2024-10-15T08:47:46",
+  "wordpressId": 3951
+}

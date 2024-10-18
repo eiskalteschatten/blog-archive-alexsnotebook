@@ -1,0 +1,20 @@
+{
+  "id": "my-daily-journaling-habit",
+  "title": "My Daily Journaling Habit",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "marcos-paulo-prado-tcyW6Im5Uug-unsplash-scaled.jpg",
+  "excerpt": "Ten years ago today, I wrote my very first journal entry. Little did I know at the time that it would become a daily habit that I still practice today.\n",
+  "categories": [
+    "featured",
+    "writing"
+  ],
+  "tags": [
+    "journaling"
+  ],
+  "publishedDate": "2023-02-12T11:45:00",
+  "updatedAt": "2023-01-13T17:53:24",
+  "wordpressId": 2629
+}
