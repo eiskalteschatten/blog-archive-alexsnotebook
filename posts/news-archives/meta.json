@@ -1,0 +1,16 @@
+{
+  "id": "news-archives",
+  "title": "News Archives",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Just a quick note about the new News Archive. As part of the on going process of redesigning the website, I&#8217;ve decided to include a news archive. Unfortunately, this archive will not be very extensive because many of the older news articles could not be found. I plan to keep searching for them. I know &#8230; more &#x2192;\n",
+  "categories": [
+    "news"
+  ],
+  "tags": [],
+  "publishedDate": "2011-05-27T15:50:07",
+  "updatedAt": "2011-05-27T15:50:07",
+  "wordpressId": 1492
+}

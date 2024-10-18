@@ -1,0 +1,5 @@
+Just a quick update to let everyone know about some recent changes that have taken place in the past couple of days. Today we added an official Alex Seifert Newsletter which you can sign up for to get the latest updates directly in your e-mail! You can sign up for it by entering your e-mail address in the box on the right side of this page under the header “Newsletter”. Additionally, there is another box on the [homepage](https://www.alexseifertmusic.com).
+
+The second bit of news is that we have created an official [Google+ page](https://plus.google.com/b/109658490440246128818/) for Alex Seifert. You can find it [here](https://plus.google.com/b/109658490440246128818/). If you have a Google+ account, please feel free to add Alex to your circle of friends!
+
+One last piece of information I would like to add is that a new single for the next new album is nearing release! Check back here or subscribe to the newsletter to receive more information about it and be the first to know!

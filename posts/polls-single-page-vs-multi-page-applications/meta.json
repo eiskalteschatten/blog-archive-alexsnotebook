@@ -1,0 +1,22 @@
+{
+  "id": "polls-single-page-vs-multi-page-applications",
+  "title": "Polls: Single Page vs Multi-Page Applications",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Screenshot-2024-09-29-141219.png",
+  "excerpt": "There was a time when all websites were multi-page applications, but that has changed. I wanted to know what users and developers think about that and so I asked.\n",
+  "categories": [
+    "development"
+  ],
+  "tags": [
+    "Frontend",
+    "Multi-Page Applications",
+    "Single Page Applications",
+    "Web Development"
+  ],
+  "publishedDate": "2024-10-03T09:23:19",
+  "updatedAt": "2024-09-30T14:14:49",
+  "wordpressId": 4032
+}
