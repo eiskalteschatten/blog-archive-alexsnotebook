@@ -1,0 +1,19 @@
+{
+  "id": "new-website",
+  "title": "New Website",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "ScratchPad finally has a proper website! Instead of a mixture of free services (Google Pages and Blogger), I have now merged everything into one site hosted with the same host as all of my other web endeavors and using my domain name. I hope you enjoy the new site! Please let me know what you &#8230; more &#x2192;\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "ScratchPad"
+  ],
+  "publishedDate": "2008-06-01T12:36:28",
+  "updatedAt": "2024-10-15T10:42:24",
+  "wordpressId": 25
+}

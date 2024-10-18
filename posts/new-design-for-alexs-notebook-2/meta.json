@@ -1,0 +1,21 @@
+{
+  "id": "new-design-for-alexs-notebook-2",
+  "title": "New Design for Alex’s Notebook",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Alexs-Notebook-5.0-screenshot.png",
+  "excerpt": "Alex&#8217;s Notebook received a new design today which is based on the WordPress theme for Developer&#8217;s Notebook.\n",
+  "categories": [
+    "my-website",
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "Blog"
+  ],
+  "publishedDate": "2023-09-23T11:34:30",
+  "updatedAt": "2023-09-30T08:33:36",
+  "wordpressId": 2952
+}

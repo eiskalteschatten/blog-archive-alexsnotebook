@@ -1,0 +1,21 @@
+{
+  "id": "new-css-function-light-dark",
+  "title": "New CSS Function: light-dark()",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Bildschirmfoto-2024-04-12-um-12.14.24.png",
+  "excerpt": "A few days ago, I stumbled across a new function in CSS that is going to make my life a tremendous amount easier: light-dark()\n",
+  "categories": [
+    "development",
+    "news"
+  ],
+  "tags": [
+    "CSS",
+    "Web Development"
+  ],
+  "publishedDate": "2024-04-12T14:23:00",
+  "updatedAt": "2024-09-06T09:29:01",
+  "wordpressId": 3886
+}

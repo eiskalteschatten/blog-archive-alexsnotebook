@@ -1,0 +1,25 @@
+{
+  "id": "new-design-for-my-portfolio",
+  "title": "New Design for My Portfolio",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Screen-Shot-2020-04-28-at-18.45.27-fullpage.png",
+  "excerpt": "I have continued to take advantage of the extra time provided by the coronavirus to rewrite my portfolio website using Next.js and Material UI.\n",
+  "categories": [
+    "my-website",
+    "news"
+  ],
+  "tags": [
+    "AlexSeifert.com",
+    "AlexSeifert.de",
+    "Material UI",
+    "Next.js",
+    "Portfolio",
+    "React"
+  ],
+  "publishedDate": "2020-04-28T19:04:57",
+  "updatedAt": "2020-04-28T19:06:29",
+  "wordpressId": 1969
+}

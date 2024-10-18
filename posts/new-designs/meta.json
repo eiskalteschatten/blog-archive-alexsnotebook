@@ -1,0 +1,21 @@
+{
+  "id": "new-designs",
+  "title": "New Designs",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Screenshot-AlexSeifert.com-January-2023.png",
+  "excerpt": "It&#8217;s been a number of years since I last updated my website and blog, so it was past time that I do major rewrite. I re-conceptualized both websites so that they support both light and dark modes, feel more modern and are more enjoyable to use.\n",
+  "categories": [
+    "my-website",
+    "news"
+  ],
+  "tags": [
+    "AlexSeifert.com",
+    "Blog"
+  ],
+  "publishedDate": "2023-01-07T12:38:01",
+  "updatedAt": "2023-01-08T15:23:07",
+  "wordpressId": 2565
+}

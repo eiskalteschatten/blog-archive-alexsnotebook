@@ -1,0 +1,5 @@
+At the moment, I’m working on securing a new means of selling my music. Some of my music and my albums have been submitting already and are pending approval. Hopefully all goes well! I am anxious to get my music back out there and available to everyone.
+
+I’ve had some fans ask me if I am still actively creating music and if so, where they can get it. This is the official response: yes, I am actively working on music and I am also working on a means of getting out to my fans. I did take a short hiatus from music as things were, for a short while, quite stressful, but now that things have settled down again, I am back at it.
+
+Currently, I’m working on a new album which is a new style for me. I think some of the songs are quite good, so I am really looking forward to getting finishing the album and getting it out there for everyone! I will keep you posted on the progress here.
