@@ -1,0 +1,7 @@
+[![Creeping Darkness](https://www.alexseifertmusic.com/_images/creeping-darkness-logo.svg)](http://www.creeping-darkness.de)
+
+It would seem that I haven’t been all that active since the release of The Pantry in March, but that is not entirely true. During that time, I’ve been hard at work on a new album which is almost finished and busy with my new band, [Creeping Darkness](http://www.creeping-darkness.de), which I would like to take the time and introduce now.
+
+The band is a Munich, Germany-based band and we primarily play hard rock. We have been together now for a while, but are now just getting to a point where we have a repertoire of songs ready for the stage and even ready for an album. Many of the songs are adaptations of songs I have created for my new, unreleased album and I have even uploaded a few of them as samples of our band’s music since we haven’t been able to record ourselves quite yet. So if you’d like to hear a preview of what my new album is going to sound like, head over to [the music page on Creeping Darkness’s website](http://www.creeping-darkness.de/musik/).
+
+The website is in German since we are a German band, but you can see it at [http://www.creeping-darkness.de](http://www.creeping-darkness.de).

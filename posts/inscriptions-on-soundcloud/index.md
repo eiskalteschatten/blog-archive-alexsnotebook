@@ -1,0 +1,1 @@
+Inscriptions has now been released on SoundCloud. Click below to listen to the full length song!

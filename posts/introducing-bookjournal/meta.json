@@ -1,0 +1,22 @@
+{
+  "id": "introducing-bookjournal",
+  "title": "Introducing BookJournal",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "icon.svg",
+  "excerpt": "I am excited to announce the first public release of a program I have been working on for the past year or so. It is called BookJournal and is exactly what the name says it is: a digital book journal.\n",
+  "categories": [
+    "development",
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "BookJournal",
+    "Electron"
+  ],
+  "publishedDate": "2019-08-11T14:14:13",
+  "updatedAt": "2020-05-21T14:04:23",
+  "wordpressId": 1736
+}
