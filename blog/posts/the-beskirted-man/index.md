@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Society Only Wants You to Wear a Dress If You Look Like a Woman](https://www.the-beskirted-man.com/in-the-media/society-only-wants-you-to-wear-a-dress-if-you-look-like-a-woman/)
+    
 -   [Poll: Would you like more content on gender or should I just stick to clothing?](https://www.the-beskirted-man.com/polls/poll-would-you-like-more-content-on-gender-or-should-i-just-stick-to-clothing/)
     
 -   [Wearing a Skirt for the First Time with My Mother-In-Law](https://www.the-beskirted-man.com/personal-experiences/wearing-a-skirt-for-the-first-time-with-my-mother-in-law/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Scot fighting in Ukraine ‘had battle kilt blown off’ by Russian bomb](https://www.the-beskirted-man.com/in-the-media/scot-fighting-in-ukraine-had-battle-kilt-blown-off-by-russian-bomb/)
     
 -   [Profiles of Beskirted Men: Roger N](https://www.the-beskirted-man.com/profiles-of-beskirted-men/profiles-of-beskirted-men-roger-n/)
-    
--   [Emerging Brands Are Giving Men’s Skirts an Air of Machismo Gorpcore and Utility Influences](https://www.the-beskirted-man.com/in-the-media/emerging-brands-are-giving-mens-skirts-an-air-of-machismo-gorpcore-and-utility-influences/)
