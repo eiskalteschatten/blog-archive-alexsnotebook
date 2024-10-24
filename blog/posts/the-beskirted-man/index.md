@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [“Wearing a skirt makes you so much more approachable”](https://www.the-beskirted-man.com/personal-experiences/wearing-a-skirt-makes-you-so-much-more-approachable/)
+    
 -   [My Son and My Heeled Boots](https://www.the-beskirted-man.com/high-heels/my-son-and-my-heeled-boots/)
     
 -   [Society Only Wants You to Wear a Dress If You Look Like a Woman](https://www.the-beskirted-man.com/in-the-media/society-only-wants-you-to-wear-a-dress-if-you-look-like-a-woman/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Taiwanese Boys Can Wear Skirts In This School, But S’pore Schools Unlikely To Follow](https://www.the-beskirted-man.com/in-the-media/taiwanese-boys-can-wear-skirts-in-this-school-but-spore-schools-unlikely-to-follow/)
     
 -   [‘Doctor Who’ Costume Designer on What Inspired Ncuti Gatwa’s Bold Look, From ’70s New York to Men in Skirts](https://www.the-beskirted-man.com/in-the-media/doctor-who-costume-designer-on-what-inspired-ncuti-gatwas-bold-look-from-70s-new-york-to-men-in-skirts/)
-    
--   [Scot fighting in Ukraine ‘had battle kilt blown off’ by Russian bomb](https://www.the-beskirted-man.com/in-the-media/scot-fighting-in-ukraine-had-battle-kilt-blown-off-by-russian-bomb/)
