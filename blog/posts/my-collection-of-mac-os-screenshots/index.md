@@ -42,8 +42,8 @@ These screenshots were taken on my second Apple laptop: a 12″ PowerBook G4. As
 -   <figure><img loading="lazy" decoding="async" alt="Mac OS X Panther Running on a PowerBook G4" data-id="3924" src="Mac_OS_X_10_still_not_tiger_by_eatatranmas.jpg"><figcaption>Mac OS X Panther Running on a PowerBook G4</figcaption></figure>
     
 
-Mac OS 10.4 Tiger
------------------
+Mac OS X 10.4 Tiger
+-------------------
 
 Tiger was the last OS I had installed on my PowerBook G4. At this point, I had gotten a large 20″ CRT screen to use with my PowerBook which is why some of the screenshots are so large. I also played around with a program called ShapeShifter which skinned Mac OS X. That phase didn’t last long, however.
 
@@ -126,7 +126,7 @@ When Apple first introduced Yosemite, I have to admit that I was severely disapp
 Mac OS X 10.11 El Capitan
 -------------------------
 
-Like Snow Leopard was to Leopard, El Capitan was primarily a stabilization release of Mac OS X. It was a this time that I got my first 4k monitor as well.
+Like Snow Leopard was to Leopard, El Capitan was primarily a stabilization release of Mac OS X. It was also the last release under the “Mac OS X” branding. It was a this time that I got my first 4k monitor as well.
 
 -   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.11 El Capitan Running on a 15&quot; MacBook Pro" data-id="3968" src="El-Capitan-10.11-September-15-2016-MacBook-Screen.png"><figcaption>Mac OS X 10.11 El Capitan Running on a 15″ MacBook Pro</figcaption></figure>
     
@@ -139,64 +139,64 @@ Like Snow Leopard was to Leopard, El Capitan was primarily a stabilization relea
 -   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.11 El Capitan Running on a 15&quot; MacBook Pro" data-id="3970" src="El-Capitan-10.11-January-6-2016.png"><figcaption>Mac OS X 10.11 El Capitan Running on a 15″ MacBook Pro</figcaption></figure>
     
 
-Mac OS X 10.12 Sierra
----------------------
+macOS 10.12 Sierra
+------------------
 
-Not much changed in terms of visuals between Yosemite and Big Sur. In fact, I can’t even remember what was new in Sierra.
+Not much changed in terms of visuals between Yosemite and Big Sur, but it did introduce the “macOS” branding.
 
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.12 Sierra Running on a 15&quot; MacBook Pro" data-id="3976" src="Sierra-10.12-September-16-2017.png"><figcaption>Mac OS X 10.12 Sierra Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.12 Sierra Running on a 15&quot; MacBook Pro" data-id="3976" src="Sierra-10.12-September-16-2017.png"><figcaption>macOS 10.12 Sierra Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.12 Sierra Running on a 15&quot; MacBook Pro" data-id="3975" src="Sierra-10.12-September-16-2017-Finder.png"><figcaption>Mac OS X 10.12 Sierra Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.12 Sierra Running on a 15&quot; MacBook Pro" data-id="3975" src="Sierra-10.12-September-16-2017-Finder.png"><figcaption>macOS 10.12 Sierra Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.12 Sierra Running on a 15&quot; MacBook Pro" data-id="3974" src="Sierra-10.12-September-16-2017-Apple-Safari.png"><figcaption>Mac OS X 10.12 Sierra Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.12 Sierra Running on a 15&quot; MacBook Pro" data-id="3974" src="Sierra-10.12-September-16-2017-Apple-Safari.png"><figcaption>macOS 10.12 Sierra Running on a 15″ MacBook Pro</figcaption></figure>
     
 
-Max OS X 10.13 High Sierra
---------------------------
+macOS 10.13 High Sierra
+-----------------------
 
 High Sierra was another stabilization and maintenance release. I still took screenshots, but there isn’t much new to see here either.
 
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.13 High Sierra Running on a 15&quot; MacBook Pro" data-id="3980" src="High-Sierra-10.13-September-16-2018.png"><figcaption>Mac OS X 10.13 High Sierra Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.13 High Sierra Running on a 15&quot; MacBook Pro" data-id="3980" src="High-Sierra-10.13-September-16-2018.png"><figcaption>macOS 10.13 High Sierra Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.13 High Sierra Running on a 15&quot; MacBook Pro" data-id="3981" src="High-Sierra-10.13-September-16-2018-About-macOS.png"><figcaption>Mac OS X 10.13 High Sierra Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.13 High Sierra Running on a 15&quot; MacBook Pro" data-id="3981" src="High-Sierra-10.13-September-16-2018-About-macOS.png"><figcaption>macOS 10.13 High Sierra Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.13 High Sierra Running on a 15&quot; MacBook Pro" data-id="3979" src="High-Sierra-10.13-September-16-2018-Finder.png"><figcaption>Mac OS X 10.13 High Sierra Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.13 High Sierra Running on a 15&quot; MacBook Pro" data-id="3979" src="High-Sierra-10.13-September-16-2018-Finder.png"><figcaption>macOS 10.13 High Sierra Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.13 High Sierra Running on a 15&quot; MacBook Pro" data-id="3978" src="High-Sierra-10.13-September-16-2018-Apple-Safari.png"><figcaption>Mac OS X 10.13 High Sierra Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.13 High Sierra Running on a 15&quot; MacBook Pro" data-id="3978" src="High-Sierra-10.13-September-16-2018-Apple-Safari.png"><figcaption>macOS 10.13 High Sierra Running on a 15″ MacBook Pro</figcaption></figure>
     
 
-Max OS X 10.14 Mojave
----------------------
+macOS 10.14 Mojave
+------------------
 
 Mojave brought about the biggest UI change since Yosemite: full dark mode. I was always a fan of dark mode and was very excited for this release because of it. It also included the blue ink wallpaper seen below that I have used on every computer (even [Linux](https://blog.alexseifert.com/2024/08/08/using-linux-on-my-pc/) and Windows) since.
 
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.14 Mojave Running on a 15&quot; MacBook Pro" data-id="3986" src="Mojave-10.14-May-23-2019.png"><figcaption>Mac OS X 10.14 Mojave Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.14 Mojave Running on a 15&quot; MacBook Pro" data-id="3986" src="Mojave-10.14-May-23-2019.png"><figcaption>macOS 10.14 Mojave Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.14 Mojave Running on a 15&quot; MacBook Pro" data-id="3983" src="Mojave-10.14-May-23-2019-About-macOS.png"><figcaption>Mac OS X 10.14 Mojave Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.14 Mojave Running on a 15&quot; MacBook Pro" data-id="3983" src="Mojave-10.14-May-23-2019-About-macOS.png"><figcaption>macOS 10.14 Mojave Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.14 Mojave Running on a 15&quot; MacBook Pro" data-id="3985" src="Mojave-10.14-May-23-2019-Finder.png"><figcaption>Mac OS X 10.14 Mojave Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.14 Mojave Running on a 15&quot; MacBook Pro" data-id="3985" src="Mojave-10.14-May-23-2019-Finder.png"><figcaption>macOS 10.14 Mojave Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.14 Mojave Running on a 15&quot; MacBook Pro" data-id="3984" src="Mojave-10.14-May-23-2019-Apple-Safari.png"><figcaption>Mac OS X 10.14 Mojave Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.14 Mojave Running on a 15&quot; MacBook Pro" data-id="3984" src="Mojave-10.14-May-23-2019-Apple-Safari.png"><figcaption>macOS 10.14 Mojave Running on a 15″ MacBook Pro</figcaption></figure>
     
 
-Max OS X 10.15 Catalina
------------------------
+macOS 10.15 Catalina
+--------------------
 
-This was the last release of the Mac OS X brand and also the last release before another major UI update. Otherwise, not much else to say about it in terms of looks.
+This was the last release before another major UI update. Otherwise, not much else to say about it in terms of looks.
 
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.15 Catalina Running on a 15&quot; MacBook Pro" data-id="3992" src="Catalina-10.15-February-26-2020.png"><figcaption>Mac OS X 10.15 Catalina Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.15 Catalina Running on a 15&quot; MacBook Pro" data-id="3992" src="Catalina-10.15-February-26-2020.png"><figcaption>macOS 10.15 Catalina Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.15 Catalina Running on a 15&quot; MacBook Pro" data-id="3989" src="Catalina-10.15-February-26-2020-About-macOS.png"><figcaption>Mac OS X 10.15 Catalina Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.15 Catalina Running on a 15&quot; MacBook Pro" data-id="3989" src="Catalina-10.15-February-26-2020-About-macOS.png"><figcaption>macOS 10.15 Catalina Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.15 Catalina Running on a 15&quot; MacBook Pro" data-id="3991" src="Catalina-10.15-February-26-2020-Finder.png"><figcaption>Mac OS X 10.15 Catalina Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.15 Catalina Running on a 15&quot; MacBook Pro" data-id="3991" src="Catalina-10.15-February-26-2020-Finder.png"><figcaption>macOS 10.15 Catalina Running on a 15″ MacBook Pro</figcaption></figure>
     
--   <figure><img loading="lazy" decoding="async" alt="Mac OS X 10.15 Catalina Running on a 15&quot; MacBook Pro" data-id="3990" src="Catalina-10.15-February-26-2020-Apple-Safari.png"><figcaption>Mac OS X 10.15 Catalina Running on a 15″ MacBook Pro</figcaption></figure>
+-   <figure><img loading="lazy" decoding="async" alt="macOS 10.15 Catalina Running on a 15&quot; MacBook Pro" data-id="3990" src="Catalina-10.15-February-26-2020-Apple-Safari.png"><figcaption>macOS 10.15 Catalina Running on a 15″ MacBook Pro</figcaption></figure>
     
 
 macOS 11 Big Sur
 ----------------
 
-There are lots of big changes with this release. Not only was Apple Silicon introduced making Big Sur the first version to support it, but the UI was completely overhauled and the macOS branding was introduced. Apple also dropped the 10.x version names after nearly 20 years.
+There are lots of big changes with this release. Not only was Apple Silicon introduced making Big Sur the first version to support it, but the UI was completely overhauled. Apple also dropped the 10.x version names after nearly 20 years.
 
 -   <figure><img loading="lazy" decoding="async" alt="macOS 11 Big Sur Running on a 15&quot; MacBook Pro" data-id="3997" src="Big-Sur-11.4-June-4-2021.png"><figcaption>macOS 11 Big Sur Running on a 15″ MacBook Pro</figcaption></figure>
     
