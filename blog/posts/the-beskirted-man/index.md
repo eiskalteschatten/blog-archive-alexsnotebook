@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [What should I do when people are uncomfortable seeing me in a dress?](https://www.the-beskirted-man.com/in-the-media/what-should-i-do-when-people-are-uncomfortable-seeing-me-in-a-dress/)
+    
 -   [“Wearing a skirt makes you so much more approachable”](https://www.the-beskirted-man.com/personal-experiences/wearing-a-skirt-makes-you-so-much-more-approachable/)
     
 -   [My Son and My Heeled Boots](https://www.the-beskirted-man.com/high-heels/my-son-and-my-heeled-boots/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Ugh! My husband wants to wear women’s clothes…](https://www.the-beskirted-man.com/in-the-media/ugh-my-husband-wants-to-wear-womens-clothes/)
     
 -   [Taiwanese Boys Can Wear Skirts In This School, But S’pore Schools Unlikely To Follow](https://www.the-beskirted-man.com/in-the-media/taiwanese-boys-can-wear-skirts-in-this-school-but-spore-schools-unlikely-to-follow/)
-    
--   [‘Doctor Who’ Costume Designer on What Inspired Ncuti Gatwa’s Bold Look, From ’70s New York to Men in Skirts](https://www.the-beskirted-man.com/in-the-media/doctor-who-costume-designer-on-what-inspired-ncuti-gatwas-bold-look-from-70s-new-york-to-men-in-skirts/)
