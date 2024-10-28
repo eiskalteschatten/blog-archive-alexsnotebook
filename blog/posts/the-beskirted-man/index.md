@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [My First Time Wearing a Skirt to the Office](https://www.the-beskirted-man.com/in-public/my-first-time-wearing-a-skirt-to-the-office/)
+    
 -   [What should I do when people are uncomfortable seeing me in a dress?](https://www.the-beskirted-man.com/in-the-media/what-should-i-do-when-people-are-uncomfortable-seeing-me-in-a-dress/)
     
 -   [“Wearing a skirt makes you so much more approachable”](https://www.the-beskirted-man.com/personal-experiences/wearing-a-skirt-makes-you-so-much-more-approachable/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [A Big First for Me](https://www.the-beskirted-man.com/in-the-media/a-big-first-for-me/)
     
 -   [Ugh! My husband wants to wear women’s clothes…](https://www.the-beskirted-man.com/in-the-media/ugh-my-husband-wants-to-wear-womens-clothes/)
-    
--   [Taiwanese Boys Can Wear Skirts In This School, But S’pore Schools Unlikely To Follow](https://www.the-beskirted-man.com/in-the-media/taiwanese-boys-can-wear-skirts-in-this-school-but-spore-schools-unlikely-to-follow/)
