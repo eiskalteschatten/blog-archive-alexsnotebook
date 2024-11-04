@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [The Dress in the Closet](https://www.the-beskirted-man.com/skirts-and-dresses/the-dress-in-the-closet/)
+    
 -   [Going on a Business Trip with a Skirt and Heels](https://www.the-beskirted-man.com/in-the-media/going-on-a-business-trip-with-a-skirt-and-heels/)
     
 -   [My First Time Wearing a Skirt to the Office](https://www.the-beskirted-man.com/in-public/my-first-time-wearing-a-skirt-to-the-office/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Wearing a Skirt for the First Time with My Mother-In-Law](https://www.the-beskirted-man.com/personal-experiences/wearing-a-skirt-for-the-first-time-with-my-mother-in-law/)
     
 -   [A Quick Status Update](https://www.the-beskirted-man.com/general/a-quick-status-update/)
-    
--   [A Big First for Me](https://www.the-beskirted-man.com/in-the-media/a-big-first-for-me/)
