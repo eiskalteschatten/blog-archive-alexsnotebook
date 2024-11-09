@@ -8,4 +8,4 @@ For more details about the update and what has changed, see the [Release Notes](
 
 You can download ScratchPad 1.1 either by clicking “Check for Updates” in the application menu or by clicking [here](http://seifertalex.googlepages.com/ScratchPad_1.1.dmg).
 
-[![](https://i0.wp.com/seifertalex.googlepages.com/Picture3.png/Picture3-medium;init:.jpg)](https://i0.wp.com/seifertalex.googlepages.com/Picture3.png/Picture3-full;init:.png)
+[![](https://i0.wp.com/seifertalex.googlepages.com/Picture3.png/Picture3-medium%3Binit%3A.jpg)](https://i0.wp.com/seifertalex.googlepages.com/Picture3.png/Picture3-full%3Binit%3A.png)
