@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Results of the Gender Poll](https://www.the-beskirted-man.com/gender/results-of-the-gender-poll/)
+    
 -   [Minding My Business](https://www.the-beskirted-man.com/in-the-media/minding-my-business/)
     
 -   [The Beskirted Lumberjack – An Outfit](https://www.the-beskirted-man.com/outfits/the-beskirted-lumberjack-an-outfit/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [“Wearing a skirt makes you so much more approachable”](https://www.the-beskirted-man.com/personal-experiences/wearing-a-skirt-makes-you-so-much-more-approachable/)
     
 -   [My Son and My Heeled Boots](https://www.the-beskirted-man.com/high-heels/my-son-and-my-heeled-boots/)
-    
--   [Society Only Wants You to Wear a Dress If You Look Like a Woman](https://www.the-beskirted-man.com/in-the-media/society-only-wants-you-to-wear-a-dress-if-you-look-like-a-woman/)
