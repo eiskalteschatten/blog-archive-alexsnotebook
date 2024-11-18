@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Discussion: How do you make tights comfortable?](https://www.the-beskirted-man.com/styling/discussion-how-do-you-make-tights-comfortable/)
+    
 -   [Are Skirts for Men Truly Groundbreaking and Gender-Defying?](https://www.the-beskirted-man.com/in-the-media/are-skirts-for-men-truly-groundbreaking-and-gender-defying/)
     
 -   [Results of the Gender Poll](https://www.the-beskirted-man.com/gender/results-of-the-gender-poll/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [My First Time Wearing a Skirt to the Office](https://www.the-beskirted-man.com/in-public/my-first-time-wearing-a-skirt-to-the-office/)
     
 -   [What should I do when people are uncomfortable seeing me in a dress?](https://www.the-beskirted-man.com/in-the-media/what-should-i-do-when-people-are-uncomfortable-seeing-me-in-a-dress/)
-    
--   [“Wearing a skirt makes you so much more approachable”](https://www.the-beskirted-man.com/personal-experiences/wearing-a-skirt-makes-you-so-much-more-approachable/)
