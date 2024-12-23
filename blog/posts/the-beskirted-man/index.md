@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Happy Holidays!](https://www.the-beskirted-man.com/general/happy-holidays-2024/)
+    
 -   [I, just for once, wanted to wear high heels: My high heels journey](https://www.the-beskirted-man.com/in-the-media/i-just-for-once-wanted-to-wear-high-heels-my-high-heels-journey/)
     
 -   [Friday essay: will the perfect men’s dress ever exist – and would men wear it?](https://www.the-beskirted-man.com/in-the-media/friday-essay-will-the-perfect-mens-dress-ever-exist-and-would-men-wear-it/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Results of the Gender Poll](https://www.the-beskirted-man.com/gender/results-of-the-gender-poll/)
     
 -   [Minding My Business](https://www.the-beskirted-man.com/in-the-media/minding-my-business/)
-    
--   [The Beskirted Lumberjack – An Outfit](https://www.the-beskirted-man.com/outfits/the-beskirted-lumberjack-an-outfit/)
