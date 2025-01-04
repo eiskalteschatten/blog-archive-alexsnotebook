@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Men In Skirts-How Should Men Dress?](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-how-should-men-dress/)
+    
 -   [Sharp Dress, Man](https://www.the-beskirted-man.com/in-the-media/sharp-dress-man/)
     
 -   [Happy Holidays!](https://www.the-beskirted-man.com/general/happy-holidays-2024/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Discussion: How do you make tights comfortable?](https://www.the-beskirted-man.com/styling/discussion-how-do-you-make-tights-comfortable/)
     
 -   [Are Skirts for Men Truly Groundbreaking and Gender-Defying?](https://www.the-beskirted-man.com/in-the-media/are-skirts-for-men-truly-groundbreaking-and-gender-defying/)
-    
--   [Results of the Gender Poll](https://www.the-beskirted-man.com/gender/results-of-the-gender-poll/)
