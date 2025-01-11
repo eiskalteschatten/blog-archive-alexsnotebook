@@ -14,4 +14,22 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
-**RSS Error:** A feed could not be found at \`https://www.the-beskirted-man.com/feed\`. This does not appear to be a valid RSS or Atom feed.
+-   [Study reveals that 2 in 5 men regularly wear women’s fashion](https://www.the-beskirted-man.com/in-the-media/study-reveals-that-2-in-5-men-regularly-wear-womens-fashion/)
+    
+-   [Men In Skirts-How Should Men Dress?](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-how-should-men-dress/)
+    
+-   [Sharp Dress, Man](https://www.the-beskirted-man.com/in-the-media/sharp-dress-man/)
+    
+-   [Happy Holidays!](https://www.the-beskirted-man.com/general/happy-holidays-2024/)
+    
+-   [I, just for once, wanted to wear high heels: My high heels journey](https://www.the-beskirted-man.com/in-the-media/i-just-for-once-wanted-to-wear-high-heels-my-high-heels-journey/)
+    
+-   [Friday essay: will the perfect men’s dress ever exist – and would men wear it?](https://www.the-beskirted-man.com/in-the-media/friday-essay-will-the-perfect-mens-dress-ever-exist-and-would-men-wear-it/)
+    
+-   [Why don’t more men wear skirts?](https://www.the-beskirted-man.com/in-the-media/why-dont-more-men-wear-skirts/)
+    
+-   [What we can learn from an Indonesian ethnicity that recognizes five genders](https://www.the-beskirted-man.com/in-the-media/what-we-can-learn-from-an-indonesian-ethnicity-that-recognizes-five-genders/)
+    
+-   [Straight men also like to wear high heels: My high heels journey](https://www.the-beskirted-man.com/in-the-media/straight-men-also-like-to-wear-high-heels-my-high-heels-journey/)
+    
+-   [Discussion: How do you make tights comfortable?](https://www.the-beskirted-man.com/styling/discussion-how-do-you-make-tights-comfortable/)
