@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [A Beskirted Trip to Ikea](https://www.the-beskirted-man.com/in-public/a-beskirted-trip-to-ikea/)
+    
 -   [Helpful Pantyhose Advice](https://www.the-beskirted-man.com/in-the-media/helpful-pantyhose-advice/)
     
 -   [Poll: Do you prefer tights with or without feet?](https://www.the-beskirted-man.com/polls/poll-do-you-prefer-tights-with-or-without-feet/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [I, just for once, wanted to wear high heels: My high heels journey](https://www.the-beskirted-man.com/in-the-media/i-just-for-once-wanted-to-wear-high-heels-my-high-heels-journey/)
     
 -   [Friday essay: will the perfect men’s dress ever exist – and would men wear it?](https://www.the-beskirted-man.com/in-the-media/friday-essay-will-the-perfect-mens-dress-ever-exist-and-would-men-wear-it/)
-    
--   [Why don’t more men wear skirts?](https://www.the-beskirted-man.com/in-the-media/why-dont-more-men-wear-skirts/)
