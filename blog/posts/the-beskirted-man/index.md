@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Politics and The Beskirted Man](https://www.the-beskirted-man.com/general/politics-and-the-beskirted-man/)
+    
 -   [The Dress for Men: It’s Back!](https://www.the-beskirted-man.com/in-the-media/the-dress-for-men-its-back/)
     
 -   [A Beskirted Trip to Ikea](https://www.the-beskirted-man.com/in-public/a-beskirted-trip-to-ikea/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Sharp Dress, Man](https://www.the-beskirted-man.com/in-the-media/sharp-dress-man/)
     
 -   [Happy Holidays!](https://www.the-beskirted-man.com/general/happy-holidays-2024/)
-    
--   [I, just for once, wanted to wear high heels: My high heels journey](https://www.the-beskirted-man.com/in-the-media/i-just-for-once-wanted-to-wear-high-heels-my-high-heels-journey/)
