@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [The Red Sneakers Effect](https://www.the-beskirted-man.com/in-the-media/the-red-sneakers-effect/)
+    
 -   [Politics and The Beskirted Man](https://www.the-beskirted-man.com/general/politics-and-the-beskirted-man/)
     
 -   [The Dress for Men: It’s Back!](https://www.the-beskirted-man.com/in-the-media/the-dress-for-men-its-back/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Men In Skirts-How Should Men Dress?](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-how-should-men-dress/)
     
 -   [Sharp Dress, Man](https://www.the-beskirted-man.com/in-the-media/sharp-dress-man/)
-    
--   [Happy Holidays!](https://www.the-beskirted-man.com/general/happy-holidays-2024/)
