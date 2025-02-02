@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Christmas Markets in Skirts](https://www.the-beskirted-man.com/in-public/christmas-markets-in-skirts/)
+    
 -   [The Red Sneakers Effect](https://www.the-beskirted-man.com/in-the-media/the-red-sneakers-effect/)
     
 -   [Politics and The Beskirted Man](https://www.the-beskirted-man.com/general/politics-and-the-beskirted-man/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Study reveals that 2 in 5 men regularly wear women’s fashion](https://www.the-beskirted-man.com/in-the-media/study-reveals-that-2-in-5-men-regularly-wear-womens-fashion/)
     
 -   [Men In Skirts-How Should Men Dress?](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-how-should-men-dress/)
-    
--   [Sharp Dress, Man](https://www.the-beskirted-man.com/in-the-media/sharp-dress-man/)
