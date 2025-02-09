@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Down and Out](https://www.the-beskirted-man.com/general/down-and-out/)
+    
 -   [Why are men in skirts still stigmatized: A journey to the origins of a misogynistic prejudice](https://www.the-beskirted-man.com/in-the-media/why-are-men-in-skirts-still-stigmatized-a-journey-to-the-origins-of-a-misogynistic-prejudice/)
     
 -   [Christmas Markets in Skirts](https://www.the-beskirted-man.com/in-public/christmas-markets-in-skirts/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Poll: Do you prefer tights with or without feet?](https://www.the-beskirted-man.com/polls/poll-do-you-prefer-tights-with-or-without-feet/)
     
 -   [Christmas Skirts](https://www.the-beskirted-man.com/skirts-and-dresses/christmas-skirts/)
-    
--   [Study reveals that 2 in 5 men regularly wear women’s fashion](https://www.the-beskirted-man.com/in-the-media/study-reveals-that-2-in-5-men-regularly-wear-womens-fashion/)
