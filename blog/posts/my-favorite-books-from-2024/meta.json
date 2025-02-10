@@ -1,0 +1,18 @@
+{
+  "id": "my-favorite-books-from-2024",
+  "title": "My Favorite Books from 2024",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "tom-hermans-9BoqXzEeQqM-unsplash-scaled.jpg",
+  "excerpt": "With the new year ushered in over a month ago, it&#8217;s time to recap my favorite books I read in 2024.\n",
+  "categories": [
+    "books",
+    "featured"
+  ],
+  "tags": [],
+  "publishedDate": "2025-02-09T14:44:07",
+  "updatedAt": "2025-02-09T14:47:30",
+  "wordpressId": 7500
+}

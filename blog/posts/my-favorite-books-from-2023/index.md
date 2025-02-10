@@ -2,7 +2,7 @@
 
 Last year, I [compiled a list of my favorite books](https://blog.alexseifert.com/2023/01/09/my-favorite-books-from-2022/) from 2022 which is the first time I had ever done that. Since I enjoyed thoroughly enjoyed reliving my favorite books throughout the year, I decided to do the same again this year and put together a list of my favorite books from 2023.
 
-*Note: I am not sponsored in anyway* a*nd what follows is my genuine opinion.*
+*Note: I am not sponsored in any way and what follows is my genuine opinion.*
 
 *The Whistling* by Rebecca Netley
 ---------------------------------

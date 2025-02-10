@@ -2,7 +2,7 @@
 
 As an avid reader, I’m always eager to share a good book once I’m finished with it. Usually, I read both fiction and non-fiction, but I found so many good novels to read in 2022, that I never got around to tackling my non-fiction pile. Of all the novels I read, these are the books that stood out from the pack.
 
-*Note: I am not sponsored in anyway* a*nd what follows is my genuine opinion. The links are, however, affiliate links.*
+*Note: I am not sponsored in any way and what follows is my genuine opinion. The links are, however, affiliate links.*
 
 **[*The Death of Jane Lawrence* by Caitlin Starling](https://www.amazon.com/Death-Jane-Lawrence-Novel/dp/1250272580?_encoding=UTF8&qid=1673341171&sr=8-1&linkCode=ll1&tag=alexsnotebook-20&linkId=afb8b350bec55dd7fc4cbee8eb21880b&language=en_US&ref_=as_li_ss_tl)**
 
