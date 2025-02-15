@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Men Can Be Men and Wear Dresses, Too: Gender Equality in Fashion](https://www.the-beskirted-man.com/in-the-media/men-can-be-men-and-wear-dresses-too-gender-equality-in-fashion/)
+    
 -   [Down and Out](https://www.the-beskirted-man.com/general/down-and-out/)
     
 -   [Why are men in skirts still stigmatized: A journey to the origins of a misogynistic prejudice](https://www.the-beskirted-man.com/in-the-media/why-are-men-in-skirts-still-stigmatized-a-journey-to-the-origins-of-a-misogynistic-prejudice/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Helpful Pantyhose Advice](https://www.the-beskirted-man.com/in-the-media/helpful-pantyhose-advice/)
     
 -   [Poll: Do you prefer tights with or without feet?](https://www.the-beskirted-man.com/polls/poll-do-you-prefer-tights-with-or-without-feet/)
-    
--   [Christmas Skirts](https://www.the-beskirted-man.com/skirts-and-dresses/christmas-skirts/)
