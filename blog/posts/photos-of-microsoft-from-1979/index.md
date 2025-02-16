@@ -1,0 +1,9 @@
+<figure><img loading="lazy" decoding="async" src="Microsoft-logo-1970s.jpg" alt="The Microsoft Logo from the 1970s"><figcaption>The Microsoft Logo from the 1970s</figcaption></figure>
+
+A little while ago, I stumbled upon a [collection of photos](https://web.archive.org/web/20190404064400/http://www.sound-photo.com/microsoft/microsoft.htm) taken from Microsoft’s office in Albuquerque, New Mexico in 1979. At the time, Microsoft was just a small company and it certainly wasn’t clear that they would become the mega-corporation they are now. [Even Bill Gates recently said](https://www.windowscentral.com/microsoft/bill-gates-says-i-thought-i-was-one-mistake-away-from-death-microsofts-success-and-his-billionaire-status-didnt-really-arrive-until-the-late-90s), “I wouldn’t say that I felt comfortable that we were successful until about 1998 or so.”
+
+The [photos](https://web.archive.org/web/20190404064400/http://www.sound-photo.com/microsoft/microsoft.htm) are fascinating to look at because they provide a glimpse into how it was to work at a computer company during the infancy of the computing industry as we now know it. While most people have computers on their desks, there is certainly a lot more paper than you would see on most programmers’ desks today. Also, several of them were photographed looking at binders and books rather than on their computers which would unlikely be what you would see today.
+
+Overall, it’s interesting to see how times have changed and how thoroughly computers have changed our working environments. At the time same though, it’s interesting to see how little programmers have changed. No suits and ties to be found despite that being the standard office attire at the time!
+
+You can find the photos as well as information about them provided by the photographer at the [Web Archives](https://web.archive.org/web/20190404064400/http://www.sound-photo.com/microsoft/microsoft.htm).
