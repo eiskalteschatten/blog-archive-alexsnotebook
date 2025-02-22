@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Where’s My Waistline? Tips for the Skirted Male](https://www.the-beskirted-man.com/in-the-media/wheres-my-waistline-tips-for-the-skirted-male/)
+    
 -   [Men Can Be Men and Wear Dresses, Too: Gender Equality in Fashion](https://www.the-beskirted-man.com/in-the-media/men-can-be-men-and-wear-dresses-too-gender-equality-in-fashion/)
     
 -   [Down and Out](https://www.the-beskirted-man.com/general/down-and-out/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [A Beskirted Trip to Ikea](https://www.the-beskirted-man.com/in-public/a-beskirted-trip-to-ikea/)
     
 -   [Helpful Pantyhose Advice](https://www.the-beskirted-man.com/in-the-media/helpful-pantyhose-advice/)
-    
--   [Poll: Do you prefer tights with or without feet?](https://www.the-beskirted-man.com/polls/poll-do-you-prefer-tights-with-or-without-feet/)
