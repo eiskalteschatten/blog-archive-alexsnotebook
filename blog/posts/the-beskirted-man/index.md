@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [The Skirtonians Weekly Drop-In Group](https://www.the-beskirted-man.com/events/the-skirtonians-weekly-drop-in-group/)
+    
 -   [Where’s My Waistline? Tips for the Skirted Male](https://www.the-beskirted-man.com/in-the-media/wheres-my-waistline-tips-for-the-skirted-male/)
     
 -   [Men Can Be Men and Wear Dresses, Too: Gender Equality in Fashion](https://www.the-beskirted-man.com/in-the-media/men-can-be-men-and-wear-dresses-too-gender-equality-in-fashion/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [The Dress for Men: It’s Back!](https://www.the-beskirted-man.com/in-the-media/the-dress-for-men-its-back/)
     
 -   [A Beskirted Trip to Ikea](https://www.the-beskirted-man.com/in-public/a-beskirted-trip-to-ikea/)
-    
--   [Helpful Pantyhose Advice](https://www.the-beskirted-man.com/in-the-media/helpful-pantyhose-advice/)
