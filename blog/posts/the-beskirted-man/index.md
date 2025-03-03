@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Profiles of Beskirted Men: Paul R](https://www.the-beskirted-man.com/profiles-of-beskirted-men/profiles-of-beskirted-men-paul-r/)
+    
 -   [Men in Skirts: Getting Your Partner’s Support](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-getting-your-partners-support/)
     
 -   [The Skirtonians Weekly Drop-In Group](https://www.the-beskirted-man.com/events/the-skirtonians-weekly-drop-in-group/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [The Red Sneakers Effect](https://www.the-beskirted-man.com/in-the-media/the-red-sneakers-effect/)
     
 -   [Politics and The Beskirted Man](https://www.the-beskirted-man.com/general/politics-and-the-beskirted-man/)
-    
--   [The Dress for Men: It’s Back!](https://www.the-beskirted-man.com/in-the-media/the-dress-for-men-its-back/)
