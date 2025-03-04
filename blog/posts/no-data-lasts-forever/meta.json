@@ -1,0 +1,23 @@
+{
+  "id": "no-data-lasts-forever",
+  "title": "No Data Lasts Forever",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "an-archive-featuring-rows-of-shelves-filled-with-old-papers-books-floppy-disks-and-hard-drives.jpg",
+  "excerpt": "I recently ran into a blog post on another blog titled &#8220;No Data Lasts Forever.&#8221; It inspired me to think more about my own data preservation.\n",
+  "categories": [
+    "development",
+    "featured",
+    "notes"
+  ],
+  "tags": [
+    "archiving",
+    "data",
+    "Databases"
+  ],
+  "publishedDate": "2025-03-03T10:09:28",
+  "updatedAt": "2025-03-03T10:09:31",
+  "wordpressId": 8015
+}
