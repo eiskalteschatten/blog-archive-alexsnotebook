@@ -1,0 +1,23 @@
+{
+  "id": "linus-torvalds-on-c",
+  "title": "Linus Torvalds on C++",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "an-angry-man-with-round-glasses-yelling-at-his-computer.jpg",
+  "excerpt": "I somewhat recently ran into this screenshot of a rant that Linus Torvalds went on about C++ and why he thinks C is the better programming language.\n",
+  "categories": [
+    "development",
+    "notes",
+    "software-architecture"
+  ],
+  "tags": [
+    "C++",
+    "git",
+    "Linus Torvalds"
+  ],
+  "publishedDate": "2025-03-04T08:42:00",
+  "updatedAt": "2025-03-03T14:35:52",
+  "wordpressId": 8078
+}
