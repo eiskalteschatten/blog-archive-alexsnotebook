@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Skirts: Are You Man Enough To Wear One?](https://www.the-beskirted-man.com/in-the-media/skirts-are-you-man-enough-to-wear-one/)
+    
 -   [Guys Are Freaking It In Skirts and Shorts All Across Europe Right Now](https://www.the-beskirted-man.com/in-the-media/guys-are-freaking-it-in-skirts-and-shorts-all-across-europe-right-now-2/)
     
 -   [Profiles of Beskirted Men: Paul R](https://www.the-beskirted-man.com/profiles-of-beskirted-men/profiles-of-beskirted-men-paul-r/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Why are men in skirts still stigmatized: A journey to the origins of a misogynistic prejudice](https://www.the-beskirted-man.com/in-the-media/why-are-men-in-skirts-still-stigmatized-a-journey-to-the-origins-of-a-misogynistic-prejudice/)
     
 -   [Christmas Markets in Skirts](https://www.the-beskirted-man.com/in-public/christmas-markets-in-skirts/)
-    
--   [The Red Sneakers Effect](https://www.the-beskirted-man.com/in-the-media/the-red-sneakers-effect/)
