@@ -14,6 +14,10 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Felix’s New Skirt](https://www.the-beskirted-man.com/in-the-media/felixs-new-skirt/)
+    
+-   [A Social Media Update](https://www.the-beskirted-man.com/general/a-social-media-update/)
+    
 -   [Skirts: Are You Man Enough To Wear One?](https://www.the-beskirted-man.com/in-the-media/skirts-are-you-man-enough-to-wear-one/)
     
 -   [Guys Are Freaking It In Skirts and Shorts All Across Europe Right Now](https://www.the-beskirted-man.com/in-the-media/guys-are-freaking-it-in-skirts-and-shorts-all-across-europe-right-now-2/)
@@ -29,7 +33,3 @@ Also, here are the latest posts:
 -   [Men Can Be Men and Wear Dresses, Too: Gender Equality in Fashion](https://www.the-beskirted-man.com/in-the-media/men-can-be-men-and-wear-dresses-too-gender-equality-in-fashion/)
     
 -   [Down and Out](https://www.the-beskirted-man.com/general/down-and-out/)
-    
--   [Why are men in skirts still stigmatized: A journey to the origins of a misogynistic prejudice](https://www.the-beskirted-man.com/in-the-media/why-are-men-in-skirts-still-stigmatized-a-journey-to-the-origins-of-a-misogynistic-prejudice/)
-    
--   [Christmas Markets in Skirts](https://www.the-beskirted-man.com/in-public/christmas-markets-in-skirts/)
