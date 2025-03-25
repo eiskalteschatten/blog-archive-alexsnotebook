@@ -1,0 +1,23 @@
+{
+  "id": "typescripts-compiler-will-be-rewritten-using-go",
+  "title": "TypeScript’s Compiler Will Be Rewritten Using Go",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "typescript-logo.png",
+  "excerpt": "In an effort to speed up TypeScript compilation, Microsoft has decided to rewrite the compiler to be a native application.\n",
+  "categories": [
+    "development",
+    "notes",
+    "programs-tools"
+  ],
+  "tags": [
+    "Golang",
+    "Microsoft",
+    "TypeScript"
+  ],
+  "publishedDate": "2025-03-12T21:32:00",
+  "updatedAt": "2025-03-24T18:04:53",
+  "wordpressId": 8205
+}
