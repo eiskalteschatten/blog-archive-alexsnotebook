@@ -1,4 +1,4 @@
-[![Strange, Dead Memories](https://i0.wp.com/www.alexseifertmusic.com/_images/albums/strangedeadmemories400.png?resize=400%2C400&ssl=1 "Strange, Dead Memories")](https://www.alexseifertmusic.com/music/#singles)
+[![Strange, Dead Memories](Strange-Dead-Memories-Transparent.png)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2011/11/Strange-Dead-Memories-Transparent.png?ssl=1)
 
 Strange, Dead Memories
 
