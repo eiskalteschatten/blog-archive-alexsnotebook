@@ -14,6 +14,10 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [A Trip to the Playground](https://www.the-beskirted-man.com/in-public/a-trip-to-the-playground/)
+    
+-   [Måneskin – A Band With Two Men Who Wear Skirts](https://www.the-beskirted-man.com/in-the-media/maneskin-a-band-with-two-men-who-wear-skirts/)
+    
 -   [Felix’s New Skirt](https://www.the-beskirted-man.com/in-the-media/felixs-new-skirt/)
     
 -   [A Social Media Update](https://www.the-beskirted-man.com/general/a-social-media-update/)
@@ -29,7 +33,3 @@ Also, here are the latest posts:
 -   [The Skirtonians Weekly Drop-In Group](https://www.the-beskirted-man.com/events/the-skirtonians-weekly-drop-in-group/)
     
 -   [Where’s My Waistline? Tips for the Skirted Male](https://www.the-beskirted-man.com/in-the-media/wheres-my-waistline-tips-for-the-skirted-male/)
-    
--   [Men Can Be Men and Wear Dresses, Too: Gender Equality in Fashion](https://www.the-beskirted-man.com/in-the-media/men-can-be-men-and-wear-dresses-too-gender-equality-in-fashion/)
-    
--   [Down and Out](https://www.the-beskirted-man.com/general/down-and-out/)
