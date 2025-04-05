@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [A Brief History Of Men In Skirts And 5 Ways To Pull It Off Today](https://www.the-beskirted-man.com/in-the-media/a-brief-history-of-men-in-skirts-and-5-ways-to-pull-it-off-today/)
+    
 -   [A Trip to the Playground](https://www.the-beskirted-man.com/in-public/a-trip-to-the-playground/)
     
 -   [Måneskin – A Band With Two Men Who Wear Skirts](https://www.the-beskirted-man.com/in-the-media/maneskin-a-band-with-two-men-who-wear-skirts/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Men in Skirts: Getting Your Partner’s Support](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-getting-your-partners-support/)
     
 -   [The Skirtonians Weekly Drop-In Group](https://www.the-beskirted-man.com/events/the-skirtonians-weekly-drop-in-group/)
-    
--   [Where’s My Waistline? Tips for the Skirted Male](https://www.the-beskirted-man.com/in-the-media/wheres-my-waistline-tips-for-the-skirted-male/)
