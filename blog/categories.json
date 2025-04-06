@@ -112,5 +112,11 @@
     "name": "Writing",
     "description": "",
     "wordpressId": 334
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "description": "",
+    "wordpressId": 503
   }
 ]
