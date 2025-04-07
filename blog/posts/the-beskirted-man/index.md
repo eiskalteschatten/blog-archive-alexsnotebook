@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Profiles of Beskirted Men: Adam](https://www.the-beskirted-man.com/profiles-of-beskirted-men/adam/)
+    
 -   [A Brief History Of Men In Skirts And 5 Ways To Pull It Off Today](https://www.the-beskirted-man.com/in-the-media/a-brief-history-of-men-in-skirts-and-5-ways-to-pull-it-off-today/)
     
 -   [A Trip to the Playground](https://www.the-beskirted-man.com/in-public/a-trip-to-the-playground/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Profiles of Beskirted Men: Paul R](https://www.the-beskirted-man.com/profiles-of-beskirted-men/profiles-of-beskirted-men-paul-r/)
     
 -   [Men in Skirts: Getting Your Partner’s Support](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-getting-your-partners-support/)
-    
--   [The Skirtonians Weekly Drop-In Group](https://www.the-beskirted-man.com/events/the-skirtonians-weekly-drop-in-group/)
