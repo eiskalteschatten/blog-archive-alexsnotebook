@@ -1,0 +1,20 @@
+{
+  "id": "trapping-misbehaving-bots-in-an-ai-labyrinth",
+  "title": "Trapping misbehaving bots in an AI Labyrinth",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "a-robot-trapped-in-a-maze.jpg",
+  "excerpt": "I recently stumbled upon an article at Ars Technica about Cloudflare turning AI against itself. I thought it was a very interesting strategy in the battle to try to protect creative content against AI training models.\n",
+  "categories": [
+    "development",
+    "notes"
+  ],
+  "tags": [
+    "AI"
+  ],
+  "publishedDate": "2025-04-09T08:01:00",
+  "updatedAt": "2025-04-08T15:02:05",
+  "wordpressId": 8504
+}
