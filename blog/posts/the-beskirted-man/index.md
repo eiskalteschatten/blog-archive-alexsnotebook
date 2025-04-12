@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Breaking Boundaries: Embracing Skirts As A Fashion Forward Option For Men](https://www.the-beskirted-man.com/in-the-media/breaking-boundaries-embracing-skirts-as-a-fashion-forward-option-for-men/)
+    
 -   [Chickening Out](https://www.the-beskirted-man.com/personal-experiences/chickening-out/)
     
 -   [Profiles of Beskirted Men: Adam](https://www.the-beskirted-man.com/profiles-of-beskirted-men/adam/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Skirts: Are You Man Enough To Wear One?](https://www.the-beskirted-man.com/in-the-media/skirts-are-you-man-enough-to-wear-one/)
     
 -   [Guys Are Freaking It In Skirts and Shorts All Across Europe Right Now](https://www.the-beskirted-man.com/in-the-media/guys-are-freaking-it-in-skirts-and-shorts-all-across-europe-right-now-2/)
-    
--   [Profiles of Beskirted Men: Paul R](https://www.the-beskirted-man.com/profiles-of-beskirted-men/profiles-of-beskirted-men-paul-r/)
