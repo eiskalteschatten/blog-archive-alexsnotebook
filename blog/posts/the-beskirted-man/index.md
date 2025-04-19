@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [13 Countries Where Skirts Are Usually Worn by Men](https://www.the-beskirted-man.com/in-the-media/13-countries-where-skirts-are-usually-worn-by-men/)
+    
 -   [Cotton, Denim and Leather – An Every-Day Outfit](https://www.the-beskirted-man.com/outfits/cotton-denim-and-leather-an-every-day-outfit/)
     
 -   [Breaking Boundaries: Embracing Skirts As A Fashion Forward Option For Men](https://www.the-beskirted-man.com/in-the-media/breaking-boundaries-embracing-skirts-as-a-fashion-forward-option-for-men/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Felix’s New Skirt](https://www.the-beskirted-man.com/in-the-media/felixs-new-skirt/)
     
 -   [A Social Media Update](https://www.the-beskirted-man.com/general/a-social-media-update/)
-    
--   [Skirts: Are You Man Enough To Wear One?](https://www.the-beskirted-man.com/in-the-media/skirts-are-you-man-enough-to-wear-one/)
