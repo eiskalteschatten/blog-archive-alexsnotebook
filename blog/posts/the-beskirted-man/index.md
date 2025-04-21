@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Happy Easter!](https://www.the-beskirted-man.com/general/happy-easter-2025/)
+    
 -   [13 Countries Where Skirts Are Usually Worn by Men](https://www.the-beskirted-man.com/in-the-media/13-countries-where-skirts-are-usually-worn-by-men/)
     
 -   [Cotton, Denim and Leather – An Every-Day Outfit](https://www.the-beskirted-man.com/outfits/cotton-denim-and-leather-an-every-day-outfit/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Måneskin – A Band With Two Men Who Wear Skirts](https://www.the-beskirted-man.com/in-the-media/maneskin-a-band-with-two-men-who-wear-skirts/)
     
 -   [Felix’s New Skirt](https://www.the-beskirted-man.com/in-the-media/felixs-new-skirt/)
-    
--   [A Social Media Update](https://www.the-beskirted-man.com/general/a-social-media-update/)
