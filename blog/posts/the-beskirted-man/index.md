@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Profiles of Beskirted Men: Tongim](https://www.the-beskirted-man.com/profiles-of-beskirted-men/tongim/)
+    
 -   [Happy Easter!](https://www.the-beskirted-man.com/general/happy-easter-2025/)
     
 -   [13 Countries Where Skirts Are Usually Worn by Men](https://www.the-beskirted-man.com/in-the-media/13-countries-where-skirts-are-usually-worn-by-men/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [A Trip to the Playground](https://www.the-beskirted-man.com/in-public/a-trip-to-the-playground/)
     
 -   [Måneskin – A Band With Two Men Who Wear Skirts](https://www.the-beskirted-man.com/in-the-media/maneskin-a-band-with-two-men-who-wear-skirts/)
-    
--   [Felix’s New Skirt](https://www.the-beskirted-man.com/in-the-media/felixs-new-skirt/)
