@@ -1,0 +1,25 @@
+{
+  "id": "usage-of-angular-signals-vs-class-variables-according-to-ai",
+  "title": "Usage of Angular Signals vs Class Variables (According to AI)",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "img_0110-1.png",
+  "excerpt": "Since Angular&#8217;s new signals API became stable with the release of version 17, I have been a little confused about when to use them versus standard class variables in components and services. So I asked AI and this is what it told me.\n",
+  "categories": [
+    "development",
+    "notes",
+    "programs-tools",
+    "software-architecture"
+  ],
+  "tags": [
+    "AI",
+    "Angular",
+    "Frontend",
+    "JavaScript"
+  ],
+  "publishedDate": "2025-04-24T10:48:54",
+  "updatedAt": "2025-04-24T10:48:54",
+  "wordpressId": 8633
+}
