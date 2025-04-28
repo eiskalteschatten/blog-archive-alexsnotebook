@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Wearing Skirts and Heels Made Me Question My Gender](https://www.the-beskirted-man.com/gender/wearing-skirts-and-heels-made-me-question-my-gender/)
+    
 -   [Breaking Gender Norms: The Untapped Elegance of Men’s Skirts](https://www.the-beskirted-man.com/in-the-media/breaking-gender-norms-the-untapped-elegance-of-mens-skirts/)
     
 -   [Profiles of Beskirted Men: Tongim](https://www.the-beskirted-man.com/profiles-of-beskirted-men/tongim/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Profiles of Beskirted Men: Adam](https://www.the-beskirted-man.com/profiles-of-beskirted-men/adam/)
     
 -   [A Brief History Of Men In Skirts And 5 Ways To Pull It Off Today](https://www.the-beskirted-man.com/in-the-media/a-brief-history-of-men-in-skirts-and-5-ways-to-pull-it-off-today/)
-    
--   [A Trip to the Playground](https://www.the-beskirted-man.com/in-public/a-trip-to-the-playground/)
