@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [The First “Rethink Masculinity Day”](https://www.the-beskirted-man.com/in-the-media/the-first-rethink-masculinity-day/)
+    
 -   [What does it feel like to wear a skirt as a man?](https://www.the-beskirted-man.com/skirts-and-dresses/what-does-it-feel-like-to-wear-a-skirt-as-a-man/)
     
 -   [The Best Skirts for Guys](https://www.the-beskirted-man.com/in-the-media/the-best-skirts-for-guys/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Cotton, Denim and Leather – An Every-Day Outfit](https://www.the-beskirted-man.com/outfits/cotton-denim-and-leather-an-every-day-outfit/)
     
 -   [Breaking Boundaries: Embracing Skirts As A Fashion Forward Option For Men](https://www.the-beskirted-man.com/in-the-media/breaking-boundaries-embracing-skirts-as-a-fashion-forward-option-for-men/)
-    
--   [Chickening Out](https://www.the-beskirted-man.com/personal-experiences/chickening-out/)
