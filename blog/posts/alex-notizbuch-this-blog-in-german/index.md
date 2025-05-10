@@ -1,0 +1,9 @@
+<figure><img loading="lazy" decoding="async" src="blogging-in-German.jpg" alt="AI-generated image of a woman writing on a computer"><figcaption>AI-generated image of a woman writing on a computer</figcaption></figure>
+
+Recently, I decided to start a blog in German. I named it [Alex’ Notizbuch](https://blog.alexseifert.de/) which is a direct translation of Alex’s Notebook. It uses the same WordPress theme as this blog even though it is an entirely different instance of WordPress.
+
+In fact, there have been a lot of updates to this theme behind the scenes in preparation to launch it. Since I had a bunch of hard-coded strings in English, I had to figure out how to provide translations based on WordPress’s built-in locale feature. It wasn’t that difficult, but despite the many years I’ve developed custom themes, I’d never done that before.
+
+It’s been nearly twenty years since I last had a German blog and I thought it would be fun to do it again. I figure it will be good practice writing in German since I am not a native speaker. Not only that, but there have been quite a few people asking me on social media to translate some of my posts in German. Most of them came from [The Beskirted Man](https://www.the-beskirted-man.com) which means, unlike here, I will be posting about my beskirted adventures on Alex’ Notizbuch as well as about technology, news, and all the other topics I post about here. Essentially, it will be a single blog that combines all of my various [English blogs](https://blog.alexseifert.com/other-blogs/) into one.
+
+I’ve already got a few translations of [featured posts](https://blog.alexseifert.de/category/ausgewaehlte-beitraege/) from this blog and [The Beskirted Man](https://www.the-beskirted-man.com) up on it as well as a couple of original commentaries based on other articles I found on German websites. More content will follow soon though!
