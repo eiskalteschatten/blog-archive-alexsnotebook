@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Should Wearing a Skirt or Heels as a Man Be Considered Crossdressing?](https://www.the-beskirted-man.com/gender/should-wearing-a-skirt-or-heels-as-a-man-be-considered-crossdressing/)
+    
 -   [The First “Rethink Masculinity Day”](https://www.the-beskirted-man.com/in-the-media/the-first-rethink-masculinity-day/)
     
 -   [What does it feel like to wear a skirt as a man?](https://www.the-beskirted-man.com/skirts-and-dresses/what-does-it-feel-like-to-wear-a-skirt-as-a-man/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [13 Countries Where Skirts Are Usually Worn by Men](https://www.the-beskirted-man.com/in-the-media/13-countries-where-skirts-are-usually-worn-by-men/)
     
 -   [Cotton, Denim and Leather – An Every-Day Outfit](https://www.the-beskirted-man.com/outfits/cotton-denim-and-leather-an-every-day-outfit/)
-    
--   [Breaking Boundaries: Embracing Skirts As A Fashion Forward Option For Men](https://www.the-beskirted-man.com/in-the-media/breaking-boundaries-embracing-skirts-as-a-fashion-forward-option-for-men/)
