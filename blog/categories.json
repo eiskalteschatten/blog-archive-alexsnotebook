@@ -118,5 +118,11 @@
     "name": "Games",
     "description": "",
     "wordpressId": 503
+  },
+  {
+    "id": "hardware",
+    "name": "Hardware",
+    "description": "",
+    "wordpressId": 516
   }
 ]
