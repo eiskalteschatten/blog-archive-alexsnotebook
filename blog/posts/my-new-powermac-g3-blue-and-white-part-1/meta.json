@@ -12,7 +12,8 @@
     "operating-systems",
     "programs-tools",
     "projects",
-    "retro-software"
+    "retro-software",
+    "hardware"
   ],
   "tags": [
     "Apple",
@@ -22,6 +23,6 @@
     "PowerMac G3 Blue and White"
   ],
   "publishedDate": "2024-04-17T16:27:00",
-  "updatedAt": "2024-05-04T14:52:39",
+  "updatedAt": "2025-05-16T11:52:29",
   "wordpressId": 3489
 }
