@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Another Friend Finds Out](https://www.the-beskirted-man.com/personal-experiences/another-friend-finds-out/)
+    
 -   [My Son Loves Wearing Dresses — Here’s What It’s Teaching Me](https://www.the-beskirted-man.com/in-the-media/my-son-loves-wearing-dresses-heres-what-its-teaching-me/)
     
 -   [Should Wearing a Skirt or Heels as a Man Be Considered Crossdressing?](https://www.the-beskirted-man.com/gender/should-wearing-a-skirt-or-heels-as-a-man-be-considered-crossdressing/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Profiles of Beskirted Men: Tongim](https://www.the-beskirted-man.com/profiles-of-beskirted-men/tongim/)
     
 -   [Happy Easter!](https://www.the-beskirted-man.com/general/happy-easter-2025/)
-    
--   [13 Countries Where Skirts Are Usually Worn by Men](https://www.the-beskirted-man.com/in-the-media/13-countries-where-skirts-are-usually-worn-by-men/)
