@@ -1,0 +1,21 @@
+{
+  "id": "my-new-thinkpad",
+  "title": "My New ThinkPad",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "img_5575.jpg",
+  "excerpt": "A couple of months ago, I got a new-to-me ThinkPad L14. Even though I&#8217;m a huge fan of Mac, I&#8217;ve always liked ThinkPads and wanted to experiment.\n",
+  "categories": [
+    "hardware"
+  ],
+  "tags": [
+    "Microsoft",
+    "ThinkPad",
+    "Windows"
+  ],
+  "publishedDate": "2025-05-23T16:14:09",
+  "updatedAt": "2025-05-23T16:14:09",
+  "wordpressId": 8887
+}
