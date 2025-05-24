@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Major Dutch Brand Ad Shows Man in Skirt](https://www.the-beskirted-man.com/in-the-media/major-dutch-brand-ad-shows-man-in-skirt/)
+    
 -   [How do transgender politics affect men in skirts?](https://www.the-beskirted-man.com/gender/how-do-transgender-politics-affect-men-in-skirts/)
     
 -   [Another Friend Finds Out](https://www.the-beskirted-man.com/personal-experiences/another-friend-finds-out/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Wearing Skirts and Heels Made Me Question My Gender](https://www.the-beskirted-man.com/gender/wearing-skirts-and-heels-made-me-question-my-gender/)
     
 -   [Breaking Gender Norms: The Untapped Elegance of Men’s Skirts](https://www.the-beskirted-man.com/in-the-media/breaking-gender-norms-the-untapped-elegance-of-mens-skirts/)
-    
--   [Profiles of Beskirted Men: Tongim](https://www.the-beskirted-man.com/profiles-of-beskirted-men/tongim/)
