@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Profiles of Beskirted Men: Miloš Hlávka](https://www.the-beskirted-man.com/profiles-of-beskirted-men/milos-hlavka/)
+    
 -   [Visitors](https://www.the-beskirted-man.com/general/visitors-2025/)
     
 -   [Men in Skirts — More than a Trend](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-more-than-a-trend/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [The First “Rethink Masculinity Day”](https://www.the-beskirted-man.com/in-the-media/the-first-rethink-masculinity-day/)
     
 -   [What does it feel like to wear a skirt as a man?](https://www.the-beskirted-man.com/skirts-and-dresses/what-does-it-feel-like-to-wear-a-skirt-as-a-man/)
-    
--   [The Best Skirts for Guys](https://www.the-beskirted-man.com/in-the-media/the-best-skirts-for-guys/)
