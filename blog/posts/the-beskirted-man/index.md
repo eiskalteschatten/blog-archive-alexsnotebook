@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Why don’t more men wear skirts? (2025)](https://www.the-beskirted-man.com/in-the-media/why-dont-more-men-wear-skirts-2025/)
+    
 -   [Profiles of Beskirted Men: Miloš Hlávka](https://www.the-beskirted-man.com/profiles-of-beskirted-men/milos-hlavka/)
     
 -   [Visitors](https://www.the-beskirted-man.com/general/visitors-2025/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Should Wearing a Skirt or Heels as a Man Be Considered Crossdressing?](https://www.the-beskirted-man.com/gender/should-wearing-a-skirt-or-heels-as-a-man-be-considered-crossdressing/)
     
 -   [The First “Rethink Masculinity Day”](https://www.the-beskirted-man.com/in-the-media/the-first-rethink-masculinity-day/)
-    
--   [What does it feel like to wear a skirt as a man?](https://www.the-beskirted-man.com/skirts-and-dresses/what-does-it-feel-like-to-wear-a-skirt-as-a-man/)
