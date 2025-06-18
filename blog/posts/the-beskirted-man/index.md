@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [Visitors: What Happened](https://www.the-beskirted-man.com/personal-experiences/visitors-2025-what-happened/)
+    
 -   [Men’s Skirts Are on the Rise: 5 Street Style Stars Share Their Favorite Brands](https://www.the-beskirted-man.com/in-the-media/mens-skirts-are-on-the-rise-5-street-style-stars-share-their-favorite-brands/)
     
 -   [Why don’t more men wear skirts? (2025)](https://www.the-beskirted-man.com/in-the-media/why-dont-more-men-wear-skirts-2025/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [Another Friend Finds Out](https://www.the-beskirted-man.com/personal-experiences/another-friend-finds-out/)
     
 -   [My Son Loves Wearing Dresses — Here’s What It’s Teaching Me](https://www.the-beskirted-man.com/in-the-media/my-son-loves-wearing-dresses-heres-what-its-teaching-me/)
-    
--   [Should Wearing a Skirt or Heels as a Man Be Considered Crossdressing?](https://www.the-beskirted-man.com/gender/should-wearing-a-skirt-or-heels-as-a-man-be-considered-crossdressing/)
