@@ -14,6 +14,8 @@ You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https:/
 
 Also, here are the latest posts:
 
+-   [The Rise of the Man in a Skirt](https://www.the-beskirted-man.com/in-the-media/the-rise-of-the-man-in-a-skirt/)
+    
 -   [Visitors: What Happened](https://www.the-beskirted-man.com/personal-experiences/visitors-2025-what-happened/)
     
 -   [Men’s Skirts Are on the Rise: 5 Street Style Stars Share Their Favorite Brands](https://www.the-beskirted-man.com/in-the-media/mens-skirts-are-on-the-rise-5-street-style-stars-share-their-favorite-brands/)
@@ -31,5 +33,3 @@ Also, here are the latest posts:
 -   [How do transgender politics affect men in skirts?](https://www.the-beskirted-man.com/gender/how-do-transgender-politics-affect-men-in-skirts/)
     
 -   [Another Friend Finds Out](https://www.the-beskirted-man.com/personal-experiences/another-friend-finds-out/)
-    
--   [My Son Loves Wearing Dresses — Here’s What It’s Teaching Me](https://www.the-beskirted-man.com/in-the-media/my-son-loves-wearing-dresses-heres-what-its-teaching-me/)
