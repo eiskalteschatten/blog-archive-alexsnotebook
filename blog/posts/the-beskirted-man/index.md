@@ -11,25 +11,3 @@ Otherwise, you can read more about the project and what it’s supposed to achie
 I am, of course, always very interested in any feedback. Please let me know what you think either below in the comments or somewhere as a comment on the blog itself!
 
 You can visit *The Beskirted Man* at [https://www.the-beskirted-man.com](https://www.the-beskirted-man.com/).
-
-Also, here are the latest posts:
-
--   [The Rise of the Man in a Skirt](https://www.the-beskirted-man.com/in-the-media/the-rise-of-the-man-in-a-skirt/)
-    
--   [Visitors: What Happened](https://www.the-beskirted-man.com/personal-experiences/visitors-2025-what-happened/)
-    
--   [Men’s Skirts Are on the Rise: 5 Street Style Stars Share Their Favorite Brands](https://www.the-beskirted-man.com/in-the-media/mens-skirts-are-on-the-rise-5-street-style-stars-share-their-favorite-brands/)
-    
--   [Why don’t more men wear skirts? (2025)](https://www.the-beskirted-man.com/in-the-media/why-dont-more-men-wear-skirts-2025/)
-    
--   [Profiles of Beskirted Men: Miloš Hlávka](https://www.the-beskirted-man.com/profiles-of-beskirted-men/milos-hlavka/)
-    
--   [Visitors](https://www.the-beskirted-man.com/general/visitors-2025/)
-    
--   [Men in Skirts — More than a Trend](https://www.the-beskirted-man.com/in-the-media/men-in-skirts-more-than-a-trend/)
-    
--   [Major Dutch Brand Ad Shows Man in Skirt](https://www.the-beskirted-man.com/in-the-media/major-dutch-brand-ad-shows-man-in-skirt/)
-    
--   [How do transgender politics affect men in skirts?](https://www.the-beskirted-man.com/gender/how-do-transgender-politics-affect-men-in-skirts/)
-    
--   [Another Friend Finds Out](https://www.the-beskirted-man.com/personal-experiences/another-friend-finds-out/)
