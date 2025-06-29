@@ -1,0 +1,22 @@
+{
+  "id": "a-project-called-systemberg",
+  "title": "A Project Called Systemberg",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "systemberg-logo.jpg",
+  "excerpt": "Over the past couple of months, I&#8217;ve toyed around with the idea of starting a new blog which I was going to call Systemberg.\n",
+  "categories": [
+    "projects",
+    "writing"
+  ],
+  "tags": [
+    "Blogging",
+    "Blogs",
+    "Systemberg"
+  ],
+  "publishedDate": "2025-06-28T14:45:36",
+  "updatedAt": "2025-06-28T14:45:36",
+  "wordpressId": 8134
+}
