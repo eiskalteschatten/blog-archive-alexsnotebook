@@ -1,0 +1,24 @@
+{
+  "id": "experimenting-with-the-swift-web-framework-vapor",
+  "title": "Experimenting with the Swift Web Framework Vapor",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "vapor-swift.png",
+  "excerpt": "I created a simple web application using the Swift-based web framework Vapor. It was a fun and informative experience.\n",
+  "categories": [
+    "development",
+    "featured",
+    "programs-tools"
+  ],
+  "tags": [
+    "Apple",
+    "frameworks",
+    "Swift",
+    "Web Development"
+  ],
+  "publishedDate": "2025-06-29T03:57:00",
+  "updatedAt": "2025-06-29T16:14:06",
+  "wordpressId": 9145
+}
