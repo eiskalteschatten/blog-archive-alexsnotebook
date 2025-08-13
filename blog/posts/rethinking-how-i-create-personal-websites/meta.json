@@ -1,0 +1,23 @@
+{
+  "id": "rethinking-how-i-create-personal-websites",
+  "title": "Rethinking How I Create Personal Websites",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Screenshot-2025-08-11-at-16.52.25-1.png",
+  "excerpt": "I&#8217;m rewriting my personal website to use good ol&#8217; fashioned PHP without a framework. This is why and how.\n",
+  "categories": [
+    "development",
+    "featured",
+    "my-website",
+    "software-architecture"
+  ],
+  "tags": [
+    "design",
+    "Web Development"
+  ],
+  "publishedDate": "2025-08-12T22:52:44",
+  "updatedAt": "2025-08-12T22:52:44",
+  "wordpressId": 9479
+}
