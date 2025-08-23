@@ -51,7 +51,7 @@ That’s all there is to my custom router. Again, I don’t need anything fancy 
 
 Other than the router, I use an sqlite database as a cache for the [blogs page](https://www.alexseifert.com/blogs/). I need a cache here because the page includes the latest entries from several different blogs and loading them on demand would be too slow. As such, I have a PHP script that runs via a cron job that fetches the title, URL of the featured image, excerpt and URL of the newest six posts from each blog and stores them in the sqlite database. The blogs page then fetches this meta data from the database and displays it.
 
-You might think be thinking, “Oh, so he does need an ORM!” Nope, no ORM. Instead, I’m committing the mortal sin of using raw SQL along with PHP’s built-in support for sqlite. That does mean I rely on the `pdo_sqlite` PHP extension, but again, installation and updates are handled by the operating system’ ‘s package manager, so I don’t have to worry about it.
+You might think be thinking, “Oh, so he does need an ORM!” Nope, no ORM. Instead, I’m committing the mortal sin of using raw SQL along with PHP’s built-in support for sqlite. That does mean I rely on the `pdo_sqlite` PHP extension, but again, installation and updates are handled by the operating system’s package manager, so I don’t have to worry about it.
 
 ### The Frontend
 
