@@ -8,14 +8,15 @@
   "titleImage": "mick-haupt-dtTu8Ec_uAU-unsplash-scaled.jpg",
   "excerpt": "I redesigned the Notes section of my blog so that it now uses a traditional blog format.\n",
   "categories": [
-    "my-website",
     "news",
-    "notes"
+    "notes",
+    "projects"
   ],
   "tags": [
-    "Blog"
+    "Blog",
+    "My Websites"
   ],
   "publishedDate": "2025-04-06T12:51:03",
-  "updatedAt": "2025-04-06T12:51:05",
+  "updatedAt": "2025-08-23T15:36:51",
   "wordpressId": 8391
 }
