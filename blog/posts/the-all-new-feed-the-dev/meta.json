@@ -9,12 +9,13 @@
   "excerpt": "I&#8217;m excited to announce an all-new version of Feed The Dev! It is now an aggregate website for development and technology news and articles that combines sources from all over the internet into a single, easy-to-use website.\n",
   "categories": [
     "development",
-    "feed-the-dev",
     "news",
     "projects"
   ],
-  "tags": [],
+  "tags": [
+    "Feed the Dev"
+  ],
   "publishedDate": "2024-10-02T22:45:27",
-  "updatedAt": "2024-10-02T22:45:29",
+  "updatedAt": "2025-08-23T15:23:14",
   "wordpressId": 4121
 }
