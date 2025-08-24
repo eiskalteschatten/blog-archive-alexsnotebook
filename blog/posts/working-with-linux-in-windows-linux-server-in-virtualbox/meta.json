@@ -10,18 +10,18 @@
   "categories": [
     "development",
     "featured",
-    "operating-systems",
-    "server"
+    "operating-systems"
   ],
   "tags": [
     "Docker",
     "Linux",
     "mobaXterm",
+    "Servers",
     "SSH",
     "VirtualBox",
     "Windows"
   ],
   "publishedDate": "2016-11-01T10:09:46",
-  "updatedAt": "2024-02-21T21:05:30",
+  "updatedAt": "2025-08-23T15:41:50",
   "wordpressId": 1233
 }
