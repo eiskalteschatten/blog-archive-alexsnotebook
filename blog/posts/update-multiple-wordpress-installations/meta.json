@@ -8,16 +8,16 @@
   "titleImage": "wordpress.svg",
   "excerpt": "Between several of my own websites as well as the websites I&#8217;ve done for other people and am hosting, the number of WordPress installations on my server has climbed exponentially. In order to make my life a bit easier, however, I&#8217;ve come up with a way to automatically keep all of my installations up-to-date.\n",
   "categories": [
-    "featured",
-    "server"
+    "featured"
   ],
   "tags": [
     "bash",
     "Linux",
     "scripts",
+    "Servers",
     "WordPress"
   ],
   "publishedDate": "2016-02-15T16:18:17",
-  "updatedAt": "2024-05-30T13:35:40",
+  "updatedAt": "2025-08-23T15:41:50",
   "wordpressId": 858
 }
