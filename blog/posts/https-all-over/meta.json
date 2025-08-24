@@ -9,18 +9,19 @@
   "excerpt": "As I recently mentioned when introducing the new design for my portfolio, it and several other websites of mine now use a secure connection by default. Not only does my portfolio take advantage of the increase in security by using HTTPS, but also History Rhymes as well as this blog. For some people it may &#8230; more &#x2192;\n",
   "categories": [
     "general",
-    "my-website",
     "news",
     "privacy-tracking",
-    "server"
+    "projects"
   ],
   "tags": [
     "https",
+    "My Websites",
     "Security",
+    "Servers",
     "web",
     "Web server"
   ],
   "publishedDate": "2015-03-02T12:18:26",
-  "updatedAt": "2024-02-21T21:18:26",
+  "updatedAt": "2025-08-23T15:41:50",
   "wordpressId": 701
 }
