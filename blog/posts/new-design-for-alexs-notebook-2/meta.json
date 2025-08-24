@@ -8,14 +8,14 @@
   "titleImage": "Alexs-Notebook-5.0-screenshot.png",
   "excerpt": "Alex&#8217;s Notebook received a new design today which is based on the WordPress theme for Developer&#8217;s Notebook.\n",
   "categories": [
-    "my-website",
     "news",
     "projects"
   ],
   "tags": [
-    "Blog"
+    "Blog",
+    "My Websites"
   ],
   "publishedDate": "2023-09-23T11:34:30",
-  "updatedAt": "2023-09-30T08:33:36",
+  "updatedAt": "2025-08-23T15:36:51",
   "wordpressId": 2952
 }

@@ -8,14 +8,15 @@
   "titleImage": "portfolio2-0.jpg",
   "excerpt": "I&#8217;m happy to announce that my portfolio and blog have received a fresh makeover. The design is much cleaner and leaner than the last one and should load my more quickly. It is optimized for mobile devices and desktops alike and is simplified so that information is easier to find. My design philosophy when approaching &#8230; more &#x2192;\n",
   "categories": [
-    "my-website",
-    "news"
+    "news",
+    "projects"
   ],
   "tags": [
     "AlexSeifert.com",
-    "AlexSeifert.de"
+    "AlexSeifert.de",
+    "My Websites"
   ],
   "publishedDate": "2016-05-23T11:27:31",
-  "updatedAt": "2024-02-21T16:55:42",
+  "updatedAt": "2025-08-23T15:36:52",
   "wordpressId": 1040
 }
