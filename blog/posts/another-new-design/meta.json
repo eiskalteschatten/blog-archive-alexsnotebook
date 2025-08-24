@@ -8,16 +8,17 @@
   "titleImage": "ascom-new-design.jpg",
   "excerpt": "After many months of work, I am happy to announce today that I have finally released the new design for my portfolio. It is the first redesign in nearly three years with a modern, clean and crisp interface using many of the hallmarks of web design in 2015. Not only is the design new, but &#8230; more &#x2192;\n",
   "categories": [
-    "my-website",
-    "news"
+    "news",
+    "projects"
   ],
   "tags": [
     "AlexSeifert.com",
     "AlexSeifert.de",
     "https",
+    "My Websites",
     "responive"
   ],
   "publishedDate": "2015-02-27T23:20:35",
-  "updatedAt": "2016-05-23T21:02:00",
+  "updatedAt": "2025-08-23T15:36:51",
   "wordpressId": 704
 }
