@@ -124,5 +124,11 @@
     "name": "Hardware",
     "description": "",
     "wordpressId": 516
+  },
+  {
+    "id": "cars-trucks",
+    "name": "Cars &amp; Trucks",
+    "description": "",
+    "wordpressId": 540
   }
 ]
