@@ -1,0 +1,3 @@
+I have a new story on the way. It’s finished, but now I just have to proofread it. I will post it here after I’ve proofread it. It’s entirely unlike anything I’ve ever done before. Most of my stories are ghost stories or have a gothic nature, but this one is a futuristic story with a very grim view on the political future of the United States.
+
+I won’t say anymore and spoil it for you. Just know it’s coming soon.

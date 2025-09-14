@@ -1,0 +1,19 @@
+{
+  "id": "new-story",
+  "title": "New Story",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I have a new story on the way. It&#8217;s finished, but now I just have to proofread it. I will post it here after I&#8217;ve proofread it. It&#8217;s entirely unlike anything I&#8217;ve ever done before. Most of my stories are ghost stories or have a gothic nature, but this one is a futuristic story with &#8230; more &#x2192;\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "Short Stories",
+    "Stories and Writings"
+  ],
+  "publishedDate": "2009-05-07T23:35:48",
+  "updatedAt": "2009-05-07T23:35:48",
+  "wordpressId": 10494
+}

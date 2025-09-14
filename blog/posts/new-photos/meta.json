@@ -1,0 +1,18 @@
+{
+  "id": "new-photos",
+  "title": "New Photos",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I uploaded 3 new photos from the club I went to last Wednesday night (more about that later). You can find the photos here. The photos are arranged by date with the new ones at the very bottom of the page.\n",
+  "categories": [
+    "trip-to-germany"
+  ],
+  "tags": [
+    "New Photos"
+  ],
+  "publishedDate": "2008-01-21T01:13:36",
+  "updatedAt": "2025-09-14T14:21:25",
+  "wordpressId": 10158
+}

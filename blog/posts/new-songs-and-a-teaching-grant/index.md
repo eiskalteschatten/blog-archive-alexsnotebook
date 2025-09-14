@@ -1,0 +1,3 @@
+The past couple of days have been rather productive. I’ve managed to write two new songs in relatively short order which means the new album now has nine completed songs. There are still a couple more on the way, but I just haven’t quite gotten around to finishing them yet. I will do that soon though I hope.
+
+Another piece of exciting news in my life is that I’ve started preparations for a grant application and proposal to teach English to German middle school and high school students in Germany beginning next year. If I get it, I should be able to work on a Masters degree at the same time. I’m really rather excited about it, although it is a real pain to get everything together for a grant. I will definitely get through it though because it is absolutely worth it.

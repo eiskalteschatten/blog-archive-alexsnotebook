@@ -1,0 +1,18 @@
+{
+  "id": "new-muse-album",
+  "title": "New Muse Album",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Muse just announced today that their new album, The Resistance, comes out September 14! Now that&#8217;s good news.\n",
+  "categories": [
+    "music"
+  ],
+  "tags": [
+    "Muse"
+  ],
+  "publishedDate": "2009-06-16T15:08:41",
+  "updatedAt": "2009-06-16T15:08:41",
+  "wordpressId": 10508
+}

@@ -1,0 +1,18 @@
+{
+  "id": "new-page",
+  "title": "New Page",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I created a new site that will basically serve as an index page for all of my various websites. I have owned the domain alexseifert.com for a long time and for the past year or so, I&#8217;ve primarily been using that site for my music. Yesterday I decided to make the homepage on alexseifert.com a &#8230; more &#x2192;\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "AlexSeifert.com"
+  ],
+  "publishedDate": "2009-04-18T16:52:34",
+  "updatedAt": "2009-04-18T16:52:34",
+  "wordpressId": 10491
+}

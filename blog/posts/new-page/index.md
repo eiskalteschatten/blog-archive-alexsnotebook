@@ -1,0 +1,3 @@
+I created a new site that will basically serve as an index page for all of my various websites. I have owned the domain alexseifert.com for a long time and for the past year or so, I’ve primarily been using that site for my music. Yesterday I decided to make the homepage on alexseifert.com a sort of index and relegated my music site to [http://www.alexseifert.com/music](http://www.alexseifert.com/music).
+
+You can see the new index at [http://www.alexseifert.com](http://www.alexseifert.com).

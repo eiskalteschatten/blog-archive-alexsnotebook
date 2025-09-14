@@ -1,0 +1,22 @@
+{
+  "id": "new-stories",
+  "title": "New Stories",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I&#8217;ve posted a couple of new stories on my Writings site. One is a story that used to be hosted on this blog, &#8220;Together to One,&#8221; and the other is an old skit I made a while ago called &#8220;Bricks.&#8221; You can find them at the following links: Bricks Together to One\n",
+  "categories": [
+    "projects",
+    "writing"
+  ],
+  "tags": [
+    "Comedy",
+    "Horror",
+    "Skits",
+    "stories"
+  ],
+  "publishedDate": "2009-06-11T00:10:49",
+  "updatedAt": "2025-09-14T15:31:30",
+  "wordpressId": 987
+}

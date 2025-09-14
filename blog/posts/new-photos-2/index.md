@@ -1,0 +1,1 @@
+I’ve posted a couple new photos [here](http://picasaweb.google.com/seifertalex/Parties). The new photos are at the last ones on the page. They’re from the party my German tutorial had last Wednesday night. You can read more about that night in my last entry, [Last Day of Classes](http://alexgermany.wordpress.com/2008/02/07/last-day-of-classes/).

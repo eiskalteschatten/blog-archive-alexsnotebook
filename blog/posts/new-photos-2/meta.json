@@ -1,0 +1,18 @@
+{
+  "id": "new-photos-2",
+  "title": "New Photos",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I&#8217;ve posted a couple new photos here. The new photos are at the last ones on the page. They&#8217;re from the party my German tutorial had last Wednesday night. You can read more about that night in my last entry, Last Day of Classes.\n",
+  "categories": [
+    "trip-to-germany"
+  ],
+  "tags": [
+    "New Photos"
+  ],
+  "publishedDate": "2008-02-11T23:08:07",
+  "updatedAt": "2025-09-14T14:21:25",
+  "wordpressId": 69
+}

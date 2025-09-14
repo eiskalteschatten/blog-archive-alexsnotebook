@@ -1,0 +1,18 @@
+{
+  "id": "new-photos-4",
+  "title": "New Photos",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "New photos from the public viewing of the Euro 2008. They were taken last Thursday. You can find them here.\n",
+  "categories": [
+    "trip-to-germany"
+  ],
+  "tags": [
+    "New Photos"
+  ],
+  "publishedDate": "2008-06-16T16:14:07",
+  "updatedAt": "2025-09-14T14:21:25",
+  "wordpressId": 99
+}
