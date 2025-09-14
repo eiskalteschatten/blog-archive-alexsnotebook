@@ -1,0 +1,7 @@
+Well, I really haven’t been up to much lately. I’ve figured out what my class schedule for the next semester is going to be and I’ve also figured out what my schedule is going to be for next fall when I get back to Wyoming too. I did that already because I have to register on the 14th this month. I’ve also been looking around for graduate schools and so far I think the University of Montana is the best bet.
+
+Speaking of classes, for those of you that don’t know, I’m going to be changing my Russian major to history. I’ll say bluntly that I am extremely sick of foreign language. Of course I’m going to finish my German major as well because it would be stupid not to considering I will basically be done with it when I get back to Wyoming. Regarding history, I will be focusing mostly on the history of the American west and within that I think I want to focus on the period of the frontier after the Civil War dealing with the great plains, cattle drives, the explosion of mining in the Rockies, etc.
+
+Classes start here again next Monday (April 7th). I’m not looking forward to it and at the same time I am because hopefully going to class will make the time here pass quicker.
+
+The next part of my trip to England will come soon. I just haven’t really had any motivation to finish it yet.
