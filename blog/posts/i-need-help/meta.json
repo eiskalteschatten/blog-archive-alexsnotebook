@@ -1,0 +1,20 @@
+{
+  "id": "i-need-help",
+  "title": "I need help!",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I have two semesters left before I graduate from college. That means I will be finished in May 2010. Afterwards I want to teach English or American history somewhere in Germany, but I don&#8217;t know how I can go about getting that kind of position. I want to be in Germany for at least two &#8230; more &#x2192;\n",
+  "categories": [
+    "general",
+    "history",
+    "linguistics"
+  ],
+  "tags": [
+    "English"
+  ],
+  "publishedDate": "2009-07-24T23:47:42",
+  "updatedAt": "2009-07-24T23:47:42",
+  "wordpressId": 10511
+}

@@ -1,0 +1,9 @@
+The fact the the government would even try to do something like [this](http://www.electronista.com/articles/09/05/05/strict.p2p.bill.considered/) just makes me mad.
+
+> A US House of Representatives hearing scheduled for later today will be devoted to deciding if a law should be made that requires peer-to-peer (P2P) programs to issue a specific notice to users that warns them that their files may be shared, CNET has reported. The Informed P2P User Act bill introduced in March by California Republican Mary Bono Back will be the focus of the hearing. The wording in the Act, which would require P2P software to allow file sharing only if two rules are met, could also apply to web browsers, FTP applications, IM programs and any other applications that send and receive files.
+> 
+> Under the proposed legislation, software that does not provide users with a “clear and conspicuous notice” of what it does and requires them to provide “informed consent” every time it is opened will be “unlawful.”
+> 
+> All recent Microsoft Windows, Linux, and OS X operating systems would need to comply if the bill is passed, and launching a web browser would also require a “click to agree to terms and conditions” box. Such a restriction would potentially restrict the freedom afforded by the Internet; however, it’s widely believed the bill, at least in its complete form, will not be passed through to become law due to challenges over its scope.
+
+I don’t understand why they feel like they have to regular *everything* under the sun. The latest version of Firefox doesn’t even have a UCLA or any terms and conditions. I doubt it passes though.

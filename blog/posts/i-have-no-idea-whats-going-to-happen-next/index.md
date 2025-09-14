@@ -1,0 +1,5 @@
+Well, I have no idea what’s going to happen next in my battle for admission at the University of North Dakota. The sad thing is that it’s not my grades or my academic record that is the problem. It is the fact that the admissions office is not setup to handle an incoming student who has studied abroad. They have no way of handling a student who has studied at a university that does not provide transcripts for their students, which means I’m stuck in the process. Nothing can proceed until they’ve received the transcript from Oldenburg that does no exist.
+
+Even if I could get a transcript from Oldenburg, I would have to have it first sent to an organization that deals with international transcripts for an evaluation which would then be sent back to UND. Not only is this a serious inconvenience, but it costs over $200 for a stupid evaluation! That is absurd!
+
+I have no idea what’s going to happen in the next few weeks, but I can confidently say that it’s continually looking less likely that I will be transferring…
