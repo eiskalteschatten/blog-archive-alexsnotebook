@@ -1,0 +1,5 @@
+This weekend has been rather uneventful. Yesterday I finished up a historiography paper that is due Monday for my history class and today I studied for a test I have tomorrow in my Native American Studies class. It was cold yesterday, but bright and sunny. Earlier today it was warm and sunny, but now it’s cold, overcast and snowy. We’re supposed to get more snow tonight, tomorrow and possibly Tuesday as well. I can hardly wait…
+
+Unfortunately I haven’t been able to get a new car as of yet. I couldn’t make it down to Colorado last weekend because of the weather and the cheque from the insurance company hasn’t finished processing in the bank. By next week, it should be finished pending and, if the weather cooperates, I should be able to buy a new car next weekend. I keep going back and forth as to which kind of car I would like. I found a Toyota Tacoma that would be really nice, but at the same time I would like to buy a Camry because of the practicality and gas mileage. I have a week to decide, so we’ll see.
+
+On a side note, all of my roommates are at the apartment at the same time. That’s a very rare occurrence.

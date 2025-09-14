@@ -1,0 +1,7 @@
+Yesterday in one of my classes, we were discussing the Wyoming state constitution. We talked about how it was formed, the unique way in which it was formed, some of the bits that were stolen from other constitutions and some of the unique pieces included in the constitution.
+
+One of the articles states that public education shall be entirely regulated and controlled by the local level of government. What the framers of the Wyoming constitution were afraid of when they included this article was unneeded state control of the public education system in Wyoming. What they could never have imagined in 1889, however, was federal control of the education system.
+
+This brings me to my point. President Bush’s No Child Left Behind program is entirely unconstitutional in the state of Wyoming, thus making it illegal and entirely illegitimate. Now my big question in this matter is why Wyoming’s governor and and the state legislature allow it. Whether they agree with it or not doesn’t matter whatsoever. The fact is that any control of the public education system in Wyoming above the local level is unconstitutional.
+
+I would assume it must have something to do with federal funding — just like the drinking age and many other federal laws. The federal government blackmails states by threatening to take away funding for such things as the highway system (again, with the drinking age) to impose its will upon them. I don’t think that’s what the country’s founding father meant when they declared that each state would have its own sovereignty.
