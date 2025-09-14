@@ -1,0 +1,18 @@
+{
+  "id": "new-theme",
+  "title": "New Theme",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I&#8217;ve decided to update the theme of the website. For my new theme, I chose a theme called Freshy and then I customized it. This theme has some options for managing more than one language, which means I will be looking more into that in the near future.\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "Themes"
+  ],
+  "publishedDate": "2009-05-05T23:04:39",
+  "updatedAt": "2009-05-05T23:04:39",
+  "wordpressId": 10492
+}

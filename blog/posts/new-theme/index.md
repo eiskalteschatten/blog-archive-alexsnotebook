@@ -1,0 +1,1 @@
+I’ve decided to update the theme of the website. For my new theme, I chose a theme called [Freshy](http://www.jide.fr/english/) and then I customized it. This theme has some options for managing more than one language, which means I will be looking more into that in the near future.

@@ -1,0 +1,19 @@
+{
+  "id": "new-wallpaper-2",
+  "title": "New Wallpaper",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I&#8217;ve posted a new wallpaper. It&#8217;s a wallpaper made in light of the German Empire before the first World War.\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "German Empire",
+    "Germany"
+  ],
+  "publishedDate": "2009-02-02T00:01:59",
+  "updatedAt": "2009-02-02T00:01:59",
+  "wordpressId": 549
+}
