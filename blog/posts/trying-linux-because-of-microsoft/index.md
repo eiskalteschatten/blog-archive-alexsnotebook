@@ -1,0 +1,13 @@
+I know I’ve talked about this before, but I think I’m going to talk about it again.
+
+As I’ve already explained in my [Switching from a Mac](http://thoughts.alexseifert.com/?p=144) post, I’m looking at giving up my Mac and buying a PC. My reasoning is best explained in the other post, however, the primary reason I am going with a PC instead of a Mac is because of the hardware. The hardware Apple ships with Macs is just too expensive for what you get in my opinion. The only plus side to buying a Mac is you get Mac OS X which I will say is definitely a superior operating system when compared to the likes of Windows.
+
+I was considering using Windows and just dealing with it for quite a while. It would be easier considering I would easily be able to get software, it would run all of the software I need and it does all of the basics such as internet, e-mail, etc that I need to do. Then I read this article: “[Microsoft confirms Windows adheres to broadcast flag](http://www.news.com/8301-10784_3-9946780-7.html?tag=nefd.riv)“. Here’s a sample:
+
+> “‘Microsoft has put the requirements of broadcasters above what consumers want,’ said the EFF’s Danny O’Brien. ‘They’ve imposed restrictions way beyond what the law requires. Customers need to know who Microsoft is listening to and how that affects their equipment. Right now, the only way customers know what Microsoft has agreed to is when the technology they’ve bought suddenly stops working. Microsoft needs to come clean and tell its customers what deals it has made.'”
+
+I know it’s not a big deal in the entire scheme of things and it’s not really this particular incident that turned me off of Windows so much all of a sudden either. It’s the fact that Microsoft continually screws its customers in favor of censorship or any form of hindrance to the user for large companies such as the broadcasting companies. This is no an isolated incident either. Look at how Microsoft so strongly supports DRM-protected music as just one example.
+
+I have been considering using Linux for my day-to-day needs and only booting up into Windows when I have to use software that won’t run on Windows ([such as Reason](http://thoughts.alexseifert.com/?p=131)). I’ve decided I will probably experiment with this for quite some time before I decide on what to keep with. If I really like Linux, which I’m sure I will, I’ll probably stick with it. If not, then I guess I won’t. We’ll see.
+
+**Edit:** I just read an [Ars Technica article about Microsoft and the media companies](http://arstechnica.com/news.ars/post/20080519-american-gladiators-vanquished-by-nonexistent-broadcast-flag.html). It’s an interesting read if you’re interested in it.

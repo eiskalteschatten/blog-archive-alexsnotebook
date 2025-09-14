@@ -1,0 +1,5 @@
+This week was the official start of the summer semester here in Oldenburg. I only had 3 classes though because most of my schedule consists of various German for foreign students classes which don’t start until next week. On Monday I had a class called “Gesellschaftliches Mehrsprachigkeit” (Social Multi-lingualism) and today (Wednesday) I had Europäische Unternehmensgeschichte im 19. und 20. Jahrhundert (European History of Enterprise in the 19th and 20th Centuries). Tomorrow I have the last one this week and that’s Unternehem im Dritten Reich (Enterprise in the Third Reich) which is the seminar for the other class which is a lecture. Then I will be done this week.
+
+Tomorrow is Nina’s birthday and I will be going to a birthday party she is holding tomorrow evening. It should be fun. I also finished another book this week and have now started on the last unread book I have. I’ve ordered more from Amazon.de, but according to the website, they won’t ship until later this month. Hopefully the 1 book I have will last me. If not, I’ll go online and read something.
+
+More about England coming soon.
