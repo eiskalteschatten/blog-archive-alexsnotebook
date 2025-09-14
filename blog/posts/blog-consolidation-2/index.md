@@ -1,0 +1,5 @@
+I am thinking about consolidating all of my blogs into just two: an English language blog and a German language blog. I am kind of tired of having several different blogs which I feel I need to update and which often times have the same subject matter anyway. The separation between English and German I still feel is valid for obvious reasons, but other than that I don’t think I really need seven different blogs.
+
+If I were to do that (and I am still in the internal debating process of it), I think I would turn [History Rhymes](http://www.historyrhymes.info) into my English language blog. The subject matter wouldn’t change a whole lot, but there would possibly be a few posts about other, non-history related subjects such as technology, German or my music. Posts that you would typically expect to find here I think. My only problem is I am afraid I would alienate readers who do not care for such topics and only want to read about history. Of course the subject matter would primarily be about history.
+
+What do you, the readers, think about the idea? I am, after all, keeping this blog for my readers. I would really like your input on it.

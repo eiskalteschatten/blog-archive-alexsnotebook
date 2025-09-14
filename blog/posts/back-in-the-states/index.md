@@ -1,0 +1,1 @@
+Well, I am back in the US, which means I am no longer studying abroad in Germany. I’m going to miss it though as I really enjoyed my time there and really liked Europe. I think I will go back soon.

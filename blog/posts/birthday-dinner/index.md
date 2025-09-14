@@ -1,0 +1,5 @@
+As I mentioned in my last entry, I went out to dinner with Nina and some of the other exchange students here for my birthday. We went to a restaurant called Bar Celona. That’s the same restaurant Nina, Kayla and I went to when Kayla and I had first just arrived here in Oldenburg. They have a very very good currywurst that I wanted to have again. Kayla and Nina both got my gifts. Kayla got me a drinking game that’s setup like Monopoly, but when you land on different squares, there are different things to do. Nina got me a poster of German beers. The poster has all of the companies’ logos plus a map of Germany showing where they come from in Germany.
+
+I also uploaded some photos from the dinner and of the presents [here](http://picasaweb.google.com/seifertalex/MyBirthday).
+
+Now I’m going to bed because I have class at 8:15 am tomorrow.
