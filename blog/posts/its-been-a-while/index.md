@@ -1,0 +1,1 @@
+I know it’s been a while since I’ve actually posted anything on here. That’s because I’ve had a friend out from overseas and have been quite busy. Now that she has left, I should have a lot more time to post entries.
