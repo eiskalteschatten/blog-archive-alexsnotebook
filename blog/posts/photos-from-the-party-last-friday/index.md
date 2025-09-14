@@ -1,0 +1,3 @@
+Another really short post because nothing at all has been going on. Last night I went to Litfaß (a local restaurant) with my buddy, Jana, Nina and a couple of the other Americans for all you can eat spaghetti. Why does it always have to be spaghetti? I hate spaghetti.
+
+I posted some pictures I got from Kayla of the party last Friday. There are [here](http://picasaweb.google.com/seifertalex/Parties).

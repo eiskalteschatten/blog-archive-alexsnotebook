@@ -1,0 +1,1 @@
+I’ve posted some photos from the past couple of weekends online. You can find them here: [http://picasaweb.google.com/seifertalex/College20082009](http://picasaweb.google.com/seifertalex/College20082009). There are photos from a couple of parties (one of them with Lizz last weekend) and some from our hiking trip today.
