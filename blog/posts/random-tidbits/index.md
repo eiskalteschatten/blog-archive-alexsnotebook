@@ -1,0 +1,3 @@
+So it looks like I will probably not be writing much on here for the next few weeks or so. A friend of mine is coming out from overseas and we’re going to be quite busy traveling around and doing things. Eventually I will make another post though.
+
+Also, it’s really sad that the USA lost today’s Championship game in soccer. They had the Brazilians up 2:0, but then blew it towards the end of the game. Oh well, at least the US made it as far as the Championship.

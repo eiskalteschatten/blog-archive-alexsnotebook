@@ -1,0 +1,3 @@
+> “Netscape’s long and storied history as a web browser will come to an end on March 1, as AOL has officially set a date for the browser’s demise. AOL originally put Netscape on death row at the end of 2007, when it announced that it would be ending support for the venerable application.” *(Source: [Ars Technica](http://arstechnica.com/news.ars/post/20080220-aol-ending-all-support-for-netscape-on-march-1.html))*
+
+Rest in peace, Netscape.
