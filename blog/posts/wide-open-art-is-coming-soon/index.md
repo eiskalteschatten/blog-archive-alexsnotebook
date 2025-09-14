@@ -1,0 +1,3 @@
+I’ve been hard at work working on a design for wideopenart.com. I think I’m going to turn it into a personal portfolio displaying my photography, stories, digital artwork, web designs, etc. For the past several days I have been trying to come up with a design for the site and after many different trials, I think I’ve finally come up with something that I like.
+
+Wide Open Art should be opening soon. I’ll make a post here of course when it’s finally up and running in full.
