@@ -1,0 +1,1 @@
+I’ve finally finished editing my new story. It’s called [Drilled](http://alexseifert.wordpress.com/wp-content/uploads/2009/05/drilled.pdf) and is the first sort of political kind of story I have ever written.

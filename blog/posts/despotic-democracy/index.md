@@ -1,0 +1,7 @@
+On my seeming never-ending quest to inundate myself with as many blogs as possible, I have created another one. The blog is called [Despotic Democracy](http://despoticdemocracy.wordpress.com). This one I will be doing with a good friend of mine about politics and the US Government. Some of what I post on there may be redundant with what I post here, but there will be other content that doesn’t show up here; particularly that which my friend writes. Here is a bit about the blog from my initial post:
+
+> I suppose I will write a short introduction to our new blog, Despotic Democracy. The idea behind this blog is to express our opinions about the way the American government is handling domestic and international affairs such as the current economic crisis.
+> 
+> I will also say something about myself. My name is Alex and I am a university student who has lived abroad twice in my life and have seen things from a different perspective. Generally I tend to be very conservative in my political views and I fully support the Libertarian Party and its views on how the government should function. I am generally highly critical of the government and its responses to many of the situations we have faced in the past few years and in the present. This blog will be a mechanism through which I express my opinions of the government’s actions and support them with blatant facts that they somehow have missed.
+
+Again, the blog is called [Despotic Democracy](http://despoticdemocracy.wordpress.com) and should be quite an interesting ride.

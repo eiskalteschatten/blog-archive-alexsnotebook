@@ -1,0 +1,22 @@
+{
+  "id": "echo-lake",
+  "title": "Echo Lake",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "A photo taken of Echo Lake in California. Buy Print\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "California",
+    "Echo Lake",
+    "Lake",
+    "Nature",
+    "Photography"
+  ],
+  "publishedDate": "2008-05-06T08:42:54",
+  "updatedAt": "2025-09-14T15:46:04",
+  "wordpressId": 10642
+}
