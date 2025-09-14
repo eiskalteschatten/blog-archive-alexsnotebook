@@ -1,0 +1,20 @@
+{
+  "id": "my-new-band",
+  "title": "My New Band",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I got my bass last Tuesday and it didn&#8217;t even take a week before I formed a band. Of course, I&#8217;m playing bass this time around instead of drums since I don&#8217;t have my bass here. I actually am finding I kind of like bass better because you&#8217;re much more involved in the actual song &#8230; more &#x2192;\n",
+  "categories": [
+    "music",
+    "trip-to-germany"
+  ],
+  "tags": [
+    "Daily Activities",
+    "Tea &amp; Bricks"
+  ],
+  "publishedDate": "2007-11-26T01:46:33",
+  "updatedAt": "2025-09-14T14:23:28",
+  "wordpressId": 48
+}

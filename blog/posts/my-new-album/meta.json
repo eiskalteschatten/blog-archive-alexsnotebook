@@ -1,0 +1,19 @@
+{
+  "id": "my-new-album",
+  "title": "My New Album",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Yesterday, my new album, The Kitchen, was released! Visit http://www.alexseifert.com for more details about the album. You can also listen to it and download it for free from Last.fm here: Volume 1 Volume 2\n",
+  "categories": [
+    "music"
+  ],
+  "tags": [
+    "my music",
+    "The Kitchen"
+  ],
+  "publishedDate": "2009-02-26T12:14:52",
+  "updatedAt": "2009-02-26T12:14:52",
+  "wordpressId": 651
+}
