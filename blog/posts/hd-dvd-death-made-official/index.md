@@ -1,0 +1,3 @@
+> “TOKYO (Reuters) – Toshiba Corp is planning to stop production of equipment compatible with the HD DVD format for high-definition video, allowing the competing Blu-Ray camp a free run, public broadcaster NHK reported on Saturday.” *(Source: [Reuters](http://www.reuters.com/article/companyNewsAndPR/idUSL1627196120080216))*
+
+That is actually too bad in my opinion. I liked HD DVD better than I did Blu-Ray. I guess now we’ll see how Blu-Ray does against internet download options such as iTunes.

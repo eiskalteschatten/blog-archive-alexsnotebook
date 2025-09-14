@@ -1,0 +1,3 @@
+I don’t know what everyone else thinks, but it appears to me that Hillary Clinton is ruining any chance the Democratic party has against the Republicans. The Democrats really should have this election in the bag due to Bush’s sharp decline in popularity, however, with all of this internal fighting between Hillary and Obama, that may not happen — or at very least, it’s not going to be as easy as it really should be.
+
+When it comes to the final election in November, I hope the Democrats win because I really dislike McCain and would be quite scared if he were to be elected, but I refuse to vote for Hillary.

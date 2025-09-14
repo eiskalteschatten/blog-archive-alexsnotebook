@@ -1,0 +1,1 @@
+The weather cooperated today which means the hiking trip tomorrow is on. It was overcast for part of the day, but it didn’t snow as the forecast had predicted it would. It was even sunny and warmed up towards the end of the day. Hopefully it will be warm tomorrow as well. I am not concerned about snow tomorrow, just the temperature. It is supposed to be sunny.

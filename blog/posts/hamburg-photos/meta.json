@@ -1,0 +1,18 @@
+{
+  "id": "hamburg-photos",
+  "title": "Hamburg Photos",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I uploaded some photos from my trip to Hamburg. More on the actual trip later. You can find the photos here.\n",
+  "categories": [
+    "trip-to-germany"
+  ],
+  "tags": [
+    "New Photos"
+  ],
+  "publishedDate": "2008-03-12T02:02:26",
+  "updatedAt": "2025-09-14T14:21:25",
+  "wordpressId": 75
+}

@@ -1,0 +1,5 @@
+For the past couple of nights I have been working on a guide for writing a research paper that I can post to the Wisdom of the Crowd website. The reason for this is because the English 1010 final is just around the corner. The final is a research paper and will be the first college-level research paper that many of those student write.
+
+We are also trying to make the site as useful as possible to help drive traffic to the site. Hopefully once the research paper is formally assigned, having a guide on the website will help attract English 1010 students.
+
+As of now, the paper is in the revision process. I have submitted it to the Director of Composition and Writing here as well as some of the English 1010 instructors and the other peer instructor (I am also a peer instructor for the Wisdom of the Crowd project). Once I get it back, I will put it up on the website. It turned out to be about 8 pages single-spaced, all of which I wrote in the past two nights. It’s quite a hefty guide.

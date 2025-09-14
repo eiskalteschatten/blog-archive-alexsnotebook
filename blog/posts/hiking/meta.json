@@ -1,0 +1,19 @@
+{
+  "id": "hiking",
+  "title": "Hiking",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "As you probably already know from previous posts, I went hiking today with a girl named Lizz. We went to Vedauwoo which is about 16 miles east of Laramie. I&#8217;ve never actually been there before, but it was quite pretty there. Although I do have to admit it doesn&#8217;t really compare to some of the &#8230; more &#x2192;\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "Hiking",
+    "Outdoors"
+  ],
+  "publishedDate": "2009-03-08T14:46:33",
+  "updatedAt": "2009-03-08T14:46:33",
+  "wordpressId": 10685
+}
