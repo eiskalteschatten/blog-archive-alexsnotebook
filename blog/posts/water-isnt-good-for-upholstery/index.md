@@ -1,0 +1,9 @@
+Something exciting actually happened yesterday! I was waiting downtown with one of the other Americans for Orion so we could all go to Fiddler’s Green to watch soccer. We were standing in a place called Julius Mosen Platz which is just a big open area at the entrance to the downtown area (the downtown area doesn’t have any cars, you can only walk). The buses all stop at Julius Mosen Platz. As we were standing there, everyone began to migrate across the street then disappear behind some buildings. We didn’t think anything of it until we saw several fire trucks come racing by as well as police cars and an ambulance.
+
+We decided to go see what was going on, so we followed the rest of the people. Across the street there is a small river and a bunch of firefighters were standing in the river. The firefighters started pulling people out of the water and the paramedics took them. There were 3 people they pulled out and they all were conscious and able to walk. We kept watching. Eventually Orion called because he had shown up at Julius Mosen Platz, but we weren’t there anymore. I told him where we were and he came over and watched with us.
+
+The police then started to clear the area and put up police tape all over the place. After they did that, the firefighters drove one of their large trucks down towards the river (there is a path and some of a park in between the river and the road). They began dragging cables down into the river and then pulled a car out of the river.
+
+I have no idea how someone would manage to drive their car into the river there because as I said, there is a long distance between the road and the river with plenty of opportunity to stop.
+
+After that excitement, we went and watched soccer. After the game had finished, I came back to my room then went to a party that Nina was throwing at her new apartment. I got back home at around 3:30 am or so and went to bed.
