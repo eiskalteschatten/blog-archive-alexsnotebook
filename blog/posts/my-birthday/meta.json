@@ -1,0 +1,20 @@
+{
+  "id": "my-birthday",
+  "title": "My Birthday",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "For those of you who don&#8217;t know, yesterday was my birthday. I celebrated my 20th birthday by sitting in my room alone. To say the least, it wasn&#8217;t a very good day. That&#8217;s what I did for most of the day, but since the weather cooperated yesterday, I did manage to go out and get &#8230; more &#x2192;\n",
+  "categories": [
+    "trip-to-germany"
+  ],
+  "tags": [
+    "Daily Activities",
+    "New Photos",
+    "Russian"
+  ],
+  "publishedDate": "2007-09-17T15:03:37",
+  "updatedAt": "2025-09-14T14:21:39",
+  "wordpressId": 10147
+}

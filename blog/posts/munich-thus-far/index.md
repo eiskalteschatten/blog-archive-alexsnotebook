@@ -1,0 +1,9 @@
+It turns out we actually have wireless internet access in our room for free, so I’m able to post a few photos and write a bit about what we’ve done so far.
+
+We arrived in Munich yesterday at around 7 pm after a 6 and a half hour train ride from Oldenburg. Fortunately we just had to change trains once in Bremen and that’s it. I thought we’d have to change a lot more than just once. We just caught the ICE (Inter-city express) which travels extremely quickly between the big cities. We managed to reach just over 250 km/h (155 mph) at our top speed. Once we arrived in Munich, we found our youth hostel which was fairly easy to find. It’s a nice place. We have a 2-bed room to ourselves, so it’s pretty nice. We just hung out at the hostel for the rest of the night because it got dark quickly and we were really tired. We also figured out what we wanted to do today and tomorrow.
+
+Today, we took a guided tour through the Dachau concentration camp about 30 minutes outside of Munich. It was pretty interesting to see it all and hear in detail about everything that happened there. We visited the memorial museum which used to be the processing center for the prisoners as they were coming in. Part of the same building used to be used for medical experiments on the prisoners as well. We also saw the crematoriums as well as a couple of reconstructed barracks.
+
+After the tour of the concentration camp, we came back to downtown Munich and went to a beer garden called the Augustiner Biergarten. It’s run by the Bavarian beer maker Augustine which has been in operation since 1328 apparently. There we had a very traditional Bavarian meal consisting of beer and sausage.
+
+I’ve also uploaded photos of [the Dachau concentration camp](http://picasaweb.google.com/seifertalex/DachauConcentrationCamp) and [generally of Munich](http://picasaweb.google.com/seifertalex/Munich). I’ll upload more photos as I take them.
