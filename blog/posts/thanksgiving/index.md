@@ -1,0 +1,7 @@
+I know I’m a day late, but last night was a late night. They don’t actually celebrate Thanksgiving here in Germany considering that it’s an American holiday and that there are no Indians here, but we had a Thanksgiving party anyway. It was in the bar at the dorm that Kayla lives in and was a lot of fun. Lots of Americans showed up. In fact, there were several Americans there that are also exchange students, but that I had never met before. Of course, there were also Germans and other students from all sorts of countries that showed up. Kayla and some of the other girls prepared a bunch of food that was really really good. We, of course, had turkey, ham, mashed potatoes, stuffing and all the traditional food. We also had pumpkin pies for dessert which were amazing. I think it’s the first proper meal I’ve had in a while.
+
+I’ll post photos of it later after some of the others that were there post them on their sites. I’ll have to download them, then post them here because I didn’t actually bring my camera to the party.
+
+After the food, some of us went to another room and played foosball and ping pong. One of the Americans brought down his banjo. That was fun too even though I can’t play ping pong or foosball. I didn’t end up leaving until about 1 am. Then I read for a while then went to bed because I was tired.
+
+Tomorrow, I’m going to watch the Werder-Bremen soccer game, then jam with Orion. My bass came in last Tuesday and he has his guitar. That should be fun.

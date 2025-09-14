@@ -1,0 +1,1 @@
+I’ve posted the some photos from our Thanksgiving party. I got them from Kayla. You can find them [here](http://picasaweb.google.com/seifertalex/Thanksgiving).
