@@ -1,0 +1,5 @@
+Well, I’m not sure what I really want to do anymore. I am about to graduate with a degree in both history and German, but I am not sure what I want to do with my degree anymore. I have been considering going abroad to Germany for a while and teaching English for a couple of years, but I really kind of want to start pursing a more permanent career option with the current economic situation.
+
+The other consideration I’ve been having as of late is going into politics. I don’t really know if this is just a passing phase or something I am legitimately interested in though. All of the commotion surrounding the inauguration of Obama and everything has made me think it might be a viable career choice.
+
+The real problem I have though is that I’m just too interested in too many things, so as I’ve said, this might just be a fleeting interest that will be gone within the next few days. We will see though.
