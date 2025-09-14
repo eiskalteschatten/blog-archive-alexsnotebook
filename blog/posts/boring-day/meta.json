@@ -1,0 +1,18 @@
+{
+  "id": "boring-day",
+  "title": "Boring Day",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Today was an entirely uneventful, albeit long, day. I had class from 10 am to 5 pm and other than that, I pretty much did nothing. I read a bit for my historical methods class which generally requires an absurd amount of reading each week despite the fact that we also are supposed to be &#8230; more &#x2192;\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "Boring"
+  ],
+  "publishedDate": "2009-03-04T21:22:37",
+  "updatedAt": "2009-03-04T21:22:37",
+  "wordpressId": 10679
+}
