@@ -1,0 +1,3 @@
+Ever just have a strong desire to write something? I seem to be having that right now. My problem though is that I don’t know what to write about. I have a story that I’m continuing to work on, but I really don’t feel like writing fiction. For some strange reason, I really feel like actually researching something factual and writing about that.
+
+I will probably end up writing about something history-related. And it will probably be for [History Rhymes](http://historyrhymes.alexseifert.com). I guess we’ll see though because, as I said, I don’t really know what to write about…

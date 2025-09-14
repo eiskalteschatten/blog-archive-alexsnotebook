@@ -1,0 +1,4 @@
+-   Windows not finding the wireless connection my iPod Touch found despite wireless card being on
+-   Microsoft Word crashed when I clicked the Office Button
+-   Explorer crashed while shutting down
+-   Windows crashed while shutting down. Instead of just shutting down, it rebooted to check for solutions.
