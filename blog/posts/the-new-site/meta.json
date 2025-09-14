@@ -1,0 +1,16 @@
+{
+  "id": "the-new-site",
+  "title": "The New Site!",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Welcome to the new location of Alex&#8217;s Thoughts! Please update your RSS subscriptions to http://feeds.feedburner.com/alexseifertthoughts and bookmarks to http://thoughts.alexseifert.com. Thank you! &#8212; Alex\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [],
+  "publishedDate": "2008-05-10T15:58:06",
+  "updatedAt": "2008-05-10T15:58:06",
+  "wordpressId": 10424
+}
