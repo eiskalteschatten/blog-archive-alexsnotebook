@@ -1,0 +1,13 @@
+*Written: August 30, 2007*
+
+Today has been fairly easy going compared to the last couple of days. At around 11 this morning, I went down to the secretary and signed the rental agreement. I also talked to her about getting Internet. She told me to talk to a student on the 5th floor who is in charge of all things computer-related within the dorm. I’ve gone up there twice so far today, but he hasn’t been there, so I’ll just have to keep trying. Hopefully I’ll have Internet by the end of the night. If this is posted by tonight, then you’ll know how it turned out.
+
+After that, Nina picked me and Kayla up again at around 11:30. We then went to the university library to try to get our login names and passwords for university computers and for our university e-mail accounts, but we can’t do that until Monday for some reason. Then we tried to sign us up for a library card, but we can’t do that until we have a student ID, which we don’t get until our first day of class, Monday. So after all that, we got nothing accomplished. Although we did eat at the cafeteria. For 1.80 € ($2.45), I got a full meal plus dessert. Not a bad deal. I’ll probably be eating there for lunch most days.
+
+Afterwards, we went to the town hall to get me and Kayla registered. As temporary resident aliens, we have to register with the town instead of needing a visa. We are now legal aliens ready to live here for the year.
+
+When we were finished with that, we then went to the store yet again. I got another razor, since I forgot mine at home. I also got some more food, now that I finally found the kitchen here. After that, Nina dropped us off at our rooms and here I’ve been since. Nina is going to pick us up again at 9:00 because we are going to go downtown where a large city fair is going on. We’ll be there a good portion of the night I think.
+
+I just got through eating dinner and finally met someone else on my floor. I wish I could remember his name though… Anyway, he was eating and watching TV in the kitchen/dining area when I came in. I fixed dinner (a sandwich), then joined him. We talked for about 20 minutes and he had no idea I wasn’t German until I finally told him. I guess my German isn’t too bad. Also, for those who care, Family Guy isn’t as funny in German as it is in English. It’s too polite for the crude humor it’s supposed to have.
+
+I’ll write about the fair after I get back from it later.

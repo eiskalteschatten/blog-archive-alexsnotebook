@@ -1,0 +1,19 @@
+{
+  "id": "the-trip-is-on",
+  "title": "The Trip is On",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Well, it will soon be time for my European adventures to begin. I leave on Monday, August 27. In the afternoon around 1:30, I will fly to Philadelphia, Pennsylvania to meet a friend of mine from the University of Wyoming who will also be going to Oldenburg. Then that night around 8:00, we will fly &#8230; more &#x2192;\n",
+  "categories": [
+    "trip-to-germany"
+  ],
+  "tags": [
+    "School",
+    "Traveling"
+  ],
+  "publishedDate": "2007-08-19T05:30:04",
+  "updatedAt": "2025-09-14T14:24:05",
+  "wordpressId": 12
+}

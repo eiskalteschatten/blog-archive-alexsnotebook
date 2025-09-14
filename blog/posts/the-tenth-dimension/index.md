@@ -1,0 +1,3 @@
+A friend pointed out to me a very interesting video that describes the ten dimensions in an easy to understand way using dots, lines and a method that shows you just how each dimension stacks on top of the other. As the same friend pointed out, it’s really quite strange that we only see things as 3.5 on a scale of 10.
+
+You can find the video here: [http://tenthdimension.com/medialinks.php](http://tenthdimension.com/medialinks.php). If the page doesn’t load or the video doesn’t work right away, reload the page because they’ve been getting a huge amount of traffic.
