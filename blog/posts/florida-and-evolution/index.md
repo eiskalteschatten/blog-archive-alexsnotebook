@@ -1,0 +1,7 @@
+> “Florida education officials voted on Tuesday to add evolution to required course work in public schools but only after a last-minute change depicting Charles Darwin’s seminal work as merely a theory.
+> 
+> Bending to pressure from religious conservatives, the State Board of Education on a 4-3 vote included the “theory” language as part of a retooling of the state’s science standards for public school education.
+> 
+> The compromise would require teaching that Darwin’s proposal — that natural selection has driven the evolution of many species from a few common ancestors over billions of years — has yet to be conclusively proven.” *(Source: [Reuters](http://www.reuters.com/article/scienceNews/idUSN1929595320080219))*
+
+Florida appears to be quite backwards in its thinking. The fact that evolution was controversial in Florida in modern times shows that Florida needs to do a bit of catching up to the rest of the world. Fifty years ago it was a large controversy for the entire nation, but as science has progressed and religious extremism and beliefs have waned, evolution has rightfully taken a strong grip on the nation. Even if only taught as a theory, however, at least it did pass and will be taught in public schools at all.

@@ -1,0 +1,3 @@
+I bought some flags to hang up in my room for decoration. I wanted to buy a German flag and while I was there, I decided to buy an American flag as well since they were quite cheap. I bought them new from an online Ebay Germany store. Since I bought them from the same guy, he said he’d throw in a third flag for free, but didn’t tell me what it was. It turned out to be a British flag. So I now have an American flag, a German flag and a British flag hanging up in my room.
+
+I posted pictures of them [here](http://picasaweb.google.com/seifertalex/MyRoom).

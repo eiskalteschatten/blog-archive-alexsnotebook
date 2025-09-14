@@ -1,0 +1,22 @@
+{
+  "id": "firefox-3",
+  "title": "Firefox 3",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Today I downloaded Firefox 3 for the first time since the first beta. So far I am extremely impressed at its speed. It&#8217;s unimaginably faster at rendering images and pages and also at running JavaScript than its predecessor, Firefox 2; especially on my slow old PowerBook G4. I had a brief stint where I used &#8230; more &#x2192;\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "Browsers",
+    "Computers",
+    "Firefox",
+    "Internet",
+    "Mozilla"
+  ],
+  "publishedDate": "2008-06-18T14:29:02",
+  "updatedAt": "2008-06-18T14:29:02",
+  "wordpressId": 10442
+}

@@ -1,0 +1,7 @@
+PCWorld Australia has pitted Fedora 9 against Ubuntu 8.04 in an interesting article showing each one’s strengths and weaknesses. [PCWorld’s article](http://www.pcworld.idg.com.au/index.php/id;1631359451;pp;2;fp;16;fpid;1#content) concludes:
+
+> For users who are already familiar with Linux, Fedora 9 is an excellent choice. Robust security features and installation options make it somewhat more versatile than Ubuntu, which offers a more streamlined (and therefore more restricted) installation. For most users, though, including millions interested in trying Linux for the first time, Fedora lacks the polish and ready-to-run simplicity of its more popular rival.
+> 
+> Ubuntu 8.0.4 offers a level of functionality comparable to that of Mac OS and Windows, from delivery to installation to daily use. Unfortunately, the ties that bind all Linux distributions – primarily a lack of support for major Windows- and Mac-based business, design, and gaming applications – still hold Ubuntu back from mass popularity. For users with such moderate computing needs as Web browsing, e-mail, and basic document creation, however, Hardy is a compelling option.
+
+You can read the full article [here](http://www.pcworld.idg.com.au/index.php/id;1631359451;pp;2;fp;16;fpid;1#content).
