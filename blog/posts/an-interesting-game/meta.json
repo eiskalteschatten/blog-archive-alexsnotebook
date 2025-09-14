@@ -1,0 +1,19 @@
+{
+  "id": "an-interesting-game",
+  "title": "An Interesting Game",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "This is an interesting game I found: http://eiskalt.myminicity.com\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "Internet",
+    "Online"
+  ],
+  "publishedDate": "2007-12-15T17:12:03",
+  "updatedAt": "2007-12-15T17:12:03",
+  "wordpressId": 122
+}

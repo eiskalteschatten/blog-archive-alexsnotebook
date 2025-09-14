@@ -1,0 +1,18 @@
+{
+  "id": "another-new-theme",
+  "title": "Another New Theme",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Well I thought I would try another new theme because I didn&#8217;t really like the last one I tried after being &#8216;ousted by flowers&#8217; from my original theme. I think I actually rather like this one. It&#8217;s a lot cleaner and easier to read than the last one I tried. I made the header image &#8230; more &#x2192;\n",
+  "categories": [
+    "website"
+  ],
+  "tags": [
+    "Themes"
+  ],
+  "publishedDate": "2007-12-02T16:05:01",
+  "updatedAt": "2007-12-02T16:05:01",
+  "wordpressId": 10395
+}

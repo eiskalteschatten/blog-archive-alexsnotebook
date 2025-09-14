@@ -1,0 +1,3 @@
+ZDNet UK has created [a list of some of the most annoying software](http://reviews.zdnet.co.uk/software/0,1000001048,39419834-1,00.htm) and why it’s so annoying. Some of the software on the list includes Microsoft Outlook, Adobe Reader and Real Player.
+
+I would have to say that pretty much everything they say on there is true and is extremely annoying. You can see the full list, reasons and screenshots at [ZDNet UK](http://reviews.zdnet.co.uk/software/0,1000001048,39419834-1,00.htm).

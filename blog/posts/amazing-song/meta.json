@@ -1,0 +1,20 @@
+{
+  "id": "amazing-song",
+  "title": "Amazing Song",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "This is an amazing song. It&#8217;s called Sandmann and it&#8217;s by a German band called Oomph!.\n",
+  "categories": [
+    "general",
+    "music"
+  ],
+  "tags": [
+    "Oomph!",
+    "Songs"
+  ],
+  "publishedDate": "2009-07-31T22:30:26",
+  "updatedAt": "2009-07-31T22:30:26",
+  "wordpressId": 10513
+}

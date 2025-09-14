@@ -1,0 +1,1 @@
+This officially marks the beginning of a new perspective on rock music in America. America’s Metal is now open.
