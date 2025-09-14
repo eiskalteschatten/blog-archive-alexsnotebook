@@ -1,0 +1,5 @@
+Today I finished reading the book I’ve been working on since Christmas break called *Gomorrah* by Roberto Saviano. It should have been a quick read instead of taking 2 months to finish, but because I’ve had so much reading to do for classes, I really haven’t had much time to read it.
+
+It was actually a really interesting book that discussed the Camorra which is an organized crime group in southern Italy that essentially controls just about every aspect of everything in southern Italy. The Camorra is very similar to the Cosa Nostra (which is the organization that we generally think of when we hear the word mafia), except they are far more powerful and have a much more diversified business, for lack of a better word. It does make me quite happy that I don’t live in southern Italy though because the sense I got from the book is that the Camorra essentially effect just about every person’s life directly in that part of the country.
+
+As soon as I finish with the reading for my classes this week, I will be starting my next book which is *The Innocents Abroad* by Mark Twain. His books are really good and I’m really looking forward to reading this one.

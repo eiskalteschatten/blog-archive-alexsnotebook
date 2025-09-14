@@ -1,0 +1,5 @@
+I am back in Germany and things are going as well as ever. By request, I’ve decided to take up this online journal again so that friends and family can follow what I’m up to. This is the same journal I used last time I was here in Germany and as such, you can still read about my last trip to Germany [here](http://alexgermany.wordpress.com/category/trip-2007-2008/) or by clicking on “Germany 2007-2008” above.
+
+I’m finally getting settled down again, although it’s going to be quite a while yet before I am able to actually fully settle in since I will be moving apartments and such until at least the end of October. Job prospects are looking good as well. I had an interview last Friday with a language school here in Munich for a position as an English teacher. I got the job right away because they were quite excited to have me.
+
+I also have yet to write about my birthday present from Uli which will come in a separate post with pictures and all that fun stuff included.

@@ -1,0 +1,3 @@
+As I listen to quite a few German metal and hard rock bands (Rammstein, Eisbrecher, Megaherz, Der Bote, among others), I’ve decided I’m going to start covering the world of German rock here on America’s Metal as well as American rock. Hopefully those of you who love metal and hard rock will find new bands that you might not know about or if you do know about them, you can easily follow along with what’s going on in their world.
+
+— Alex

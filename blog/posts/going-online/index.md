@@ -1,0 +1,5 @@
+I’ve noticed an interesting trend in my computer habits as of the past few months. Slowly but surely I seem to find myself more and more in the “cloud” – that is using more and more online applications as opposed to offline applications.
+
+I think the first thing to go was the RSS reader. I used to use NetWireNews for Mac OS X, but I eventually gave that up for Google Reader. The next application I gave up was my e-mail application. I used to use Mail that comes with Mac OS X, but eventually I stopped using it all together when Gmail (also called Google Mail) added support to check POP3 accounts on top of its own mail service. Gmail had already long had the ability to send mail disguised as other e-mail addresses, but now I could also check other mail accounts.
+
+I’m not sure I’m ready to give up Word or Pages just quite yet. Online replacements such as Google Docs are just not quite there yet; not to mention whether or not I trust Google or which host company with my private documents. We’ll see in time though.

@@ -1,0 +1,1 @@
+Yesterday, Germany played Spain in the Euro 2008 soccer tournament. Unfortunately they lost. Dieuwertje came over for the game and we decided to watch it in the kitchen instead of going to the public viewing area. It was fun though.

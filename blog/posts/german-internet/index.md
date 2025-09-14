@@ -1,0 +1,5 @@
+I’ve been living in Germany for almost a year now and with the exception of the internet at the university library, not once have I encountered fast internet here. The speed of the internet in the place where I live is dreadfully slow. It is supposed to be broadband, but behaves as though it was trying to be dial-up. And that’s when it works!
+
+The way they’ve got their system setup is such that everyone is routed through a proxy server. While this may be common and isn’t that big of a deal, the fact that the proxy server is constantly refusing connections is a big deal. During this time I can access secure sites that bypass the proxy server, but the rest of the internet is unaccessible. That means that not only is the internet slow, but half the time browsing the internet is impossible which is extremely annoying.
+
+I suppose it’s not really fair to say that every connection in Germany is this horrible, but as of yet I have to see a connection that isn’t horrible — broadband or otherwise.

@@ -1,0 +1,20 @@
+{
+  "id": "german-blog",
+  "title": "German Blog",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "Well, in my ongoing quest to learn German, I have decided to start keeping a blog in German. Since I have still have 2 unused domain names &#8212; both conveniently enough in German &#8212; I&#8217;ve decided to use one to keep a blog in German. If you speak German and would like to follow it, &#8230; more &#x2192;\n",
+  "categories": [
+    "general",
+    "projects"
+  ],
+  "tags": [
+    "Alex Seifert",
+    "Blog"
+  ],
+  "publishedDate": "2008-11-02T16:03:47",
+  "updatedAt": "2025-09-14T15:06:49",
+  "wordpressId": 10455
+}
