@@ -1,0 +1,25 @@
+{
+  "id": "linux-shootout",
+  "title": "Linux Shootout",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "InformationWeek has done a really interesting comparison on the Linux desktop distros. The distros compared were openSUSE, Ubuntu 8.4, PCLinuxOS, Mandriva Linux One, Fedora, SimplyMEPIS, and CentOS 5.1. Overall Ubuntu won for its ease of use, the robust features it offers and for its ability to work on almost any hardware. You can find the &#8230; more &#x2192;\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "CentOS",
+    "Fedora",
+    "Linux",
+    "Mandriva",
+    "openSUSE",
+    "PCLinuxOS",
+    "SimplyMEPIS",
+    "Ubuntu"
+  ],
+  "publishedDate": "2008-05-05T17:07:05",
+  "updatedAt": "2008-05-05T17:07:05",
+  "wordpressId": 170
+}

@@ -1,0 +1,5 @@
+I found something [really interesting](http://www.youtube.com/watch?v=sLVXmsbVwUs). It’s a laser harp. According to [HacknMod.com](http://www.hacknmod.com/displayMOD.php?hack=980):
+
+> “Ever wanted to make your own techno music, but are tired of the standard midi controller? Well, you could build a harp (of all instruments)….out of lasers….and then play it by breaking the beams of light. Stephen Hobley did – See how it’s done. Finally got the bugs worked out with the sensor. The harp is connected to the impOSCar VSTi software synthesizer, the TAOS sensor array sits on the floor in it’s own stand. The array above the harp is just made up of mirrors for added p’zazz.”
+
+There are more details concerning how it works as well as more videos of it on [HacknMod.com](http://www.hacknmod.com/displayMOD.php?hack=980).

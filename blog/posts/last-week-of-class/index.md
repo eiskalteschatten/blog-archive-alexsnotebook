@@ -1,0 +1,13 @@
+You would think I haven’t eaten anything for days. I just finished off a pile of food on my plate that consisted of 2 pounds of scrambled hamburger and about a pound of corn. It was good. Really good.
+
+Well, my intensive German class is now over. I have mixed feeling about this. I am really happy I don’t have to wake up every morning at 7, but at the same time, I’m going to be bored out of my mind for a while.
+
+On Wednesday, we tried something new. 2 other Americans (John and Rob), the Russian girl (Irina), another guy from Russia (Ruslin) and I all went out for something that’s called a “Stammtisch” in German. There really isn’t an English word for it I don’t think. What it basically is is a group of people that get together on a regular basis for a specific purpose. We’re going to be getting together every Wednesday night and going to a bar or something just to get together and speak some German with each other. We all feel that same way: we’re in Germany, but so far it’s been surprisingly difficult to speak any German. Either the Germans will only speak in English or they don’t usually just want to have a casual conversation about anything it seems.
+
+Either way, we had our first one last Wednesday. It was really fun. We went to a bar called Der Pott, then went to another bar called Fiddler’s Green. Since there were 2 Russians there, it was a bonus for me because I could also practice my Russian. At one point, they started speaking in Russian and of course Irina knew I can speak some Russian, but Ruslin and the other Americans had no idea. Ruslin said something about Americans in general being messy people in Russian (Rob had just spilt beer all over himself). I looked at Irina and she just looked at me for second before I turned to Ruslin, and in Russian, said that it isn’t all Americans who are messy; Rob just seems to be really messy. Ruslin turned bright red and said in Russian “You speak Russian too?!?”. I had already told him earlier, in German, that I spoke Japanese from studying abroad in Japan and that I had had 10 years of Spanish in school. And of course English is implied, since I’m American. The other 2 Americans also just looked at me and shook their heads. Then we all went back to speaking German.
+
+I didn’t do anything of interest at all on Thursday.
+
+Last night, I went to a party with the other members of my class that a couple of them (John and Rob, actually) were throwing as a celebration of the end of our class. We played foosball and beer pong. I got back at around 2 am and went straight to bed.
+
+I also uploaded a few more photos of a get-together some of us exchange students went to [here](http://picasaweb.google.com/seifertalex/Parties). This times there are names of the people in the pictures.

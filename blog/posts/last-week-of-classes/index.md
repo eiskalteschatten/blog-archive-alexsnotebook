@@ -1,0 +1,3 @@
+Well, this week was my last week of classes! Next week is the actual official last week of classes for the university, but all of the classes that I’ve been taking have finished this week. The only thing I have left to do for university classes is to go next week to my American English class to pick up the results of the essay test we had last Wednesday. We had to write a 500-1000 essay about one of several topics he gave us pertaining to the class. Other than that though, I’m finished.
+
+That means next week I’m going to start doing things like closing my bank account, getting everything packed entirely and getting my room ready to move out. 3 weeks and counting until I come home…
