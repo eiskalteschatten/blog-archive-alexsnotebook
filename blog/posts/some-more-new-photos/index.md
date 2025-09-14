@@ -1,0 +1,3 @@
+More new photos from last Wednesday to tide you over until I finish the next part of my Christmas saga. Since I didn’t take any pictures myself, I’ve just been waiting until the girls that went with us (who brought the cameras) post the pictures on their journals, then download them and post them here. You can find the photos [here](http://picasaweb.google.com/seifertalex/Parties).
+
+The photos are arranged by date with the new ones at the very bottom of the page.

@@ -1,0 +1,1 @@
+I found [an ingenious solution for people who do not like End User License Agreements (EULAs)](http://www.ohesso.com/essays/essay006.htm).

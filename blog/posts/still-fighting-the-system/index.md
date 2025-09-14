@@ -1,0 +1,7 @@
+Well, talking with the Director of Admissions at the University of North Dakota did nothing to help solve my Oldenburg transcript problem. She repeated exactly the same thing her subordinates did, offering no help whatsoever. I am becoming extremely frustrated at this point because they are unwilling (more likely unable) to comprehend the idea that I CANNOT get a transcript form the University of Oldenburg. It is an impossibility. It does not exist. They do not do transcripts.
+
+I contacted the international coordinator here at Wyoming and asked her if there was anything she could do. She can’t do anything. I also contacted her equivalent in Oldenburg who also served as my adviser while I was in Oldenburg. He has no responded and probably will not. I have not once received a reply from him, so it’s quite hopeless.
+
+I e-mailed the department chair for the modern languages department in North Dakota as well as a German professor there. Hopefully they will be able to do something or at least point me in the right direction. At this point, I have no idea how to proceed.
+
+Oh, and the Director of Admissions also continued to hound me today for not sending in a Safety and Security form. That is the form that I have now filled out and sent in twice now. It’s like adding a cherry to a pile of crap-cake.

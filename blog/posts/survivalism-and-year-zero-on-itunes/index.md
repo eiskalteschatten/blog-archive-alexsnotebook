@@ -1,0 +1,3 @@
+For those of you who can’t wait for Nine Inch Nails’ new album, **Year Zero**, to be released, you will be happy to know that the album has showed up in the iTunes Music Store. There you can also buy the single, **Survivalism**, but as of yet, the rest of the album is still grayed out and marked as “Pre-order”.
+
+Anyway, I’ll give you a direct link to **Year Zero** and **Survivalism** [here](http://click.linksynergy.com/fs-bin/stat?id=oiyVbGokg9Q&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fphobos.apple.com%252FWebObjects%252FMZStore.woa%252Fwa%252FviewAlbum%253Fi%253D217031595%2526id%253D217031593%2526s%253D143441%2526partnerId%253D30).

@@ -1,0 +1,7 @@
+Well, the past 3 days have been quite busy actually. On Thursday, I had my 2 classes, then I went to watch soccer at the public viewing area again. We watched Germany lose against Croatia. This time I went with Dieuwertje, Katie (another American exchange student), Manuel (a German guy), Andrew and Hester. It was quite fun despite Germany losing. Afterwards we went to dinner.
+
+The next day, Friday, Dieuwertje came over at noon. We were going to go to a store called Media Markt to go get her new headphones, but it was raining, so we decided to just wait until the next day. She hung out with me and we watched Eddie Izzard. For dinner, we went to the grocery store and bought stuff for pasta. We came back and cooked the pasta together. Later we watched soccer in the kitchen here. We watched the Holland versus France game and Holland won 4-1 which made Dieuwertje really happy. We hung out until about 2 am.
+
+Yesterday, Dieuwertje came over again at around 2 pm, then we went to Media Markt so she could get new headphones. Then we went back to her apartment and watched another comedian named Jeff Dunham for a few hours. After that, we went to the grocery store and then to another BBQ that Andrew and Hester threw at their place again. We were there until they decided to go into the city to go party, then we both went home.
+
+Today, I’ve just sat around for the most part. I booked hostels and hotels for the trip Jake and I are taking to Munich, Vienna and finally Amsterdam. I also went with Orion, Jonathan and Rieke to Subway for dinner.
