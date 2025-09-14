@@ -1,0 +1,18 @@
+{
+  "id": "mountain-dew-announcement",
+  "title": "Mountain Dew Announcement",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I finally found Mountain Dew here! It tastes like diet though.\n",
+  "categories": [
+    "trip-to-germany"
+  ],
+  "tags": [
+    "Daily Activities"
+  ],
+  "publishedDate": "2008-05-22T20:58:31",
+  "updatedAt": "2025-09-14T14:04:06",
+  "wordpressId": 10166
+}

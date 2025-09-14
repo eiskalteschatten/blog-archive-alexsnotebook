@@ -1,0 +1,1 @@
+\[digg=http://www.digg.com/microsoft/Microsoft\_Propaganda\_Film\_2\]Here’s an amusing video I found on YouTube:
