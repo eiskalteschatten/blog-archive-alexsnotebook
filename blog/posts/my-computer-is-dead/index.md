@@ -1,0 +1,5 @@
+Well, my Powerbook G4 is dead. It died two days ago as I was trying to work on another song. I’m pretty sure the harddrive is dead as right before it kicked the bucket, it was making strange noises coming from where the harddrive is located inside the computer. Then the computer locked up entirely as the harddrive continued to make clicking noises. I had to hard reboot it and it no longer found the harddrive when trying to boot.
+
+Fortunately I just bought one of the second generation iPod Touches so I am still able to do Internet and e-mail. In fact I’m writing this entry on it and it seems to be doing fine.
+
+But alas, I now have to go buy a new laptop because I don’t really think it’s worth fixing the old Powerbook. I was going to buy a new laptop soon anyway, but now I’m going to have to buy a new one much sooner than I was hoping to.
