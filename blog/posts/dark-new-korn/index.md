@@ -1,0 +1,1 @@
+Dark new Day guitarist Clint Lowery will be **temporarily** replacing Rob Patterson as guitarist for Korn. Rob Patterson is the guitarist hired by Korn to replace founding guitarist Brian “Head” Welch when he left the band in 2005. Lowery will be making his first appearance with Korn tomorrow (March 1st) in Korn’s performance on “The Tonight Show with Jay Leno”.

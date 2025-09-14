@@ -1,0 +1,3 @@
+They passed the auto bailout! I guess I don’t understand why they feel like they just can’t leave things alone that they don’t have any business putting their noses in. I know they passed it to save all of the jobs associated with the auto industry, but at the same time they really just need to allow capitalism to function without interference. That is one of the principle building blocks of this country and they continually feel the need to undermine it…
+
+[More…](http://despoticdemocracy.wordpress.com/2008/12/11/congress-resurrects-the-dead/)

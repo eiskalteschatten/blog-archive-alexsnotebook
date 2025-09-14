@@ -1,0 +1,1 @@
+One of my favorite drummers of all time is Danny Carey from Tool. He is extremely creative and his ability to play the drums is flat out amazing. As an aspiring drummer, he is definitely someone I admire and look up to. Here is a video of him playing the last part of the song *Lateralus* by Tool.
