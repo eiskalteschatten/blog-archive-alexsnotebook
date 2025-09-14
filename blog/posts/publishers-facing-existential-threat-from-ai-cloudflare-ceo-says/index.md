@@ -8,4 +8,4 @@
 > 
 > [Axios](https://www.axios.com/2025/06/19/ai-search-traffic-publishers)
 
-This something I recently [wrote about on my personal blog](https://blog.alexseifert.com/2025/06/15/a-few-thoughts-on-ai-as-a-search-replacement/). If I had to rely on any of [my blogs](https://blog.alexseifert.com/other-blogs/) for income, I would be panicking about now. My biggest fear is that AI and the handful of companies that are working on it are going to irreversibly change the internet so that most people stay in their walled gardens. As someone who has been a web developer since the beginning of the internet, that worries me.
+This is something I recently [wrote about on my personal blog](https://blog.alexseifert.com/2025/06/15/a-few-thoughts-on-ai-as-a-search-replacement/). If I had to rely on any of [my blogs](https://blog.alexseifert.com/other-blogs/) for income, I would be panicking about now. My biggest fear is that AI and the handful of companies that are working on it are going to irreversibly change the internet so that most people stay in their walled gardens. As someone who has been a web developer since the beginning of the internet, that worries me.
