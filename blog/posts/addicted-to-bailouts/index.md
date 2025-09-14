@@ -1,0 +1,9 @@
+Reuters has [an interesting article](http://www.reuters.com/article/ousiv/idUSTRE52168Y20090302) about how the addiction to bailout money from the government could wind up causing a lot more trouble than it is worth.
+
+> U.S. companies, consumers and communities may grow so addicted to government financial help that cutting them off could trigger another recession soon after the current one ends.
+> 
+> Between the U.S. Federal Reserve’s trillions of dollars in lending programs, the $787 billion stimulus package and $700 billion — and counting — in bank bailout funds, no one can accuse officials of soft-pedaling their crisis response.
+> 
+> But there is increasing concern that when the flow of public money subsides — beginning next year when much of that stimulus package is spent — the economy still won’t be strong enough to stand on its own.
+
+Let’s see, we have companies such as AIG and GM who cannot stay afloat without bailout money, but what is going to happen to them when the bailout money is all gone? What happens to them when the government won’t or can’t give them more money? Their businesses are going to fail. They would have failed in the first place without a bailout, so why is the waste of money that is the bailout worth giving them in the first place? To “try and save them” is not going to do any good, because, as the article argues, companies are just going to grow dependent on an automatic, assumed income from the government. There is no motivation to change themselves and make themselves more efficient and profitable independently. So where do we end up? With companies reliant on government money to survive.

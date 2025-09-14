@@ -1,0 +1,7 @@
+I’ve renamed this blog yet again. This time around because the domain name for Und Es Regnet expired and I really see no need to renew it. Because of the change of the URL, some of the images of the older posts may not work. I’ve gone back in the archives a little bit and updated them, but I don’t have the time to update all of the images in every post.
+
+With the new name, I’ve decided to go for a more generic name and one that most of my English speaking readers will actually be able to understand and remember. I chose “Alex’s Journal” because I’ve always kept a journal of sorts on paper and this blog is to some degree an extension of that journal online. Of course I write about less personal things on this blog, but it is, by and large, still a collection of thoughts by me.
+
+I will be catching up on posts here relatively soon. I’ve written some ideas for posts down on paper while this blog was down and will be posting them here shortly.
+
+Again, there is no need to change your RSS feeds because of the wonderful invention called [FeedBurner](http://www.feedburner.com) which allows me to change the blog’s actual location without having to change the RSS feed. You will just need to update any bookmarks and any links. Thank you!

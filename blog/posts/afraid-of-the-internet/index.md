@@ -1,0 +1,7 @@
+As a college student, it is not an uncommon thing for me to be assigned essays and papers. An research assignment given to me about two weeks ago had a strange requirement attached to it: we are not allowed to use Internet sources. When I asked the 80-something year old professor why we are not allowed to use Internet, he simply said that he doesn’t trust any of the online sources available out there.
+
+This professor also has never used a computer to type anything (all of his syllabi, assignments, tests, etc are all typed on a typewriter) and never checks his e-mail.
+
+That got me thinking. Is there such a thing as an Internet phobia? I did a quick search on Google for Internet phobia and quickly came up with several relevant links. It turns out that there is a minority amongst seniors that simply resisting new technology such as the Internet or even computers in general. According to a study done by the Kaiser Family Foundation, “Fewer than 31 percent of seniors older than 65 have ventured online, compared with more than two thirds of the younger baby boomers, 50 to 64. Of seniors older than 65 whose annual household income is less than $20,000 a year—a group that makes up the majority of the elderly on Medicare—an even slighter 15 percent have gone online.”
+
+*Source: [Newsweek](http://www.msnbc.msn.com/id/7517715/site/newsweek)*
