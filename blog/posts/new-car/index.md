@@ -1,0 +1,5 @@
+I finally got a new car this weekend. I ended up buying a 1995 Toyota Camry. It was a good deal and it has really low mileage for a 1995 (only 116,000 miles). It’s beige, but that still beats the lavender Camry I was driving before that. The car itself is extremely clean and I haven’t noticed anything really wrong with it other than the front passenger window which doesn’t go up all the way sometimes. I think the motor is just worn.
+
+Speaking of electric motors, it’s really nice to actually have them. The only electronics my old LandCruiser had were the lights and stereo. That’s about it. This car has electric windows and locks and even has cruise control! These are luxuries compared to what I’m used to! It is also an automatic transmission which I’m still trying to get used to. After driving a stick everyday for so many years, you get into a habit that is hard to break. Occasionally I still find myself looking for the clutch or expecting myself to roll backwards a little bit when I let off the break. It’s a weird feeling.
+
+I’ll post some pictures of it soon I think. I have to take them first.

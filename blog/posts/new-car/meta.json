@@ -1,0 +1,19 @@
+{
+  "id": "new-car",
+  "title": "New Car",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I finally got a new car this weekend. I ended up buying a 1995 Toyota Camry. It was a good deal and it has really low mileage for a 1995 (only 116,000 miles). It&#8217;s beige, but that still beats the lavender Camry I was driving before that. The car itself is extremely clean and I &#8230; more &#x2192;\n",
+  "categories": [
+    "general"
+  ],
+  "tags": [
+    "Camry",
+    "Car"
+  ],
+  "publishedDate": "2009-04-09T12:46:50",
+  "updatedAt": "2009-04-09T12:46:50",
+  "wordpressId": 233
+}

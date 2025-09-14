@@ -1,0 +1,3 @@
+I’ve been thinking for a while that I should start a new blog based on British history and I think I will do just that. I know I already have [History Rhymes](http://historyrhymes.alexseifert.com), but I’ve dedicated that blog to American history and don’t really want to stray from that topic. I think it’s best to have separate blog for separate topics.
+
+I haven’t quite decided what it’s going to be called or anything, but that will come soon I suppose. When it’s open, I will announce it here.

@@ -1,0 +1,19 @@
+{
+  "id": "new-blog",
+  "title": "New Blog",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I&#8217;ve been thinking for a while that I should start a new blog based on British history and I think I will do just that. I know I already have History Rhymes, but I&#8217;ve dedicated that blog to American history and don&#8217;t really want to stray from that topic. I think it&#8217;s best to have &#8230; more &#x2192;\n",
+  "categories": [
+    "history"
+  ],
+  "tags": [
+    "Blogs",
+    "British History"
+  ],
+  "publishedDate": "2008-09-14T19:27:36",
+  "updatedAt": "2008-09-14T19:27:36",
+  "wordpressId": 10438
+}

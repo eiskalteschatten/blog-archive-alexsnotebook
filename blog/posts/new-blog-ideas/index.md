@@ -1,0 +1,1 @@
+During the down time, I’ve decided what I’m going to do is post some of my writing here. Some of it is old and some of it is newer. The older stuff isn’t as good, but I think I’m going to post it anyway. I’ve got quite a bit to post and will start posting them here pretty soon.
