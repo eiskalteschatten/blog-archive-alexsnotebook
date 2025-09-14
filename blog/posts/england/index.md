@@ -1,0 +1,1 @@
+I will be leaving for England for a 6 day trip tomorrow morning (Wednesday morning). I will be back next Monday and will let everyone know here how the trip went. I will also take plenty of photos.

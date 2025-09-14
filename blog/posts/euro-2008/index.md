@@ -1,0 +1,7 @@
+Yesterday Jonathan, Rieke and I went to watch Turkey play against Portugal in the Euro 2008 soccer championship. Yesterday was the first day of the championship I think. We went to a place where they show it on a giant screen at one end of a large empty parking lot that’s blocked off for pedestrians. It was interesting because there were a large number of Turks there and Portugal beat Turkey 2-0, so they weren’t too happy.
+
+Today we went again to watch Germany play Poland. This time the entire parking lot was jammed pack with people wearing black, red and yellow hats (the colors of the German flag), German national team jerseys and waving German flags. Apparently this is really the only time that the Germans rally together like this and show this much patriotism because of the general negative context patriotism has here in Germany, especially when patriotic people rally together here.
+
+Anyway, Germany beat Poland 2-0, so that was good. We also saw the representative for the communist party for Niedersachen (the area I’m staying in) there. He was busy waving a DDR (East German) flag around which was quite amusing.
+
+I took some pictures of it [here](http://picasaweb.google.com/seifertalex/Euro2008).
