@@ -1,0 +1,1 @@
+\[digg=http://digg.com/apple/1984\_Apple\_Lisa\_Demonstration\]This is kind of amusing for us now:

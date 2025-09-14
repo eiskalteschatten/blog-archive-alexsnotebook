@@ -1,0 +1,16 @@
+{
+  "id": "a-new-book",
+  "title": "A New Book",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "excerpt": "I can&#8217;t say that I&#8217;ve done a whole lot recently, so this post will be fairly short. I just figured I should update everyone as to what&#8217;s going on here. Last Saturday I went and watched a soccer game at one of the bars in the downtown area. I went with another American. Today I &#8230; more &#x2192;\n",
+  "categories": [],
+  "tags": [
+    "Daily Activities"
+  ],
+  "publishedDate": "2008-02-25T02:16:46",
+  "updatedAt": "2008-02-25T02:16:46",
+  "wordpressId": 10161
+}

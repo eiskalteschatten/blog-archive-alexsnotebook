@@ -1,0 +1,5 @@
+Recently I posted a whole bunch of short writings which I called the Tales of Fate. In lieu of wasting time and space here, I have decided to setup a website specifically dedicated to the publication of my writings. This website can be found at [http://writing.alexseifert.com](http://writing.alexseifert.com). Also, check out the new [Writings page](http://blog.alexseifert.com/writings/) on this blog.
+
+I will be republishing such stories as “Together to One” and “Drilled” on that site as well instead of just posting the stories in a PDF file as I have been doing most recently. I also have several others to post. I will be making good use of this new site, so check back frequently or subscribe to the [RSS feed](http://feeds2.feedburner.com/alexseifert/writings) or [by e-mail](http://blog.alexseifert.com/writings/) to automatically be notified when I publish a new story.
+
+The goal is to eventually have enough short stories to publish my own book of short stories. I am not terribly far off from that point and when I reach it, I will let everyone know here.

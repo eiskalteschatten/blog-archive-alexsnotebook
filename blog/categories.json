@@ -130,5 +130,23 @@
     "name": "Cars &amp; Trucks",
     "description": "",
     "wordpressId": 540
+  },
+  {
+    "id": "linguistics",
+    "name": "Linguistics",
+    "description": "",
+    "wordpressId": 633
+  },
+  {
+    "id": "trip-to-germany",
+    "name": "Trip To Germany",
+    "description": "",
+    "wordpressId": 556
+  },
+  {
+    "id": "website",
+    "name": "Website",
+    "description": "",
+    "wordpressId": 557
   }
 ]
