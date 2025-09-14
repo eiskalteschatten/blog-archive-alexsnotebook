@@ -1,0 +1,11 @@
+I haven’t written here for a while, so you’re probably wondering what I’ve been up to. The answer is quite simple. I haven’t really been doing much of anything at all, although I have gone out a couple of times.
+
+Last Friday, I went to an event called Kramermarkt. It is basically a giant carnival. This year was a special event though because it was the 400th annual Kramermarkt. It was a lot of fun the first night. The second night (last Saturday) wasn’t so fun, then the third night (last night) was pretty boring. It’s just mostly a bunch of shops selling over-priced things that I could go to the regular store and get for a cheaper. We did do some rides though and those were fun. You can find more about it here: [http://www.kramermarkt.info](http://www.kramermarkt.info)
+
+Last night before we went to the Kramermarkt again, I went to Kayla’s for dinner. She invited me over because her and another person on her floor were going to make dinner. What I didn’t know was that they were making spaghetti. It always seems to be spaghetti that people make whenever I’m involved. I really hate spaghetti.
+
+Then today I just sat around and literally did nothing.
+
+The first day of orientation at the university for international students is Monday. That’ll be exciting because it’ll at least be something to do. Then the following Monday is when our intensive German course starts. All of the exchange students have a year-long intensive German course that we will be taking. The level of the course we take will be determined by a test we have to take on Wednesday, so it will be more suited to our individual level than the last course was. The German course for some reason starts a week earlier than the rest of the courses which start on October 22. I’m not sure why.
+
+I also finally got my student ID and my semester ticket in the mail yesterday. My semester ticket lets me ride the bus for free, ride the train for free within a certain milage from Oldenburg and lets me get student discounts on various things. I also got my university e-mail address here.

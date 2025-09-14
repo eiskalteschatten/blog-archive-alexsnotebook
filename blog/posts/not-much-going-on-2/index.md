@@ -1,0 +1,3 @@
+I haven’t written here for a while because there really hasn’t been all that much going on. Our 2 month break officially started last week and I haven’t had a whole lot to do. I’ve been reading a lot and playing a lot of bass. My glasses also finally broke entirely, so I’ve been forced to wear contacts. My eyes are extremely sore and I’ve gone without contacts today to hopefully make my eyes feel better.
+
+Tomorrow I have a Klausur for my Language and Culture class. For those of you who don’t know what a Klausur is, it’s basically a final exam. It’s the only one I have and I don’t think it’s going to be terribly difficult. It’s an hour and a half long at 11 am tomorrow. Hopefully I can see.

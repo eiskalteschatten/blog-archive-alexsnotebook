@@ -1,0 +1,7 @@
+Well, unfortunately there really isn’t a whole lot to write about. I haven’t really done much. Either way I thought I would write again to let you all know that I’m still here all the same.
+
+This week I had my regular classes as usual. I definitely think they are a lot better than last semester’s classes though. I don’t know exactly why, but I think they’re probably more interesting. It could also have something to do with the fact that most of them are for international students so the German is toned down a bit making it easier to follow along and participate in the class. Although it looks like I will be quite busy with papers at the end of the semester as a lot of my classes require that we write papers.
+
+Yesterday I didn’t really do anything and today I went and watched a soccer game with Jonathan and Orion. We went to our normal place that we go to almost every Saturday to watch soccer games. We go to a place called the Jägerhütte which is a sports bar basically. I also went to the grocery store.
+
+Tonight I’m planning on reading more from my new book *A Tramp Abroad* by Mark Twain and tomorrow I’m meeting with Kayla and probably some of the others for a picnic at a place called the Schlossgarten (castle-garden). It’s a large park near the Oldenburg palace. It should be fun or at very least it’ll get me outside.
