@@ -1,0 +1,3 @@
+Today marks the second year of Und Es Regnet (previously Alex’s Thoughts). I have been in the blogging world for 2 years now although it hardly seems that long. This blog has gone through several different phases starting off as Alex’s Thoughts and hosted at [WordPress.com](http://alexseifert.wordpress.com). Maintaining its name, it then moved over to a sub-domain of [AlexSeifert.com](http://www.alexseifert.com). The third stage is its present form of Und Es Regnet taking over a stagnant domain which I own and refocusing the emphasis away from technology and more towards my experiences and studies with the German language.
+
+Here’s to another two more years and hopefully more to come!
