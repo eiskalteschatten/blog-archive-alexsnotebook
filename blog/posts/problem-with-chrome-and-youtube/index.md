@@ -1,3 +1,3 @@
-[![](Chrome.jpg)](https://i0.wp.com/3.bp.blogspot.com/-qePxZTT9YtE/TyqQlr_QtgI/AAAAAAAADMg/slxLDukUAz0/s1600/Chrome.jpg?ssl=1)
+[![](Chrome.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2012/02/Chrome.jpg?ssl=1)
 
 [In a previous post](https://browser-notebook.blogspot.com/2012/02/why-i-dislike-google-chrome.html), I ranted about why I dislike Google Chrome. One of the main reasons I gave was that it doesn’t load this blog. Since I wrote that post, I think I have been able to determine what the problem is. In another post of mine I embedded a YouTube video and it seems that Chrome is having [an issue loading some YouTube videos](https://www.reddit.com/r/AskReddit/comments/p12dq/youtube_crashing_chrome/). Let’s just hope Google is working on a fix for that because it seems pretty ironic that their browser wouldn’t be able to handle videos from their own video service. I’m sure a fix is on the way though and I will be patient about it.

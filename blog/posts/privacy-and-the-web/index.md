@@ -1,4 +1,4 @@
-[![Privacy](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2009/03/privacy.jpg?resize=150%2C137 "Privacy")](http://blog.alexseifert.com/2009/03/25/privacy-and-the-web/privacy/)
+[![Privacy](privacy.jpg "Privacy")](http://blog.alexseifert.com/2009/03/25/privacy-and-the-web/privacy/)
 
 Privacy
 
@@ -8,7 +8,7 @@ You have probably read it somewhere else before, but with the conveniences that 
 
 Unfortunately for someone of my age (a college student), having accounts on sites such as Facebook and MySpace are practically imperative for your social life. Let’s say you meet someone at a party who you would like to hang out with later or stay in contact with. The first thing they ask you isn’t for your phone number or your e-mail address, it’s whether you have a Facebook account. It’s gotten to the point that the only people you give your phone number to are your closest circle of friends. Receiving a text message is a far more private matter than receiving a message on Facebook. Why? I can’t really explain that.
 
-[![Uncle Sam & Privacy](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2009/03/qqxsge-mail-privacy.gif?resize=300%2C217 "Uncle Sam & Privacy")](http://blog.alexseifert.com/2009/03/25/privacy-and-the-web/qqxsge-mail-privacy/)
+[![Uncle Sam & Privacy](qqxsge-mail-privacy.gif "Uncle Sam & Privacy")](http://blog.alexseifert.com/2009/03/25/privacy-and-the-web/qqxsge-mail-privacy/)
 
 Uncle Sam & Privacy
 
@@ -18,7 +18,7 @@ On a side note, some may argue that keeping a blog destroys one’s privacy. Tha
 
 The biggest concern I have with these privacy matters is largely two fold. First of all, I don’t think any government agent should be able to access my private information without probable cause, which is absolutely something he or she could do if it was generically posted online. The second concern I have is that future employers will ‘research’ me on the internet. I find it absolutely absurd that potential employers could justify not hiring me just because they found out about a party I went to or what my political or religious opinions are. That to me is an enormous violation of privacy and therefore I want to reduce the risk because the sad truth is that it actually happens.
 
-[![Online Privacy](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2009/03/online-privacy-advocate.gif?resize=300%2C196 "Online Privacy")](http://blog.alexseifert.com/2009/03/25/privacy-and-the-web/online-privacy-advocate/)
+[![Online Privacy](online-privacy-advocate.gif "Online Privacy")](http://blog.alexseifert.com/2009/03/25/privacy-and-the-web/online-privacy-advocate/)
 
 Online Privacy
 
