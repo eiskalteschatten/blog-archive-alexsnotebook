@@ -1,6 +1,6 @@
 I finished the last song for Parlour today! That means the album is almost ready for release. There are still some final logistics and what not to go through before it’s ready to be released, but it’s very close! Come back here for more details as the release approaches!
 
-[![Parlour](parlour300.thumbnail.jpg)](http://www.alexseifert.com/news/wp-content/uploads/2007/11/parlour300.jpg "Parlour")
+[![Parlour](parlour300.thumbnail.jpg)](https://i0.wp.com/www.alexseifert.com/news/wp-content/uploads/2007/11/parlour300.jpg "Parlour")
 
 Until then, check out my other albums at these stores:
 
