@@ -1,5 +1,5 @@
 I finally made and finished a program! It is called ScratchPad and essentially is used to replace those sheets of paper that you have all over your desks with notes reminding you to do things. It can also be used to jot down notes that come to mind that you need to remember or it can even be used as a scrapbook. The program is for Mac OS X 10.4 or greater.
 
-[![ScratchPad Screenshot](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2008/02/picture-1.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2008/02/picture-1.jpg "ScratchPad Screenshot")
+[![ScratchPad Screenshot](picture-1.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2008/02/picture-1.jpg "ScratchPad Screenshot")
 
 For more details, [you can find it here](http://seifertalex.googlepages.com/).
