@@ -1,4 +1,4 @@
-[![Denglisch](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2009/02/2962_denglisch.jpg?resize=128%2C108 "Denglisch")](http://www.undesregnet.com/2009/02/08/denglisch/2962_denglisch/)
+[![Denglisch](2962_denglisch-1.jpg "Denglisch")](http://www.undesregnet.com/2009/02/08/denglisch/2962_denglisch/)
 
 Denglisch
 
