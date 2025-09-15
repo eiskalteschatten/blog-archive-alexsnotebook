@@ -4,13 +4,13 @@ I have dabbled in programming since the time before I was even a Mac user. I’v
 
 I always seem to do the same thing when trying to write a program. I begin by creating enough of the interface to give me a good start. Then I start connecting the interface elements to code that actually makes them useful. I start with the simple ones and work my way up. Since I tend to love design and graphics, I also create most of the art work, icons, etc for the program, giving it a lovely look and feel.
 
-[![Maffia in Interface Builder](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-2.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-2.png "Maffia in Interface Builder")
+[![Maffia in Interface Builder](picture-2.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-2.png "Maffia in Interface Builder")
 
 *(Above: Maffia in Interface Builder)*
 
 The problem is when the coding gets tricky or when I run into my first major bug in the project. I could sit down and design user interfaces all day long, design the program’s flow and even create artwork for the program, but I can’t seem to stay focused on the technical coding bit. I tend to lose interest at this point and I move on to something else for a while before coming up with another idea for a new program (which will probably have the same fate as the previous attempt).
 
-[![Maffia in Xcode](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-1.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-1.png "Maffia in Xcode")
+[![Maffia in Xcode](picture-1.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-1.png "Maffia in Xcode")
 
 *(Above: Maffia in Xcode)*
 
@@ -18,13 +18,13 @@ Now, I know what you’re thinking. You’re probably thinking that I am a quitt
 
 What a useless entry. Here are some more screen shots of Maffia as far as it’s gotten:
 
-[![Maffia Icon](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/icon2.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/icon2.jpg "Maffia Icon")
+[![Maffia Icon](icon2.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/icon2.jpg "Maffia Icon")
 
 *(Above: The application icon for Maffia)*
 
 *
 
-[![Maffia Start Window](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-4.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-4.png "Maffia Start Window")
+[![Maffia Start Window](picture-4.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-4.png "Maffia Start Window")
 
 *
 
@@ -32,7 +32,7 @@ What a useless entry. Here are some more screen shots of Maffia as far as it’s
 
 *
 
-[![Maffia Main Window](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-3.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-3.png "Maffia Main Window")
+[![Maffia Main Window](picture-3.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-3.png "Maffia Main Window")
 
 *
 
@@ -40,7 +40,7 @@ What a useless entry. Here are some more screen shots of Maffia as far as it’s
 
 *
 
-[![Maffia About Window](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-5.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-5.png "Maffia About Window")
+[![Maffia About Window](picture-5.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/picture-5.png "Maffia About Window")
 
 *
 
