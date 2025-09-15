@@ -2,4 +2,4 @@ My next album, Parlour, is getting closer and closer to completion. So far the a
 
 The album artwork has been decided on for Parlour. I incorporated the help of a friend of mine because I didn’t even have the slightest clue as to what I wanted the album cover to look like. You can see it here:
 
-[![Parlour](parlour300.thumbnail.jpg)](http://www.alexseifert.com/news/wp-content/uploads/2007/11/parlour300.jpg "Parlour")
+[![Parlour](parlour300.thumbnail.jpg)](https://i0.wp.com/www.alexseifert.com/news/wp-content/uploads/2007/11/parlour300.jpg "Parlour")
