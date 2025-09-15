@@ -1,4 +1,4 @@
-[![](Chrome.jpg)](https://i0.wp.com/3.bp.blogspot.com/-qePxZTT9YtE/TyqQlr_QtgI/AAAAAAAADMg/slxLDukUAz0/s1600/Chrome.jpg?ssl=1)
+[![](Chrome-1.jpg)](https://i0.wp.com/3.bp.blogspot.com/-qePxZTT9YtE/TyqQlr_QtgI/AAAAAAAADMg/slxLDukUAz0/s1600/Chrome.jpg?ssl=1)
 
 I hear an awful lot about how much people love using Google’s browser, Chrome. I have many friends and fellow web developers who swear by it, but honestly I can’t understand why. Recently I gave it a fair shot. I downloaded it for my MacBook running Mac OS X Lion and used it as my primary browser for about two weeks. After that time I couldn’t wait to go back to another browser.
 
