@@ -1,0 +1,9 @@
+I took some time this afternoon to import hundreds of old blog posts into this blog. I have been fairly consistently blogging for almost twenty years now on various different platforms such as Blogger or WordPress.com (as opposed to self-hosted WordPress) and with my tendency to start new blogs on a whim, I had quite a few that I had taken offline, but were still accessible when I logged in.
+
+In order to preserve those posts, I imported them all into this blog. I wrote most of the posts that I imported between 2007 and 2009, so they’re fairly old.
+
+One of the highlights was the old posts from an online journal/blog I kept when I studied abroad in Oldenburg, Germany. I filed them under the new [Trip to Germany](https://blog.alexseifert.com/category/trip-to-germany/) category. Otherwise, [another post I enjoyed revisiting](https://blog.alexseifert.com/2007/08/14/me-a-programmer-i-dont-think-so/) was one from 2007 that featured screenshots of a game for Mac OS X Tiger I was working on at the time called Maffia. I posted [the code for it on GitHub](https://github.com/eiskalteschatten/Maffia) a long time ago.
+
+I ended up importing posts from five different old blogs of mine and as such there are a few duplicate titles, although most of the content is at least a little bit different. The only issue is that WordPress didn’t import the images which are still hosted on the original blogs despite checking the option to import all media files when importing in WordPress. So, I need to figure out how to import those as well because I want my blog to be self-contained and to be able to preserve the old images as well.
+
+The best way to look at the old posts is to go to the [Archive page](https://blog.alexseifert.com/archive/) and scroll down to the period between 2007 and 2009. It’s much fuller than it was earlier today.

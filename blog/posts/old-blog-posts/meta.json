@@ -1,0 +1,20 @@
+{
+  "id": "old-blog-posts",
+  "title": "Old Blog Posts",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "mr-cup-fabien-barral-o6GEPQXnqMY-unsplash-scaled.jpg",
+  "excerpt": "I took some time this afternoon to import hundreds of old blog posts into this blog. \n",
+  "categories": [
+    "news",
+    "website"
+  ],
+  "tags": [
+    "Blogging"
+  ],
+  "publishedDate": "2025-09-14T16:30:01",
+  "updatedAt": "2025-09-14T16:30:04",
+  "wordpressId": 10704
+}

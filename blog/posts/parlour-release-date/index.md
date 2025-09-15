@@ -4,4 +4,4 @@ Hopefully it will be in the music stores by then as well. I’ll post here again
 
 Here is the direct link to Parlour on Last.fm: [http://www.last.fm/music/Alex+Seifert/Parlour](http://www.last.fm/music/Alex+Seifert/Parlour)
 
-[![Parlour](parlour300.thumbnail.jpg)](http://www.alexseifert.com/news/wp-content/uploads/2007/11/parlour300.jpg "Parlour")
+[![Parlour](parlour300.thumbnail.jpg)](https://i0.wp.com/www.alexseifert.com/news/wp-content/uploads/2007/11/parlour300.jpg "Parlour")
