@@ -4,11 +4,11 @@ The article I read compares the launch of Windows Vista with the launch of Windo
 
 Before Windows 95, PCs ran MS-DOS. MS-DOS, or sometimes simply called DOS for short, was a command-line based operating system in which the user needed to type each command in via the computer. The mouse was not used on a standard basis and in order to use commands, you had to know what they were. Then along came the graphical user interface (GUI). The GUI was first created by Xerox, then adopted by Apple for use on Apple’s Lisa computer. Microsoft eventually came out with its own version of a GUI that it called Windows. The first couple versions of Windows (Windows 1.0 and 2.0) were hardly used by consumers. After these 2 experiments, Windows 3.0 was released. Windows 3.0 was a much bigger hit with consumers than previous versions of Windows had been, however, it was not a real operating system. It was simply an application in DOS that provided the user with a graphical interface for DOS. The problem was that the user had to launch it manually. For those who were not computer savvy enough to use DOS or just didn’t care to, this wasn’t much better.
 
-[![ONGRATLNSW95](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/02/whymac.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/02/whymac.png "ONGRATLNSW95")
+[![ONGRATLNSW95](whymac.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/02/whymac.png "ONGRATLNSW95")
 
 When Microsoft released Windows 95, it changed this by having the GUI launch by default. No longer did the average user have to interact with any command line interface ever again on a PC. The overall look and feel of Windows 95 was significantly different than that of the previous versions of Windows and was the forerunner of what Windows looks like today. This sounds good, right?
 
-[![Win98 Mac89](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/02/win98mac89.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/02/win98mac89.png "Win98 Mac89")
+[![Win98 Mac89](win98mac89.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/02/win98mac89.png "Win98 Mac89")
 
 The problem is that none of this was innovative or even new technology. Apple had been doing this for over 10 years! Windows 95 was also clunky and buggy. How does this compare to Windows Vista today? Vista sports a cool new look and includes several new features not available in previous versions of Windows (most of which are almost directly copied from Apple’s Mac OS X Tiger), but it doesn’t include anything truly innovative.
 
