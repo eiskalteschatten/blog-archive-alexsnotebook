@@ -2,6 +2,6 @@
 
 > “I have finally decided to take the plunge. Last night I upgraded my Vista desktop machine to Windows XP, and this afternoon I will be doing the same to my laptop…”
 
-[![Windows Vista Logo](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/03/windowsvista.jpg)](http://alexseifert.wordpress.com/2007/03/02/vista-ie7-banned/windows-vista-logo/ "Windows Vista Logo")
+[![Windows Vista Logo](windowsvista.jpg)](http://alexseifert.wordpress.com/2007/03/02/vista-ie7-banned/windows-vista-logo/ "Windows Vista Logo")
 
 You can find the article here: [http://dotnet.org.za](http://dotnet.org.za/codingsanity/archive/2007/12/14/review-windows-xp.aspx)
