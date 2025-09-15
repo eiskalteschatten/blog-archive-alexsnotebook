@@ -8,7 +8,7 @@ In an interview given on Friday, March 2, the chief technology officer at DOT, T
 
 I read about this in an article on [http://www.informationweek.com](http://www.informationweek.com/news/showArticle.jhtml?articleID=197700789).
 
-[![Windows Vista Logo](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/03/windowsvista.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/03/windowsvista.jpg "Windows Vista Logo")
+[![Windows Vista Logo](windowsvista.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/03/windowsvista.jpg "Windows Vista Logo")
 
 I also found this to be quite funny. According to the article, this could affect several million dollars of software sales of Microsoft software; especially if other federal organizations follow suite. Hopefully this will be a wake up call for Microsoft. While Vista might sport some cool features, Microsoft really didn’t appear to do much to it to motivate corporations (or in this case federal entities) to upgrade to Vista.
 
