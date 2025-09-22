@@ -6,6 +6,6 @@ Our sound isn’t actually as heavy as you might expect from me (for those of yo
 
 Tonight I did the artwork for the band. I made an album cover and a logo for it. This is the album cover and the logo is the circular part in the top right area of the image. You can click on it to make it bigger.
 
-[![Tea & Bricks](tea-bricks-300.thumbnail.jpg)](https://i0.wp.com/alexgermany.wordpress.com/wp-content/uploads/2007/11/tea-bricks-300.jpg "Tea & Bricks")
+[![Tea & Bricks](tea-bricks-300.thumbnail.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/11/tea-bricks-300.jpg?ssl=1 "Tea & Bricks")
 
 I will post the song online and will let you know here where you can listen to the song once it’s done. I’m very excited about this project.
