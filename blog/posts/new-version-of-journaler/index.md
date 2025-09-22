@@ -1,6 +1,6 @@
 \[digg=http://www.digg.com/software/New\_Version\_of\_Journler\]A new version of my favorite blogging software, Journler, has just been released. The new version is 2.5 and includes a very spiffy interface upgrade to match that of the 7.0+ versions of iTunes.
 
-[![Journler 2.5](/files/2007/03/screenshot_21.thumbnail.png)](http://alexseifert.wordpress.com/wp-content/uploads/2007/03/screenshot_21.png "Journler 2.5")
+[![Journler 2.5](/files/2007/03/screenshot_21.thumbnail.png)](https://blog.alexseifert.com/wp-content/uploads/2007/03/screenshot_21-1.png "Journler 2.5")
 
 Version 2.5 includes more than just an interface overhaul. According to their new features list, you will find features such as: 
 

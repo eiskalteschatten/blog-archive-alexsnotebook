@@ -1,3 +1,3 @@
-I’ve posted a [new wallpaper](http://alexseifert.wordpress.com/wp-content/uploads/2008/02/rocky-mountains.jpg) for you to download. It’s of a photo I took in the Rocky Mountains in Colorado west of Colorado Springs. That part of the country is extremely gorgeous and I hope to get a chance to go back soon.
+I’ve posted a [new wallpaper](https://blog.alexseifert.com/wp-content/uploads/2008/02/rocky-mountains-1.jpg) for you to download. It’s of a photo I took in the Rocky Mountains in Colorado west of Colorado Springs. That part of the country is extremely gorgeous and I hope to get a chance to go back soon.
 
 You can find the wallpaper on the [wallpaper page](http://alexseifert.wordpress.com/wallpapers/).
