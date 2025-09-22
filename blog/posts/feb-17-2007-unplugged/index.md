@@ -6,4 +6,4 @@ The only song I have heard so far from the Unplugged program is Freak on a Leash
 
 Earlier this week, I received an announcement that Korn has released a new single in the iTunes Music Store. This single is Freak on a Leash from MTV’s Unplugged. Now I’ll finally get to my point. I hope the new album that was announced on Jonathan’s blog, [Butt Sex Crips](http://www.buttsexcrips.com), isn’t going to just be an album full of acoustic versions of old Korn classics. That would be quite disappointing for me.
 
-[![Korn Unplugged](kornunplugged.png)](https://i0.wp.com/americasmetal.wordpress.com/wp-content/uploads/2007/02/kornunplugged.png "Korn Unplugged")
+[![Korn Unplugged](kornunplugged.png)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/02/kornunplugged.png?ssl=1 "Korn Unplugged")
