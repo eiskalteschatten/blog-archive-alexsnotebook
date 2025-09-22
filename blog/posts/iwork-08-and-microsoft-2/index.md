@@ -1,6 +1,6 @@
 \[digg=http://digg.com/apple/iWork\_08\_and\_Microsoft\]I’m sure by now everyone who pays any attention to anything Apple-related or even computer-related has heard about (and even had enough of) Apple’s new iLife ’08 and iWork ’08. Well, to add insult to injury, here’s my two cents worth.
 
-[![iWork ‘08](productshot_iw08_125.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/productshot_iw08_125.jpg "iWork ‘08")
+[![iWork ‘08](productshot_iw08_125-1.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/08/productshot_iw08_125-1.jpg?ssl=1 "iWork ‘08")
 
 After having read quite a bit about the new software suites from Apple, I decided I would go out on a limb and try them myself. Keep in mind, I had iLife ’04 (the first version with GarageBand) and iWork ’06. I rushed out to the local Apple Retail Store (I was too impatient to order it online) and purchased both iLife ’08 and iWork ’08, even sacrificing my university student discount for time saved in getting a chance to play with them. It wasn’t until after the fact that I realized I had hurried to the store to purchase an office suite…
 
