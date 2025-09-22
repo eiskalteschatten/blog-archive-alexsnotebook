@@ -4,6 +4,6 @@ I had a brief stint where I used Safari again for a while because it was so much
 
 The new version also looks a lot better than the previous version, especially for Mac OS X. The new theme blends in more than the old one.
 
-[![Firefox 3 Final](https://i0.wp.com/thoughts.alexseifert.com/wp-content/uploads/2008/06/firefox-3-final-300x225.png?resize=300%2C225 "Firefox 3 Final")](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2008/06/firefox-3-final.png)
+[![Firefox 3 Final](https://i0.wp.com/thoughts.alexseifert.com/wp-content/uploads/2008/06/firefox-3-final-300x225.png?resize=300%2C225 "Firefox 3 Final")](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2008/06/firefox-3-final-1.png?ssl=1)
 
 I recommend downloading it. You can find it for free for Windows, Linux or Mac OS X here: [![Firefox 3](https://i0.wp.com/sfx-images.mozilla.org/affiliates/Buttons/firefox3/FF3b80x15_square.gif "Firefox 3")](http://www.spreadfirefox.com/node&id=25096&t=317)

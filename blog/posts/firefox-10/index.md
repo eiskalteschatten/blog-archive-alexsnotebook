@@ -1,4 +1,4 @@
-[![](firefox.png)](https://i0.wp.com/4.bp.blogspot.com/-yRwEuS3YuEM/TygizX8YfoI/AAAAAAAADMU/YFWDQBBY7n0/s1600/firefox.png?ssl=1)
+[![](firefox.png)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2012/01/firefox.png?ssl=1)
 
 Mozilla officially released Firefox 10 today. I’ve just downloaded it on both Windows and for Mac OS X and am playing around with it a bit. Visually it looks much like Firefox 9 with the exception of the back/forward button. The back button is now ‘attached’ to the address bar and the forward button is hidden except when it is possible to actually go forward rather than just be disabled like in previous versions.
 
