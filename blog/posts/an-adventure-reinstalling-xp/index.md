@@ -20,7 +20,7 @@ Upon the third install, I could successfully get to the Control Panel and even u
 
 The next task was to find drivers. I’ve had to deal with reinstalling Windows enough to know that a list of drivers I will need when I reinstall the operating system is always good to have. Using my list, I found the necessary drivers, downloaded them, installed them, and to my absolute surprise no problems at all. I decided I had had enough for the day, turned off the Compaq, and went back to my Mac to do some real work.
 
-![Compaq Logo](compaq_logo.gif)
+![Compaq Logo](compaq_logo-1.gif)
 
 The next day, I went back to my Compaq. I turned it on and all seemed well. The Windows XP screen with the green scrolling bar across the bottom showed up perfectly. Then all went blank. To make a long story short, I had to replace the graphics card because somewhere along the line, Windows decided that it would no longer support it despite the installation of the drivers and the multiple restarts I had to do while installing drivers the previous day.
 
