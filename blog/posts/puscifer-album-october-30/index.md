@@ -2,7 +2,7 @@ I’m sure not many people here have ever heard of Puscifer. I aim to change tha
 
 The general sound from the four songs released so far sounds nothing like Tool or A Perfect Circle. A better comparison might be a gothic version of the Gorillaz on crack with Maynard’s vocals. It’s also pretty industrial, except for My Cuntry Boner which has the sound of an old country song.
 
-[![Puscifer Logo](groupe_puscifer.jpg)](https://i0.wp.com/americasmetal.wordpress.com/wp-content/uploads/2007/10/groupe_puscifer.jpg "Puscifer Logo")
+[![Puscifer Logo](groupe_puscifer.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/10/groupe_puscifer.jpg?ssl=1 "Puscifer Logo")
 
 What I find most unique about this project is that Maynard is going it alone. Puscifer is not signed to a label and Maynard intends to keep it that way. As he claims, he is experimenting to see how far he can take the project without a label-backing. As I am also an independent musician, I really hope he is able to make headway and maybe even break the trend.
 

@@ -1,4 +1,4 @@
-[![Reinhard Gehlen](https://i0.wp.com/manifestlyabsurd.wordpress.com/wp-content/uploads/2009/02/b042549c4a683a883a04536ea77b8b41_image_document_large_featured_borderless.jpg?resize=68%2C96 "Reinhard Gehlen")](http://manifestlyabsurd.wordpress.com/2009/02/28/reinhard-gehlen/heads-spy-group/)
+[![Reinhard Gehlen](b042549c4a683a883a04536ea77b8b41_image_document_large_featured_borderless-1.jpg "Reinhard Gehlen")](http://manifestlyabsurd.wordpress.com/2009/02/28/reinhard-gehlen/heads-spy-group/)
 
 Reinhard Gehlen
 
