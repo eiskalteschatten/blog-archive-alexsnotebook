@@ -2,13 +2,13 @@ I’m not entirely sure as to how many of you out there have heard of the German
 
 Eisbrecher (Icebreaker) is a band that pushes the boundaries of the electronic/dance genre and the heavy rock genre. They, in my opinion, have found a perfect combination of the two genres. Most of their songs are supported by a very strong dance beat with heavy metal guitars combined with techno/electronic music to form the melody. The vocals of the singer, Alexx Wesselsky, are extremely powerful and can be compared to the strength of Till Lindemann’s vocals in Rammstein.
 
-[![Eisbrecher](/files/2007/03/eisbrecher.thumbnail.jpg)](http://americasmetal.wordpress.com/wp-content/uploads/2007/03/eisbrecher.jpg "Eisbrecher")
+[![Eisbrecher](/files/2007/03/eisbrecher.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/03/eisbrecher.jpg "Eisbrecher")
 
 *Eisbrecher*
 
 *
 
-[![Antikoerper](/files/2007/03/antikoerper.thumbnail.jpg)](http://americasmetal.wordpress.com/wp-content/uploads/2007/03/antikoerper.jpg "Antikoerper")
+[![Antikoerper](/files/2007/03/antikoerper.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/03/antikoerper.jpg "Antikoerper")
 
 *
 
@@ -16,7 +16,7 @@ Eisbrecher (Icebreaker) is a band that pushes the boundaries of the electronic/d
 
 *
 
-[![Antikoerper US](/files/2007/03/antikoerper_us.thumbnail.jpg)](http://americasmetal.wordpress.com/wp-content/uploads/2007/03/antikoerper_us.jpg "Antikoerper US")
+[![Antikoerper US](/files/2007/03/antikoerper_us.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/03/antikoerper_us.jpg "Antikoerper US")
 
 *
 
