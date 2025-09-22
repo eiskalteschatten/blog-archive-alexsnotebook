@@ -2,7 +2,7 @@
 
 As I loyally use a Apple PowerBook G4 with Mac OS X 10.4.8 on it, the first thing I did was download AOL’s software for Mac OS X. My first impression wasn’t terrible. AOL certainly had their own flavor of Apple’s Aqua interface and it was fairly intuitive to use. After signing up for an account however, I quickly found what it was lacking. I am not sure how long it has been since AOL last updated their software client for Mac OS X, but it has definitely been a few years. The Gecko-based browser was probably decent for its time, however, it couldn’t even the MySpace homepage correctly, much less AOL’s own website. It certainly couldn’t even begin to compare with Apple’s own Safari or with Mozilla’s Firefox.
 
-[![AOL For Mac OS X](/files/2007/02/aolformacosx_20070106213340.thumbnail.jpg)](http://alexseifert.wordpress.com/wp-content/uploads/2007/02/aolformacosx_20070106213340.jpg "AOL For Mac OS X")
+[![AOL For Mac OS X](/files/2007/02/aolformacosx_20070106213340.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/02/aolformacosx_20070106213340-1.jpg "AOL For Mac OS X")
 
 But why should I go on about old software? The gist of the story is that I quickly stopped using it. I then decided I would try out AOL’s software on my Windows XP computer. This was a mistake if I have ever made one.
 
