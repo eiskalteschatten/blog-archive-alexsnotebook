@@ -1,6 +1,6 @@
 Iron Maiden has announced new tour dates for their upcoming international tour. Their new tour will take them to the palace in Bangalore, India on Saturday, March 17, marking the first time a major heavy metal band has ever toured in India.
 
-[![Bangalore Palace](bangalorepalace.jpg)](https://i0.wp.com/americasmetal.wordpress.com/wp-content/uploads/2007/02/bangalorepalace.jpg "Bangalore Palace")
+[![Bangalore Palace](bangalorepalace.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/02/bangalorepalace.jpg?ssl=1 "Bangalore Palace")
 
 The tour dates:
 
