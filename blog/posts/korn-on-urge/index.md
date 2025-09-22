@@ -15,4 +15,4 @@ The album will be released on March 6. The tracklisting for it is as follows:
     9\. Coming Undone  
     10\. Make Me Bad / In Between Days feat. The Cure
 
-[![Korn Unplugged Album](/files/2007/03/album_unplugged.thumbnail.jpg)](http://americasmetal.wordpress.com/wp-content/uploads/2007/03/album_unplugged.jpg "Korn Unplugged Album")
+[![Korn Unplugged Album](/files/2007/03/album_unplugged.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/03/album_unplugged.jpg "Korn Unplugged Album")
