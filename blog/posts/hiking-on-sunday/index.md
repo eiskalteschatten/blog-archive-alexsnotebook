@@ -1,4 +1,4 @@
-[![Vedauwoo, Wyoming](https://i0.wp.com/manifestlyabsurd.wordpress.com/wp-content/uploads/2009/03/reynolds.jpg?resize=300%2C215 "Vedauwoo")](http://manifestlyabsurd.wordpress.com/2009/03/03/hiking-on-sunday/reynolds/)
+[![Vedauwoo, Wyoming](reynolds-1.jpg "Vedauwoo")](http://manifestlyabsurd.wordpress.com/2009/03/03/hiking-on-sunday/reynolds/)
 
 Vedauwoo, Wyoming
 
