@@ -1,4 +1,4 @@
-[![](Mozilla-Firefox.png)](https://i0.wp.com/1.bp.blogspot.com/-Uyj9T6G3UX0/Ty7vJYATgAI/AAAAAAAADM4/g-MpUPWIXUU/s1600/Mozilla-Firefox.png?ssl=1)
+[![](Mozilla-Firefox.png)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2012/02/Mozilla-Firefox-1.png?ssl=1)
 
 Mozilla has announced several new features for the new Firefox Beta which will eventually become Firefox 11. The first and, in my opinion, the most interesting one is a new approach to make distinguishing elements on a webpage easier using a 3D rendering of the page. They call it ‘Tilt’. It is based off of WebGL technology and renders the website in a three-dementional view with each element layered one on top of the other making it easy to determine parent and child elements in a page. An interesting approach to the traditional indentation which only allowed the developer to see the differences in the code rather than on the page itself. This is a preview of the feature:
 

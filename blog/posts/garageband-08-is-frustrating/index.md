@@ -10,7 +10,7 @@ Although I really like the way the new GarageBand acts and feels, there is one a
 
 For those of you who don’t know what ReWire is, it is simply an software technology that allows music programs to connect to one another via a “master program”. When you press play or stop in the master program, all of the tracks from every program begin to play. When you export your final creation from the master program, it will export all of the tracks from every program into one, playable file.
 
-[![GarageBand](hero_garageband.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/hero_garageband.jpg "GarageBand")
+[![GarageBand](hero_garageband.thumbnail.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/08/hero_garageband-1.jpg?ssl=1 "GarageBand")
 
 Generally speaking, GarageBand tends to serve as the master program. As I’ve said before, I’ve never had any problems with it up until I upgraded to GarageBand ’08, however with the new version, all ReWire applications will only play through the left channel. When I open the file I created in Reason by itself, it plays just fine in stereo. When I connect Reason to other programs via ReWire, it also plays in stereo. I don’t know what Apple did with its ReWire compatibility, but it’s really irritating.
 
