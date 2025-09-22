@@ -1,0 +1,1 @@
+Why do so many Americans feel like they have to buy an American car? I guess I just don’t understand the extreme patriotism that goes with that feeling.
