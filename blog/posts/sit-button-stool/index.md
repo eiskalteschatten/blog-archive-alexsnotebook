@@ -2,4 +2,4 @@
 
 It’s a stool in the form of a keyboard button with the word “Sit” on it. See below.
 
-[![Sit Stool](sitstool.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/02/sitstool.jpg "Sit Stool")
+[![Sit Stool](sitstool-1.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/02/sitstool-1.jpg?ssl=1 "Sit Stool")
