@@ -1,6 +1,6 @@
 \[digg=http://digg.com/apple/Impersonal\_Corporations\]It amazes me at just how heartless some corporations can be sometimes. What I mean by that can be easily demonstrated in the now famous case of Apple sending a cease and desist letter to a nine year old girl. If you are unfamiliar with this, let me explain quickly. A nine year old girl sent a letter to Apple explaining some of her ideas of how they could improve the iPod Nano. Plain and simple. A couple of months later, the girl received a reply letter from Apple’s legal department telling her that they do not accept unsolicited ideas for their products and that she should not send anymore letters to Apple.
 
-[![Old Apple Logo](applelogo.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/11/applelogo.jpg "Old Apple Logo")
+[![Old Apple Logo](applelogo.thumbnail.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/11/applelogo.jpg?ssl=1 "Old Apple Logo")
 
 I understand that is a standard procedure and everything, but in order for them to have known what the contents of the letter the girl sent were, they would have had to open it and read at least part of it. Since it was a handwritten letter, immediately they should have seen by the handwriting that this was a letter sent by a little kid who only wanted to share some ideas with the company. Now, I wouldn’t expect Apple to send back a letter specifically written for her, but frankly no letter would have been better than a cease and desist letter.
 
