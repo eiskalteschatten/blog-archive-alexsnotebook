@@ -4,7 +4,7 @@ At the time, I was running a Gateway PC with a 433mhz Intel Celeron processor. I
 
 Of course, I had heard of the Mac and had even used them in school. I was extremely interested in trying a Mac (at the time that would have been the classic Mac OS 9), but considering I had absolutely no money and the computer I was using was already a hand-me-down, I had to find another solution. Searching through the internet, I learned about this great operating system called Linux. I looked through several distributions and had no idea what I was looking at or what any of the terminology meant. I made my final distribution decision purely out of aesthetic reasons. My decision was Red Hat Linux 7.
 
-[![Red Hat Logo](redhat-logo.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/11/redhat-logo.jpg "Red Hat Logo")
+[![Red Hat Logo](redhat-logo.thumbnail.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/11/redhat-logo.jpg?ssl=1 "Red Hat Logo")
 
 Of course, I also had no idea how to download it and install it. The term “ISO” meant absolutely nothing to me, much less knowing what to do with it once it was finally downloaded. I decided instead that I would go get a Red Hat Linux 7 book that would explain everything. At the bookstore, I chose *Red Hat Linux 7 for Dummies* because it came with installation CDs of the operating system. I made the purchase because it not only explained how to use Linux, but also rid any need of downloading ISO’s and then trying to figure out what to do with them.
 
@@ -16,11 +16,11 @@ With my handy book, I used Linux for quite a while and loved every minute of it.
 
 In the end, I decided to go back to Windows. Fortunately, it was only temporary because not too long after I moved back to Windows, I was able to buy my first Mac. I bought an Apple iBook with a 700 mhz G3 processor. It came with OS X 10.1 installed. In 2005, I upgraded to a PowerBook G4. Considering that was almost 3 years ago (which is a very long time in technological terms) and this laptop has traveled faithfully with me to several different countries, it’s about time to buy another computer.
 
-[![Apple PowerBook 12](apple_powerbook_12.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/11/apple_powerbook_12.jpg "Apple PowerBook 12")
+[![Apple PowerBook 12](apple_powerbook_12.thumbnail.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/11/apple_powerbook_12-1.jpg?ssl=1 "Apple PowerBook 12")
 
 When I say this, I’m not saying that I don’t like Apple anymore, but they aren’t the company they were when I bought my first Mac and the change hasn’t exactly been for the better in my opinion. The success of the iPod has brought about a certain prude air to them that I’m not really a fan of. So, naturally, I’m looking for alternatives while still avoiding Windows. This obviously brings Linux back into the picture. I have done quite a bit of research into Linux distributions and this time I know (for the most part) what I’m looking for and what all of the terminology means. The Linux distribution that I decided on was Ubuntu Linux. It fits pretty much all of my needs and also looks good.
 
-[![Ubuntu Logo](ubuntu-logo.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/11/ubuntu-logo.jpg "Ubuntu Logo")
+[![Ubuntu Logo](ubuntu-logo.thumbnail.png)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/11/ubuntu-logo.png?ssl=1 "Ubuntu Logo")
 
 There is still a problem, however. Compared to when I first tried Linux, the amount software available for Linux users and the popularity of the operating system itself have increased tremendously. One of my two major problems before has been solved with OpenOffice.org (which I have used on Windows PCs when I am forced to use one for some reason or another). The other problem, a Linux equivalent or replacement for Propellerhead’s Reason, is still not solved. This software is crucial to me and my music career. If you know of an equivalent or something, *please* let me know.
 
