@@ -2,11 +2,11 @@
 
 As I’ve said in a previous entry, I recently upgraded iLife from version ’04 to version ’08. The I really do like the new versions of every application included in iLife: iPhoto, iDVD, GarageBand and iWeb (which I didn’t have in my previous version of iLife). I can’t include iMovie in my list because the iLife installation program didn’t install it since my computer doesn’t meet the minimum computer requirements.
 
-[![iLife ‘08](productshot_il08_125.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/productshot_il08_125.jpg "iLife ‘08")
+[![iLife ‘08](productshot_il08_125-1.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/08/productshot_il08_125-1.jpg?ssl=1 "iLife ‘08")
 
 Although I really like the way the new GarageBand acts and feels, there is one annoyance that I can’t seem to get around. I am a power user of GarageBand. In fact, I originally bought iLife ’04 because it included GarageBand and I wanted to use it. In most of my musical creations, I have electronic effects to spice things up and in order to create these electronic effects, I use a separate application, [Propellerhead’s Reason](http://www.propellerheads.se), which connects to GarageBand via a technology called [ReWire](http://en.wikipedia.org/wiki/Rewire) (also developed by Propellerhead).
 
-[![Reason](reason_logo.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/08/reason_logo.jpg "Reason")
+[![Reason](reason_logo-1.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/08/reason_logo-1.jpg?ssl=1 "Reason")
 
 For those of you who don’t know what ReWire is, it is simply an software technology that allows music programs to connect to one another via a “master program”. When you press play or stop in the master program, all of the tracks from every program begin to play. When you export your final creation from the master program, it will export all of the tracks from every program into one, playable file.
 
