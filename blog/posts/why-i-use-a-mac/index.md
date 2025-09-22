@@ -1,4 +1,4 @@
-[![](MacBookPro_15inch.jpg)](https://i0.wp.com/4.bp.blogspot.com/-De41hiG_n10/T0eviyO3YTI/AAAAAAAADNs/uxZpt8rGQn8/s1600/MacBookPro_15inch.jpg?ssl=1)
+[![](MacBookPro_15inch.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2012/02/MacBookPro_15inch-1.jpg?ssl=1)
 
 When I tell most people that I use a Mac as a developer they have an odd reaction. They look at Macs as being more like a toy computer rather than a machine which can get any actual work done. That is especially true when it comes to development of any sort. This is, however, an old notion that seems to be long in dying.
 
