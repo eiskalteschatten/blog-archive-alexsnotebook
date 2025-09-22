@@ -2,7 +2,7 @@ Earlier this week, April 3rd, Static-X’s new album, **Cannibal**, was released
 
 The style of the album is new and you might even say heavier, but still very typically Static-X. I would definitely recommend it to any Static-X fan or anyone who just likes good metal.
 
-[![Cannibal Album](/files/2007/04/b000njllwy01_sclzzzzzzz_v43847553_ss500_.thumbnail.jpg)](http://americasmetal.wordpress.com/wp-content/uploads/2007/04/b000njllwy01_sclzzzzzzz_v43847553_ss500_.jpg "Cannibal Album")
+[![Cannibal Album](/files/2007/04/b000njllwy01_sclzzzzzzz_v43847553_ss500_.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/04/b000njllwy01_sclzzzzzzz_v43847553_ss500_.jpg "Cannibal Album")
 
 You can buy it from here:
 
