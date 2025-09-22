@@ -1,0 +1,20 @@
+{
+  "id": "one-blog-vs-many",
+  "title": "One Blog vs Many",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Gemini_Generated_Image_jd1pdajd1pdajd1p.png",
+  "excerpt": "I am currently running five different blogs, but is it really better to separate them or just have one blog with everything?\n",
+  "categories": [
+    "writing"
+  ],
+  "tags": [
+    "Blog",
+    "Blogging"
+  ],
+  "publishedDate": "2025-09-21T15:51:33",
+  "updatedAt": "2025-09-21T15:51:55",
+  "wordpressId": 10126
+}
