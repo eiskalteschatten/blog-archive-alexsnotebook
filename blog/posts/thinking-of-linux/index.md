@@ -20,7 +20,7 @@ In the end, I decided to go back to Windows. Fortunately, it was only temporary 
 
 When I say this, I’m not saying that I don’t like Apple anymore, but they aren’t the company they were when I bought my first Mac and the change hasn’t exactly been for the better in my opinion. The success of the iPod has brought about a certain prude air to them that I’m not really a fan of. So, naturally, I’m looking for alternatives while still avoiding Windows. This obviously brings Linux back into the picture. I have done quite a bit of research into Linux distributions and this time I know (for the most part) what I’m looking for and what all of the terminology means. The Linux distribution that I decided on was Ubuntu Linux. It fits pretty much all of my needs and also looks good.
 
-[![Ubuntu Logo](ubuntu-logo.thumbnail.jpg)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/11/ubuntu-logo.jpg "Ubuntu Logo")
+[![Ubuntu Logo](ubuntu-logo.thumbnail.png)](https://i0.wp.com/alexseifert.wordpress.com/wp-content/uploads/2007/11/ubuntu-logo.jpg "Ubuntu Logo")
 
 There is still a problem, however. Compared to when I first tried Linux, the amount software available for Linux users and the popularity of the operating system itself have increased tremendously. One of my two major problems before has been solved with OpenOffice.org (which I have used on Windows PCs when I am forced to use one for some reason or another). The other problem, a Linux equivalent or replacement for Propellerhead’s Reason, is still not solved. This software is crucial to me and my music career. If you know of an equivalent or something, *please* let me know.
 
