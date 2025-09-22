@@ -1,6 +1,6 @@
 For those of you who don’t know already, Puscifer’s album, *V Is for Vagina*, was released at Midnight, October 30. It took a while longer for the album to show up in the iTunes Music Store, but I was eventually able to download it. After very patiently waiting for the downloads to finish, I listened through the entire album. Then I listened through the entire album again.
 
-[![V is for Vagina](3438093-534398143.thumbnail.jpg)](https://i0.wp.com/americasmetal.wordpress.com/wp-content/uploads/2007/11/3438093-534398143.jpg "V is for Vagina")
+[![V is for Vagina](3438093-534398143.thumbnail.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2007/11/3438093-534398143.jpg?ssl=1 "V is for Vagina")
 
 The album is very good. It’s unlike anything you’ve heard from Maynard before. If you don’t know who Maynard is, he’s Tool’s front man. *V Is for Vagina* sounds absolutely nothing like Tool or like A Perfect Circle. The music for the most part is quite industrial sounding; and, as I said in my last post about Puscifer, it bears somewhat of a resemblance to the Gorillaz. The similarities are, however, quite limited. It is much more industrial and quite a bit darker overall than anything by the Gorillaz. Maynard’s vocals are also quite a bit more powerful.
 
