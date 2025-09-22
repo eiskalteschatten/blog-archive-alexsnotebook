@@ -6,13 +6,13 @@ Either way, there is one thing that I DO know about Emigrate: they kick ass. The
 
 With the release of Reise, Reise, then followed closely by Rosenrot, there was a significant change in Rammstein’s style. Richard had several more ideas for songs, however, his ideas no longer fit Rammstein’s new style. Therefore, Emigrate was born.
 
-[![Richard Z Krupse](/files/2007/03/1218488607_l.thumbnail.jpg)](http://americasmetal.wordpress.com/wp-content/uploads/2007/03/1218488607_l.jpg "Richard Z Krupse")
+[![Richard Z Krupse](/files/2007/03/1218488607_l.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/03/1218488607_l.jpg "Richard Z Krupse")
 
 Based out of New York City, where Richard now lives, the band has recorded at least four songs (*My World*, *Temptation*, *Wake Up*, and *Babe*) and released two to the public as free downloads. If you would like to download the songs, *Babe* and *Wake Up*, all you have to do is visit their website, [http://www.pilgrim-management.de/Emigrate](http://www.pilgrim-management.de/Emigrate), and sign up for the newsletter. A link to the downloads will be sent to you via e-mail.
 
 The band currently consists of Arnaud Giroux from Axel Bauer (bass), Henka Johansson from Clawfinger (drums) and of course Richard, who not only plays the guitar, but also sings. His lyrics are in English, although occasionally you can hear a German accent if you listen hard enough.
 
-[![Emigrate](/files/2007/03/emigrate.thumbnail.jpg)](http://americasmetal.wordpress.com/wp-content/uploads/2007/03/emigrate.jpg "Emigrate")
+[![Emigrate](/files/2007/03/emigrate.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/03/emigrate.jpg "Emigrate")
 
 Here are some websites you might be interested in. If you just want to listen to every song released so far, visit Emigrate’s 2nd MySpace webpage.
 
