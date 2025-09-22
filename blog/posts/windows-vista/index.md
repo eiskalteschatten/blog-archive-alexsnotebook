@@ -20,4 +20,4 @@ I don’t know about you, but I don’t know what reviews Bill Gates has been lo
 [Windows Vista Rips OS X…And At a Great Hardware Cost (And Apple Gains in the End)!](http://svenontech.com/2006/06/13/windows-vista-rips-os-xand-at-a-great-hardware-cost-and-apple-gains-in-the-end/)  
 [Visual Tour: 20 Things You Won’t Like About Windows Vista](http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9000829&pageNumber=1)
 
-[![Windows Vista](/files/2007/02/vista-5259-3.thumbnail.PNG)](http://alexseifert.wordpress.com/wp-content/uploads/2007/02/vista-5259-3.PNG "Windows Vista")
+[![Windows Vista](/files/2007/02/vista-5259-3.thumbnail.PNG)](https://blog.alexseifert.com/wp-content/uploads/2007/02/vista-5259-3-1.png "Windows Vista")
