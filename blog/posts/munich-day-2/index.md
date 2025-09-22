@@ -1,0 +1,3 @@
+Well, the weather today was horrible. It was fairly cold and it rained on and off most of the day. It almost reminded me of Oldenburg. Other than that though, it was a good day. We got up and left the hostel around noon. This time instead of taking the subway to the main train station like we have been for the past 2 days, we decided to walk. On the way there, we stopped at a shop where Jake could buy a jacket because he wanted a European style jacket, plus it was cold and he didn’t bring one with him. Then we stopped at a bakery and ate breakfast. After we ate, we continued on to the train station. There we bought tickets for a walking tour, then we went and wandered around the downtown area for quite a while.
+
+http://picasaweb.google.com/seifertalex/Munich
