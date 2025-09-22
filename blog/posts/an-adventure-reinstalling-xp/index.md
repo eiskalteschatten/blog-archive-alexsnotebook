@@ -1,6 +1,6 @@
 \[digg=http://www.digg.com/microsoft/An\_Adventure\_Re\_installing\_XP\]I’ve had a 1.8 ghz Compaq Presario desktop computer with 1 GB of RAM for quite some time now. It came with Windows XP Home Edition pre-installed as well as quite a lot of crap added by Compaq that took a good hour at least to clean out. This machine lasted a record length of time without a good ol’ format of the hard drive followed by a reinstalltion of Windows. I’d say that it lasted me at least three years.
 
-[![Compaq Presario](/files/2007/03/sr1703wm.thumbnail.jpg)](http://alexseifert.wordpress.com/wp-content/uploads/2007/03/sr1703wm.jpg "Compaq Presario")
+[![Compaq Presario](/files/2007/03/sr1703wm.thumbnail.jpg)](https://blog.alexseifert.com/wp-content/uploads/2007/03/sr1703wm-1.jpg "Compaq Presario")
 
 I do a lot of music recording and creating. Traditionally, I have always used my PowerBook G4 to do what I need to do with my music, however, I decided that since I had an extra computer sitting around that I really didn’t use much, that I would set it up as a permanent music recording station. Since my PowerBook is a laptop, I have always had to take it down to the basement whenever I want to record anything. I decided I could easily solve that problem.
 
