@@ -1,4 +1,4 @@
-[![Saturn](https://i0.wp.com/manifestlyabsurd.wordpress.com/wp-content/uploads/2009/03/ht_saturn01_071015_ssh.jpg?resize=300%2C232 "Saturn")](http://manifestlyabsurd.wordpress.com/2009/03/02/saturn-the-moon-and-other-things-in-the-night-sky/ht_saturn01_071015_ssh/)
+[![Saturn](ht_saturn01_071015_ssh-1.jpg "Saturn")](http://manifestlyabsurd.wordpress.com/2009/03/02/saturn-the-moon-and-other-things-in-the-night-sky/ht_saturn01_071015_ssh/)
 
 Saturn
 
