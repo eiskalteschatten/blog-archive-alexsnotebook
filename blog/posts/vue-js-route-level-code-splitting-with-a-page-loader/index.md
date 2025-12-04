@@ -6,7 +6,7 @@ When code splitting at the router level, however, it means that the user downloa
 
 That is where page loaders come in. A page loader is nothing more than some sort of indication that a page is loading. They come in many forms from simple text (“Loading…”) to fancy animations. For this example, we are going to use a Google-style loader that will look like this when it is done:
 
-<figure><video controls="" src="https://blog.alexseifert.com/wp-content/uploads/2023/04/vue-page-loader.mov"></video></figure>
+<figure><video height="2236" style="aspect-ratio: 3840 / 2236;" width="3840" controls="" src="https://blog.alexseifert.com/wp-content/uploads/2023/04/vue-page-loader.mov"></video></figure>
 
 Our page loader is an animated bar (in Vue.js’s green!) that runs across the top of the screen. This is a convenient way of displaying a loading status as it is non-blocking and universal.
 
