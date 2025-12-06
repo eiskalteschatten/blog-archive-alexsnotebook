@@ -1,0 +1,23 @@
+{
+  "id": "version-2-0-0-of-sequelize-migration-wrapper-released",
+  "title": "Version 2.0.0 of sequelize-migration-wrapper Released",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "npm-logo.svg",
+  "excerpt": "After almost five years of no updates, I finally released version 2.0.0 of sequelize-migration-wrapper, my npm package for Sequelize migrations.\n",
+  "categories": [
+    "development",
+    "programs-tools",
+    "projects"
+  ],
+  "tags": [
+    "Node.js",
+    "npm",
+    "Sequelize"
+  ],
+  "publishedDate": "2025-12-05T14:28:25",
+  "updatedAt": "2025-12-05T14:28:26",
+  "wordpressId": 11183
+}
