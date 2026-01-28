@@ -8,6 +8,7 @@
   "titleImage": "img_6865.jpg",
   "excerpt": "I&#8217;ve been thinking about replacing my 2019 Intel MacBook with a desktop and using my M2 iPad Air as a mobile workstation instead. This is my experience with it.\n",
   "categories": [
+    "featured",
     "operating-systems",
     "programs-tools",
     "writing",
@@ -18,6 +19,6 @@
     "iPad"
   ],
   "publishedDate": "2026-01-26T17:14:21",
-  "updatedAt": "2026-01-26T17:14:52",
+  "updatedAt": "2026-01-27T09:16:50",
   "wordpressId": 11605
 }
