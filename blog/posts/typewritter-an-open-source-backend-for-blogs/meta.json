@@ -8,7 +8,8 @@
   "excerpt": "About a week and a half ago I embarked on my latest project: a blog backend. I have kept a blog on and off for almost a decade now and I use WordPress not only to power this blog, but also to power History Rhymes, the news section of my music website and the ScratchPad &#8230; more &#x2192;\n",
   "categories": [
     "development",
-    "projects"
+    "projects",
+    "technology"
   ],
   "tags": [
     "Blogging",
@@ -16,6 +17,6 @@
     "Open Source"
   ],
   "publishedDate": "2013-11-25T23:17:44",
-  "updatedAt": "2025-09-14T22:47:53",
+  "updatedAt": "2026-02-04T17:39:28",
   "wordpressId": 595
 }
