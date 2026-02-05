@@ -11,7 +11,8 @@
     "general",
     "news",
     "privacy-tracking",
-    "projects"
+    "projects",
+    "technology"
   ],
   "tags": [
     "https",
@@ -22,6 +23,6 @@
     "Web server"
   ],
   "publishedDate": "2015-03-02T12:18:26",
-  "updatedAt": "2025-08-23T15:41:50",
+  "updatedAt": "2026-02-04T17:35:15",
   "wordpressId": 701
 }
