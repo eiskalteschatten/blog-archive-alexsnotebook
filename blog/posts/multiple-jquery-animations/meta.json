@@ -8,7 +8,8 @@
   "excerpt": "As I was working on a website I am developing for a friend of mine, I realized I had a problem with multiple jQuery animations slowing the browser down. This statement by itself may seem like a no-brainer, but it is not as obvious as you may think. The thing is that these animations were &#8230; more &#x2192;\n",
   "categories": [
     "development",
-    "featured"
+    "featured",
+    "technology"
   ],
   "tags": [
     "animations",
@@ -16,6 +17,6 @@
     "jQuery"
   ],
   "publishedDate": "2012-11-28T10:26:25",
-  "updatedAt": "2023-01-08T19:11:24",
+  "updatedAt": "2026-02-04T17:39:28",
   "wordpressId": 361
 }
