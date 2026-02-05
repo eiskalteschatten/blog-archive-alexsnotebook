@@ -8,12 +8,13 @@
   "titleImage": "img_0418-1.jpg",
   "excerpt": "When I write code, I tend to use long, descriptive variable names with few abbreviations. This is why.\n",
   "categories": [
-    "development"
+    "development",
+    "technology"
   ],
   "tags": [
     "Code Style"
   ],
   "publishedDate": "2024-09-03T16:27:54",
-  "updatedAt": "2024-09-03T16:27:56",
+  "updatedAt": "2026-02-04T17:38:15",
   "wordpressId": 3660
 }

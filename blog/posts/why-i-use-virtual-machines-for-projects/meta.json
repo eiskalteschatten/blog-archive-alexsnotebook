@@ -11,7 +11,8 @@
     "development",
     "featured",
     "operating-systems",
-    "programs-tools"
+    "programs-tools",
+    "technology"
   ],
   "tags": [
     "Linux",
@@ -20,6 +21,6 @@
     "VM"
   ],
   "publishedDate": "2020-06-19T17:45:17",
-  "updatedAt": "2024-02-21T21:05:20",
+  "updatedAt": "2026-02-04T17:38:59",
   "wordpressId": 2205
 }
