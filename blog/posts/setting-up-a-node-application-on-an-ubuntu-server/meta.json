@@ -9,7 +9,8 @@
   "excerpt": "Recently, I had the honor of setting up a Node.js-based web application on an Ubuntu server and I thought I would share the steps I took to get it up and running.\n",
   "categories": [
     "development",
-    "featured"
+    "featured",
+    "technology"
   ],
   "tags": [
     "DevOps",
@@ -19,6 +20,6 @@
     "Web Development"
   ],
   "publishedDate": "2025-04-26T21:39:22",
-  "updatedAt": "2025-08-23T15:41:50",
+  "updatedAt": "2026-02-04T17:37:56",
   "wordpressId": 8583
 }
