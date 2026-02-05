@@ -8,12 +8,13 @@
   "titleImage": "webtools-retina.png",
   "excerpt": "As a developer, I tend to create a lot of my own tools when I notice that I could work more efficiently if I had a specific tool that doesn&#8217;t quite exist. That is how my new very tiny Mac app, WebTools, was brought to life. Since I am primarily a web developer, I frequently &#8230; more &#x2192;\n",
   "categories": [
-    "development"
+    "development",
+    "technology"
   ],
   "tags": [
     "WebTools"
   ],
   "publishedDate": "2015-03-29T15:51:00",
-  "updatedAt": "2020-04-25T12:43:01",
+  "updatedAt": "2026-02-04T17:39:28",
   "wordpressId": 765
 }
