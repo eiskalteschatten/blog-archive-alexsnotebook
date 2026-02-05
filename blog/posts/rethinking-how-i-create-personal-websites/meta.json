@@ -11,7 +11,8 @@
     "development",
     "featured",
     "projects",
-    "software-architecture"
+    "software-architecture",
+    "technology"
   ],
   "tags": [
     "design",
@@ -19,6 +20,6 @@
     "Web Development"
   ],
   "publishedDate": "2025-08-12T22:52:44",
-  "updatedAt": "2025-08-23T15:36:52",
+  "updatedAt": "2026-02-04T17:37:56",
   "wordpressId": 9479
 }

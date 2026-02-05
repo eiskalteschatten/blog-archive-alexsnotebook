@@ -9,7 +9,8 @@
   "excerpt": "One of WordPress’s greatest strengths is its positively huge plugin ecosystem. There are plugins for just about everything you can think of out there. At the same time, however, it is also its Achilles&#8217; heel.\n",
   "categories": [
     "development",
-    "featured"
+    "featured",
+    "technology"
   ],
   "tags": [
     "optimization",
@@ -17,6 +18,6 @@
     "WordPress"
   ],
   "publishedDate": "2023-05-02T17:39:48",
-  "updatedAt": "2024-05-30T13:35:21",
+  "updatedAt": "2026-02-04T17:38:58",
   "wordpressId": 2678
 }
