@@ -9,7 +9,8 @@
   "excerpt": "Macintosh.js is an open-source project that runs Mac OS 8. It emulates a 1991 Macintosh Quadra and runs the full operating system with a few applications.\n",
   "categories": [
     "featured",
-    "operating-systems"
+    "operating-systems",
+    "technology"
   ],
   "tags": [
     "Electron",
@@ -19,6 +20,6 @@
     "Retro computing"
   ],
   "publishedDate": "2024-03-17T11:14:02",
-  "updatedAt": "2024-03-17T11:14:07",
+  "updatedAt": "2026-02-04T17:34:27",
   "wordpressId": 2373
 }
