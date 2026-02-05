@@ -2,6 +2,6 @@ I’ve noticed this trend. Every time I go back to the US, it feels like the tru
 
 The only issue I take with the video is that they are comparing a modern Chevy 2500 HD pickup to a 80s Toyota Pickup. Those vehicles are in different size classes which makes the comparison biased. It would have been better to compare a modern Chevy 2500 HD to an 80s Chevy C-10 3/4 ton or a modern Tacoma with its 80s ancestor. They would have at least stayed in the same size class then.
 
-<figure><div class="wp-block-embed__wrapper"><iframe loading="lazy" title="Why Trucks Keep Getting Bigger" width="500" height="281" src="https://www.youtube.com/embed/I-HqgdJAcLs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div></figure>
+<figure><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/I-HqgdJAcLs?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span></div></figure>
 
 [https://www.youtube.com/watch?v=I-HqgdJAcLs](https://www.youtube.com/watch?v=I-HqgdJAcLs)

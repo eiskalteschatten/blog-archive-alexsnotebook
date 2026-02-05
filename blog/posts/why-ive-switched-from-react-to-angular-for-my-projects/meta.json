@@ -9,7 +9,8 @@
   "excerpt": "For years, my go-to frontend framework was React, but now I prefer using Angular for my projects. This is why.\n",
   "categories": [
     "development",
-    "featured"
+    "featured",
+    "technology"
   ],
   "tags": [
     "Angular",
@@ -18,6 +19,6 @@
     "Web Development"
   ],
   "publishedDate": "2023-10-22T10:54:35",
-  "updatedAt": "2024-10-10T15:54:01",
+  "updatedAt": "2026-02-04T17:38:35",
   "wordpressId": 2984
 }
