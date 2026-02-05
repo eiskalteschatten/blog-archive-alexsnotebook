@@ -8,12 +8,13 @@
   "titleImage": "WordPress-Logo.png",
   "excerpt": "I have been using WordPress to run many of my websites since 2007, but feature bloat has me looking for alternatives.\n",
   "categories": [
-    "development"
+    "development",
+    "technology"
   ],
   "tags": [
     "WordPress"
   ],
   "publishedDate": "2024-04-04T17:52:25",
-  "updatedAt": "2024-05-30T13:35:12",
+  "updatedAt": "2026-02-04T17:38:35",
   "wordpressId": 3395
 }
