@@ -8,7 +8,8 @@
   "titleImage": "Screenshot-2024-09-29-141219.png",
   "excerpt": "There was a time when all websites were multi-page applications, but that has changed. I wanted to know what users and developers think about that and so I asked.\n",
   "categories": [
-    "development"
+    "development",
+    "technology"
   ],
   "tags": [
     "Frontend",
@@ -17,6 +18,6 @@
     "Web Development"
   ],
   "publishedDate": "2024-10-03T09:23:19",
-  "updatedAt": "2024-09-30T14:14:49",
+  "updatedAt": "2026-02-04T17:38:15",
   "wordpressId": 4032
 }
