@@ -8,13 +8,14 @@
   "excerpt": "A couple of days ago whilst working I was trying to figure out how to make a series of DIV tags work like a table. After doing a bit of research online, I stumbled upon the solution. Essentially, you need three layers of DIV tags just as you would need at least three layers of &#8230; more &#x2192;\n",
   "categories": [
     "development",
-    "featured"
+    "featured",
+    "technology"
   ],
   "tags": [
     "CSS",
     "HTML"
   ],
   "publishedDate": "2012-02-02T22:25:00",
-  "updatedAt": "2023-01-08T19:06:15",
+  "updatedAt": "2026-02-04T17:39:28",
   "wordpressId": 157
 }
