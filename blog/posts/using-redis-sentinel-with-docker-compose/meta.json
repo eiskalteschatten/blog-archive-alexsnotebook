@@ -9,7 +9,8 @@
   "excerpt": "This article describes how to create a failover solution using Redis Sentinel and Docker Compose.\n",
   "categories": [
     "development",
-    "featured"
+    "featured",
+    "technology"
   ],
   "tags": [
     "database",
@@ -19,6 +20,6 @@
     "Redis Sentinel"
   ],
   "publishedDate": "2016-11-14T11:34:33",
-  "updatedAt": "2023-01-08T19:30:28",
+  "updatedAt": "2026-02-04T17:39:27",
   "wordpressId": 1277
 }

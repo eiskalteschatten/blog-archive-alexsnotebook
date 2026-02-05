@@ -9,7 +9,8 @@
   "excerpt": "Using Redis Sentinel with Docker and Marathon is a relatively complex procedure that requires every instance of Redis to be able to communicate with all other instances.\n",
   "categories": [
     "development",
-    "featured"
+    "featured",
+    "technology"
   ],
   "tags": [
     "database",
@@ -20,6 +21,6 @@
     "Redis Sentinel"
   ],
   "publishedDate": "2020-07-17T10:08:00",
-  "updatedAt": "2024-03-26T11:27:58",
+  "updatedAt": "2026-02-04T17:38:58",
   "wordpressId": 3362
 }
