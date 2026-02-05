@@ -7,7 +7,8 @@
   ],
   "excerpt": "[digg=http://digg.com/tech_news/ISPs_Injecting_Websites_with_Ads]This kind of infuriates me: &#8220;Last July, a research team from the University of Washington released an online tool to analyze whether web pages were being altered during the transit from web server to user. On Wednesday, the team released a paper at the Usenix conference analyzing the data collected from the tool. The found, &#8230; more &#x2192;\n",
   "categories": [
-    "privacy-tracking"
+    "privacy-tracking",
+    "technology"
   ],
   "tags": [
     "Ads",
@@ -16,6 +17,6 @@
     "Websites"
   ],
   "publishedDate": "2008-04-18T14:00:36",
-  "updatedAt": "2025-09-14T15:16:28",
+  "updatedAt": "2026-02-04T17:35:15",
   "wordpressId": 164
 }
