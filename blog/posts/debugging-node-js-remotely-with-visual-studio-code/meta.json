@@ -9,7 +9,8 @@
   "excerpt": "Visual Studio Code is a tool with many talents. Among those is the ability to not just debug Node.js applications, but also to debug them remotely.\n",
   "categories": [
     "development",
-    "featured"
+    "featured",
+    "technology"
   ],
   "tags": [
     "Microsoft",
@@ -17,6 +18,6 @@
     "Visual Studio Code"
   ],
   "publishedDate": "2020-08-04T09:29:00",
-  "updatedAt": "2024-03-26T11:09:03",
+  "updatedAt": "2026-02-04T17:38:58",
   "wordpressId": 3337
 }
