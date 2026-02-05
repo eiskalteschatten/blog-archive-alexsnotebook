@@ -10,7 +10,8 @@
   "categories": [
     "development",
     "featured",
-    "operating-systems"
+    "operating-systems",
+    "technology"
   ],
   "tags": [
     "Docker",
@@ -22,6 +23,6 @@
     "Windows"
   ],
   "publishedDate": "2016-11-01T10:09:46",
-  "updatedAt": "2025-08-23T15:41:50",
+  "updatedAt": "2026-02-04T17:39:28",
   "wordpressId": 1233
 }
