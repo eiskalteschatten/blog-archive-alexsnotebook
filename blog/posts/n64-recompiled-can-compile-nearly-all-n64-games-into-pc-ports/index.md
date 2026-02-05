@@ -10,7 +10,7 @@ I recently ran into an interesting article on [Tom’s Hardware](https://www.tom
 
 This is the video mentioned in the quote above:
 
-<figure><div class="wp-block-embed__wrapper"><iframe loading="lazy" title="Recompilation: An Incredible New Way to Keep N64 Games Alive" width="500" height="281" src="https://www.youtube.com/embed/ywWwUuWRgsM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div></figure>
+<figure><div class="wp-block-embed__wrapper"><span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/ywWwUuWRgsM?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span></div></figure>
 
 [https://www.youtube.com/watch?v=ywWwUuWRgsM](https://www.youtube.com/watch?v=ywWwUuWRgsM)
 

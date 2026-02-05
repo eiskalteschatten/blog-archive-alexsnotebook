@@ -8,7 +8,8 @@
   "titleImage": "nextjs.jpg",
   "excerpt": "When I first discovered Next.js, I was excited about it, but it has become somewhat of a mess since then. These are my thoughts on it.\n",
   "categories": [
-    "development"
+    "development",
+    "technology"
   ],
   "tags": [
     "Next.js",
@@ -16,6 +17,6 @@
     "React"
   ],
   "publishedDate": "2024-04-11T13:21:10",
-  "updatedAt": "2024-04-12T10:15:34",
+  "updatedAt": "2026-02-04T17:38:35",
   "wordpressId": 3301
 }
