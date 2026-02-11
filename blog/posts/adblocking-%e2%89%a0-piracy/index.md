@@ -1,0 +1,13 @@
+A couple of days ago, I stumbled upon [a blog post by Manuel Moreale about whether adblocking should be considered piracy](https://manuelmoreale.com/thoughts/adblocking-piracy). It’s a topic I’ve thought about before and what Manuel wrote really resonated with me.
+
+> For me, the reason why the two are not the same is very simple. When I pirate something (a game, a TV show, a movie, music, you name it), the original, legal, implied agreement was pretty straightforward: someone created something and put it up for sale, and if you want that something, you have to exchange money in order to get access to said something. There are no ambiguities here, and it’s a fairly simple transaction. That’s how most of society works. There’s a more complex discussion we can have to figure out if piracy = stealing, but that’s a separate discussion, and it’s not relevant here.
+> 
+> With adblocking, on the other hand, the implied agreement is more complex. To start, while browsing the web, I don’t know upfront if the link I’m about to click on has ads or not. So the argument that you shouldn’t use adblockers because you have accepted to be served ads while consuming a specific piece of content is shaky at best in my view. I could see that argument being more valid if ads weren’t displayed straight away, and I was given the option to leave the site before ads were displayed to me, but this is not what’s happening on the web.
+> 
+> Then there’s the issue of what being served an ad means. Do I have to watch the ad? Does it have to be displayed on my screen? If ads are displayed on the sidebar of your website, and I keep that portion of the browser outside my screen on purpose, is that adblocking? I’m literally not allowing the ads on my screen after all. If the ads load and I have a script that, after 100ms, replaces them with pictures of cats, is that ok? If I design an adblocker that grabs all the ads on your page and moves them all to the bottom of the page, and I never reach that portion of the site, is that ok?
+> 
+> The moment your data has reached my computer, I should be free to interact with it however I see fit. And if I decide to strip away most of the junk you sent my way, it’s my right to do so, the same way it was my right to stand up and walk away or change channel when TV ads were running.
+> 
+> [Manuel Moreale](https://manuelmoreale.com/thoughts/adblocking-piracy)
+
+I recommend reading the whole article here: [https://manuelmoreale.com/thoughts/adblocking-piracy](https://manuelmoreale.com/thoughts/adblocking-piracy).
