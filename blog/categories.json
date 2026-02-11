@@ -154,5 +154,11 @@
     "name": "Technology",
     "description": "",
     "wordpressId": 880
+  },
+  {
+    "id": "horror",
+    "name": "Horror",
+    "description": "",
+    "wordpressId": 804
   }
 ]
