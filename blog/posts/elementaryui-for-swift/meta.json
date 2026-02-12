@@ -1,0 +1,23 @@
+{
+  "id": "elementaryui-for-swift",
+  "title": "ElementaryUI for Swift",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Bildschirmfoto-2026-02-03-um-10.32.19.png",
+  "excerpt": "A few days ago, I stumbled upon an interesting new frontend framework for Swift-based web projects called ElementaryUI. It allows developers to code their frontend entirely in Swift.\n",
+  "categories": [
+    "development",
+    "programs-tools",
+    "technology"
+  ],
+  "tags": [
+    "Apple",
+    "Swift",
+    "Web Development"
+  ],
+  "publishedDate": "2026-02-11T17:16:36",
+  "updatedAt": "2026-02-11T17:16:37",
+  "wordpressId": 11674
+}
