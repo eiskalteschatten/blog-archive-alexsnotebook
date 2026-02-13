@@ -1,6 +1,6 @@
 For one of my history classes this semester, I am going to be doing a semi-lengthy paper on Reinhard Gehlen. This class is a historical methods class, however the focus of the class is the history of espionage. I was assigned the topic of Reinhard Gehlen because I can read German primary sources without the need to translate.
 
-[![Reinhard Gehlen in 1945](https://i0.wp.com/www.undesregnet.com/wp-content/uploads/2009/02/reinhard_gehlen_1945-300x237.jpg?resize=300%2C237 "Reinhard Gehlen")](http://www.undesregnet.com/2009/02/01/history-of-espionage-reinhard-gehlen/reinhard_gehlen_1945/)
+[![](b042549c4a683a883a04536ea77b8b41_image_document_large_featured_borderless.jpg)](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2009/02/b042549c4a683a883a04536ea77b8b41_image_document_large_featured_borderless.jpg?ssl=1)
 
 Reinhard Gehlen in 1945
 
