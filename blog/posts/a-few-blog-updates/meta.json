@@ -1,0 +1,20 @@
+{
+  "id": "a-few-blog-updates",
+  "title": "A Few Blog Updates",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "computers-ghosts-cowboys.png",
+  "excerpt": "Between all the other things I&#8217;ve had to do in real life, I&#8217;ve been making a few changes to this blog and I thought it would be good to write about them.\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "Blog"
+  ],
+  "publishedDate": "2026-02-12T17:01:47",
+  "updatedAt": "2026-02-12T17:02:10",
+  "wordpressId": 11728
+}
