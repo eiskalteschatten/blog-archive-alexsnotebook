@@ -160,5 +160,17 @@
     "name": "Horror",
     "description": "",
     "wordpressId": 804
+  },
+  {
+    "id": "ghosts",
+    "name": "Ghosts",
+    "description": "",
+    "wordpressId": 889
+  },
+  {
+    "id": "the-horror-genre",
+    "name": "The Horror Genre",
+    "description": "",
+    "wordpressId": 890
   }
 ]
