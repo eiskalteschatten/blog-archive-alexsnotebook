@@ -1,6 +1,6 @@
 <figure><img loading="lazy" decoding="async" src="img_6327.jpg" alt="Gallows Hill by Darcy Coates"><figcaption>Gallows Hill by Darcy Coates</figcaption></figure>
 
-If there is one modern author of ghost stories I would never hesitate to recommend, it is [Darcy Coates](https://blog.alexseifert.com/story-authors/darcy-coates/). Over the past few years, I have read many of her books and have yet to be disappointed even once — *Gallows Hill* is no exception. It is a haunting tale of multi-generational injustice and intrafamilial strife told with a healthy dose of tension that keeps you turning the pages.
+If there is one modern author of ghost stories I would never hesitate to recommend, it is [Darcy Coates](https://blog.alexseifert.com/tag/darcy-coates/). Over the past few years, I have read many of her books and have yet to be disappointed even once — *Gallows Hill* is no exception. It is a haunting tale of multi-generational injustice and intrafamilial strife told with a healthy dose of tension that keeps you turning the pages.
 
 Here is the description of the book from [Goodreads](https://www.goodreads.com/book/show/59746719-gallows-hill):
 
