@@ -1,4 +1,4 @@
-[![Safari](safari-logo-1.png "Safari")](http://blog.alexseifert.com/2009/06/09/safari-4/safari-logo/)
+[![Safari](safari-logo-1.png "Safari")](https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2009/06/safari-logo-1.png?ssl=1)
 
 Safari
 
