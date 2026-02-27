@@ -12,7 +12,8 @@
     "news",
     "programs-tools",
     "projects",
-    "technology"
+    "technology",
+    "haunted-house-software"
   ],
   "tags": [
     "Apple",
@@ -22,6 +23,6 @@
     "SwiftUI"
   ],
   "publishedDate": "2026-02-20T16:06:55",
-  "updatedAt": "2026-02-20T16:06:58",
+  "updatedAt": "2026-02-26T09:09:57",
   "wordpressId": 11847
 }
