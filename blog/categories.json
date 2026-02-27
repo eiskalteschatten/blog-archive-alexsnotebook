@@ -172,5 +172,11 @@
     "name": "The Horror Genre",
     "description": "",
     "wordpressId": 890
+  },
+  {
+    "id": "haunted-house-software",
+    "name": "Haunted House Software",
+    "description": "",
+    "wordpressId": 914
   }
 ]
