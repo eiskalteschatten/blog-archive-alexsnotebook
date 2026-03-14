@@ -1,0 +1,7 @@
+<figure><img loading="lazy" decoding="async" src="Gemini_Generated_Image_hwm3hihwm3hihwm3.png" alt="AI-generated image of a server maliciously laughing at a server admin"><figcaption>AI-generated image of a server maliciously laughing at a server admin</figcaption></figure>
+
+As some of you may have noticed, my websites keep going down and are not reachable for hours at a time. I’ve been having some stability issues with my server and, of course, it always happens over night German time which is why it takes me hours to get to it. I only see it when I get up in the morning.
+
+Ubuntu has been killing the Apache and MariaDB services due to out-of-memory issues despite my monitoring reporting RAM usage only reaching 20% of the server’s full capacity. However, I have discovered that there is a massive spike in traffic during that time and I suspect it’s due to bots. I still need to confirm my theory though.
+
+In the meantime, I’ve reconfigured the Apache and MariaDB services to automatically restart when they die. That should at least solve the immediate problem of my websites being unreachable for hours at a time. I could have sworn that I’d already set them to automatically restart, but apparently not. Oh well.
