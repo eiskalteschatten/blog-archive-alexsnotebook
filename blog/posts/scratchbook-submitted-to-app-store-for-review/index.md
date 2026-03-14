@@ -26,7 +26,7 @@ In my opinion, the most tedious part was preparing the images and the text for t
 
 And, of course, here are the images:
 
-<figure><a href="https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2026/03/Full-Screenshot.jpg?ssl=1"><img loading="lazy" decoding="async" src="Full-Screenshot.jpg" alt="ScratchBook screenshot"></a><figcaption>ScratchBook screenshot</figcaption></figure>
+<figure><a href="https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2026/03/Full-Screenshot.jpg?ssl=1"><img decoding="async" src="Full-Screenshot-1024x640.jpg" alt="ScratchBook screenshot"></a><figcaption>ScratchBook screenshot</figcaption></figure>
 
 <figure><a href="https://i0.wp.com/blog.alexseifert.com/wp-content/uploads/2026/03/Toolbar.jpg?ssl=1"><img loading="lazy" decoding="async" src="Toolbar.jpg" alt="ScratchBook toolbar screenshot"></a><figcaption>ScratchBook toolbar screenshot</figcaption></figure>
 

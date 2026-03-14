@@ -1,4 +1,4 @@
-<figure><img loading="lazy" decoding="async" src="Full-Screenshot.jpg" alt="ScratchBook screenshot"><figcaption>ScratchBook screenshot</figcaption></figure>
+<figure><img loading="lazy" decoding="async" src="Full-Screenshot-1.jpg" alt="ScratchBook screenshot"><figcaption>ScratchBook screenshot</figcaption></figure>
 
 I’m excited to announce that ScratchBook is now available as a free download on the Mac App Store!
 
