@@ -1,0 +1,25 @@
+{
+  "id": "examples-of-server-side-swift-in-the-wild",
+  "title": "Examples of Server-Side Swift in the Wild",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "new-backend-overview.png",
+  "excerpt": "Ever since I experimented with the Swift server-side framework Vapor last year, I&#8217;ve been interested in actually seeing it in the wild. Here are a couple of examples.\n",
+  "categories": [
+    "development",
+    "notes",
+    "programs-tools",
+    "technology"
+  ],
+  "tags": [
+    "Apple",
+    "Swift",
+    "Vapor",
+    "Web Development"
+  ],
+  "publishedDate": "2026-04-04T10:38:41",
+  "updatedAt": "2026-04-04T10:39:35",
+  "wordpressId": 12133
+}
