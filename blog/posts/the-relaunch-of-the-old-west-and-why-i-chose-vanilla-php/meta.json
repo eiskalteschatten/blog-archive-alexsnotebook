@@ -1,0 +1,25 @@
+{
+  "id": "the-relaunch-of-the-old-west-and-why-i-chose-vanilla-php",
+  "title": "The Relaunch of The Old West and Why I Chose Vanilla PHP",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Screenshot-2026-06-02-at-09.38.11-scaled.png",
+  "excerpt": "I rewrote my project, The Old West, using vanilla PHP despite it not being glamorous. This is why. \n",
+  "categories": [
+    "development",
+    "projects",
+    "technology"
+  ],
+  "tags": [
+    "Next.js",
+    "PHP",
+    "React",
+    "The Old West",
+    "Web Development"
+  ],
+  "publishedDate": "2026-06-02T10:26:38",
+  "updatedAt": "2026-06-02T10:28:47",
+  "wordpressId": 12337
+}
