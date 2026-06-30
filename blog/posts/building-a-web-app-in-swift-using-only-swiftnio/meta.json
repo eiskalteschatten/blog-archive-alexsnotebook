@@ -1,0 +1,24 @@
+{
+  "id": "building-a-web-app-in-swift-using-only-swiftnio",
+  "title": "Building a Web App in Swift Using Only SwiftNIO",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Gemini_Generated_Image_unxjd1unxjd1unxj.png",
+  "excerpt": "I’ve been experimenting a lot with Swift for web applications using frameworks like Vapor, but I got curious as to how I could create a low-level, framework-less web application using only SwiftNIO. This is the result.\n",
+  "categories": [
+    "development",
+    "featured",
+    "projects",
+    "technology"
+  ],
+  "tags": [
+    "Apple",
+    "Swift",
+    "Web Development"
+  ],
+  "publishedDate": "2026-06-29T14:18:27",
+  "updatedAt": "2026-06-29T14:18:29",
+  "wordpressId": 12418
+}
