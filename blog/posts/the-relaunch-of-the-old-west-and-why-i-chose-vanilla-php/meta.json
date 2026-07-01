@@ -9,6 +9,7 @@
   "excerpt": "I rewrote my project, The Old West, using vanilla PHP despite it not being glamorous. This is why. \n",
   "categories": [
     "development",
+    "history",
     "projects",
     "technology"
   ],
@@ -20,6 +21,6 @@
     "Web Development"
   ],
   "publishedDate": "2026-06-02T10:26:38",
-  "updatedAt": "2026-06-04T13:59:45",
+  "updatedAt": "2026-06-30T13:47:57",
   "wordpressId": 12337
 }
