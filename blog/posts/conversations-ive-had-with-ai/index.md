@@ -1,0 +1,15 @@
+<figure><img loading="lazy" decoding="async" src="img_7371.png" alt="AI-generated image of a man talking to a robot over tea"><figcaption>AI-generated image of a man talking to a robot over tea</figcaption></figure>
+
+Lately, I’ve been having a lot of very interesting conversations with LLMs about a wide range of topics. However, most of them have pertained to technical topics and I thought it would be interesting to post some of them on my blog. I figure there are probably plenty of other people who might be interested in the questions I ask and what AI has to say about it, so why not post them? If nothing else, then at least it’s a way of preserving them for my future self.
+
+Most of my recent discussions have been about the pros and cons of various frameworks and programming languages for specific use cases. I’ve also asked about how best to architect specific scenarios such as the massively complex single-page frontend applications used by AWS, Google Cloud Platform and Microsoft Azure. I’ve thoroughly enjoyed the conversations as they’ve been extremely informative and thought-provoking, even if I wouldn’t always necessarily take its advice verbatim.
+
+Most of these conversations I’ve had have been with Gemini as I’ve found it to give me the most thought-provoking answers. I’ve also had a few with GitHub Copilot using the Claude Sonnet and Codex models, but due to the recent extreme increase in price, I’ve started saving my tokens for actual programming tasks rather than casual conversations.
+
+One of the aspects I enjoy most about these talks with AI is that I find the occasional gem that really helps me out. For example, a couple of days ago, I was discussing the longevity of PHP projects in a classic LAMP stack and mentioned that I was using Apache with mod\_php — something I’ve done for nearly three decades. It suggested switching to php-fpm instead in order to boost my websites’ speed. Of course I’d heard of php-fpm, but had never actually used it personally. Changing my server config was a simple task that actually tangibly boosted the speed of all the websites I host on it, including this blog. It was a simple thing I wouldn’t have thought of that had a major impact.
+
+In any case though, I’m going to go through some of my recent conversations and copy them into posts on this blog. I’ll start with an introduction to explain a little bit of the background of each conversation and conclude them with my thoughts about it and whether it led to any direct action on my part either at work or in my personal projects. I may edit out parts of the discussions that aren’t strictly relevant as I tend to go off on tangents before eventually telling AI to get back to the original question, but I’ll try to keep them as close to the original conversation as possible.
+
+I hope you’ll enjoy them as much as I have and that maybe they’ll even prove inspirational.
+
+*Just a side note about my blogs: Other than some images (like the one above), I don’t post any AI-generated content that isn’t explicitly marked as such. Blogging is a passion of mine and I feel no need to fluff my post count with articles not written by me.*
