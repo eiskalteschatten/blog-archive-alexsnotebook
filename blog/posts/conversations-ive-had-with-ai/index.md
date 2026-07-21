@@ -12,4 +12,4 @@ In any case though, I’m going to go through some of my recent conversations an
 
 I hope you’ll enjoy them as much as I have and that maybe they’ll even prove inspirational.
 
-*Just a side note about my blogs: Other than some images (like the one above), I don’t post any AI-generated content that isn’t explicitly marked as such. Blogging is a passion of mine and I feel no need to fluff my post count with articles not written by me.*
+*Just a side note about my blogs: Other than some images (like the one above), I don’t post any AI-generated content that isn’t explicitly marked as such. Blogging is a passion of mine and I feel no need to fluff my post count with articles not written by me. You can read more about how I use AI on the [AI page](/ai).*
