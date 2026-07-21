@@ -1,0 +1,21 @@
+{
+  "id": "a-few-new-pages",
+  "title": "A Few New Pages",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Screenshot-2026-07-20-at-22.22.11.png",
+  "excerpt": "Not too long ago, I ran into an idea that is gaining traction in the blog/personal website space called slash pages. I decided to create a few of them myself.\n",
+  "categories": [
+    "news",
+    "projects"
+  ],
+  "tags": [
+    "Blog",
+    "IndieWeb"
+  ],
+  "publishedDate": "2026-07-20T22:37:34",
+  "updatedAt": "2026-07-20T22:37:34",
+  "wordpressId": 12585
+}
