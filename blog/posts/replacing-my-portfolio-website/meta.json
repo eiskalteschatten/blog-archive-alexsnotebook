@@ -1,0 +1,27 @@
+{
+  "id": "replacing-my-portfolio-website",
+  "title": "Replacing My Portfolio Website",
+  "status": "published",
+  "authors": [
+    "admin"
+  ],
+  "titleImage": "Screenshot-2026-09-12-at-12.02.55.png",
+  "excerpt": "For the past few months, I’ve been on a quest to replace my portfolio website. I’ve already begun the programming process which, while it’s been fun, has also been plagued by indecision.\n",
+  "categories": [
+    "development",
+    "projects",
+    "technology"
+  ],
+  "tags": [
+    "design",
+    "IndieWeb",
+    "PHP",
+    "smolweb",
+    "Web Design",
+    "Web Development",
+    "WordPress"
+  ],
+  "publishedDate": "2026-09-13T13:59:48",
+  "updatedAt": "2026-09-13T13:59:48",
+  "wordpressId": 12748
+}
